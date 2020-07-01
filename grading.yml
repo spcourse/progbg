@@ -1,0 +1,67 @@
+1: &passfail
+    type: pass
+
+grades:
+    numbers:
+        type: float
+        subgrades:
+            points: integer
+            score: integer
+        automatic:
+            points: correctness_score
+        calculation: points >= 9 && score || 0
+        hide_calculated: true
+    text:
+        type: float
+        subgrades:
+            points: integer
+            score: integer
+        automatic:
+            points: correctness_score
+        calculation: points >= 9 && score || 0
+        hide_calculated: true
+    weather:
+        type: float
+        subgrades:
+            points: integer
+            score: integer
+        automatic:
+            points: correctness_score
+        calculation: points >= 9 && score || 0
+        hide_calculated: true
+    tentamen:
+        type: pass
+        subgrades:
+            points: integer
+        calculation: points >= 4 && -1 || 0
+        is_test: true
+    hertentamen:
+        type: pass
+        subgrades:
+            points: integer
+        calculation: points >= 4 && -1 || 0
+        is_test: true
+
+calculation:
+    eindcijfer:
+        tentamen: 0
+        mods: 1
+    herkansing:
+        hertentamen: 0
+        mods: 1
+
+mods:
+    submits:
+        numbers: 1
+        text: 1
+        weather: 1
+
+tentamen:
+    required: true
+    submits:
+        tentamen: 1
+
+hertentamen:
+    required: true
+    submits:
+        hertentamen: 1
