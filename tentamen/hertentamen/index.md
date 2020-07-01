@@ -1,0 +1,27 @@
+# Tentamen Inleiding Programmeren
+
+### Opzet
+
+Dit tentamen bestaat in totaal uit vier programmeeropdrachten. Je hebt hier in totaal 3 uur voor. Je gaat
+het tentamen maken in een Sandbox-omgeving. Dit is een eenvoudigere variant van de IDE waarin je tot nu toe
+hebt geprogrammeerd. De bedoeling is dat je alle uitwerkingen in één bestand zet: `tentamen.py`. Deze is al
+geopend in de editor van de Sandbox.
+
+Ja mag alleen de de cursuswebsite (progbg.mprog.nl) als informatiebron raadplegen. Tijdens dit tentamen
+mag je aleen de Sandbox omgeving en de cursuswebsite op je laptop open hebben staan. **Sluit
+alle andere programma's en websites!**
+
+Je kan voor dit dit tentamen geen assistentie krijgen. Je moet alles echt zelf doen. Je kan natuurlijk wel om
+opheldering vragen als een van de opdrachten niet duidelijk is.
+
+### Sandbox
+
+Open de Sandbox voor dit tentamen hier: [Sandbox hertentamen Inleiding Programmeren](http://bit.ly/2H9GA7R)
+
+### Inleveren
+
+Hieronder kan je het tentamen inleveren.
+
+- Voor het inleveren verzeker je ervan dat alles echt werkt.
+
+- **Ga naar de surveillant voor het submitten van de opdracht.** Hij/zij moet meekijken bij het inleveren zodat je kan worden afgetekend.

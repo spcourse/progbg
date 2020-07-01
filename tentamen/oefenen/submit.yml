@@ -1,0 +1,4 @@
+name: oefententamen
+files:
+    required:
+        - tentamen.py
