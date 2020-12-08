@@ -29,10 +29,14 @@ Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de r
 Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de manier waarop we lesgeven en examineren. De practica en werk-/hoorcolleges zullen gegeven in de vorm van collectieve zoom-sessies. Je kan in het rooster hieronder de zoom-sessie voor jouw groep vinden. Daarnaast is er een Ed-forum waarop je vragen kan stellen.
 
 | week | ma                                                          | di | wo | do | vr |
-|------|-------------------------------------------------------------|------------------------------------------------------------|--|-------------------------------------------------------------|--|
-| 1    | 11-13, hoorcollege, <zoom-link>                             | 9-13, practicum <groep A>, <groep B>, <groep C>, <groep D> |  | 9-13, practicum <groep A>, <groep B>, <groep C>, <groep D> |  |
-|      | 13-17, practicum <groep A>, <groep B>, <groep C>, <groep D> |                                                            |  |                                          |  |
-|------|-------------------------------------------------------------|------------------------------------------------------------|--|-------------------------------------------------------------|--|
+|------|----------------------------|-------------------|--|-------------------|--|
+| 1    | 11-13, hoorcollege, [zoom] | 9-13, practicum   |  | 9-13, practicum   |  |
+|      | 13-17, practicum           |    groep A [zoom] |  |    groep A [zoom] |  |
+|      |    groep A [zoom]          |    groep B [zoom] |  |    groep B [zoom] |  |
+|      |    groep C [zoom]          |    groep D [zoom] |  |    groep D [zoom] |  |
+|      |    groep B [zoom]          |    groep C [zoom] |  |    groep C [zoom] |  |
+|      |    groep D [zoom]          |                   |  |                   |  |
+|------|----------------------------|-------------------|--|-------------------|--|
 
 
 ## Verwachtingen
