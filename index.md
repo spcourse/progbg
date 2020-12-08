@@ -26,18 +26,46 @@ Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de r
 
 ## Covid-19
 
-Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de manier waarop we lesgeven en examineren. De practica en werk-/hoorcolleges zullen gegeven in de vorm van collectieve zoom-sessies. Je kan in het rooster hieronder de zoom-sessie voor jouw groep vinden. Daarnaast is er een Ed-forum waarop je vragen kan stellen.
+Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de manier waarop we lesgeven en examineren. De practica en hoor/werkcolleges zullen gegeven in de vorm van collectieve zoom-sessies. Daarnaast is er een online forum waarop je vragen kan stellen.
 
-| week | ma                                                          | di | wo | do | vr |
-|------|----------------------------|-------------------|--|-------------------|--|
-| 1    | 11-13, hoorcollege, [zoom] | 9-13, practicum   |  | 9-13, practicum   |  |
-|      | 13-17, practicum           |    groep A [zoom] |  |    groep A [zoom] |  |
-|      |    groep A [zoom]          |    groep B [zoom] |  |    groep B [zoom] |  |
-|      |    groep C [zoom]          |    groep D [zoom] |  |    groep D [zoom] |  |
-|      |    groep B [zoom]          |    groep C [zoom] |  |    groep C [zoom] |  |
-|      |    groep D [zoom]          |                   |  |                   |  |
-|------|----------------------------|-------------------|--|-------------------|--|
+### Forum
 
+De belangrijkste plek waar je vragen kan stellen over de programmeeropdrachten is Ed: [link]<https://us.edstem.org/courses/3067/>. Hiervoor ontvang je aan het begin van de cursus een uitnodiging. De vragen zullen beantwoord worden door je medestudenten en door de assistenten. Je kan natuurlijk ook zelf vragen van andere studenten beantwoorden hier!
+
+### Online colleges
+
+In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor-/werkcolleges. Voorde practica is belangrijk dat je de zoom-link gebruikt voor jouw groep (A, B, C of D).
+
+<table>
+    <hr><td>week</td><td>ma</td><td>di</td><td>wo </td><td>do </td><td>vr </td></hr>
+    <tr>
+        <td>1</td>
+        <td>
+            11-13, hoorcollege, [zoom]
+            13-17, practicum
+            groep A [zoom]
+            groep B [zoom]
+            groep C [zoom]  
+            groep D [zoom]
+        </td>
+        <td>
+            9-13, practicum
+            groep A [zoom]
+            groep B [zoom]
+            groep C [zoom]  
+            groep D [zoom]
+        </td>
+        <td>/td>
+        <td>
+            9-13, practicum
+            groep A [zoom]
+            groep B [zoom]
+            groep C [zoom]  
+            groep D [zoom]
+        </td>
+        <td></td>
+    </tr>
+</table>
 
 ## Verwachtingen
 
