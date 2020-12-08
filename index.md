@@ -8,13 +8,32 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Docenten en assistenten
 
-Simon Pauw (docent)  
-Marleen Rijksen (co-docent)  
-Martijn Stegeman (coördinator)  
+Simon Pauw (docent, coördinator)
+Martijn Stegeman (docent, examinator)  
+
+Coen van den Elsen
+Danny van den Berg
+Iris Luden
+Kiki van Rongen
+Pepijn de Reus
+Ruben de Klerk
+Tamara Stoof
+Tim Lenters
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
 Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **docenten** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
+
+## Covid-19
+
+Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de manier waarop we lesgeven en examineren. De practica en werk-/hoorcolleges zullen gegeven in de vorm van collectieve zoom-sessies. Je kan in het rooster hieronder de zoom-sessie voor jouw groep vinden. Daarnaast is er een Ed-forum waarop je vragen kan stellen.
+
+| week | ma                                                          | di | wo | do | vr |
+|------|-------------------------------------------------------------|------------------------------------------------------------|--|-------------------------------------------------------------|--|
+| 1    | 11-13, hoorcollege, <zoom-link>                             | 9-13, practicum <groep A>, <groep B>, <groep C>, <groep D> |  | 9-13, practicum <groep A>, <groep B>, <groep C>, <groep D> |  |
+|      | 13-17, practicum <groep A>, <groep B>, <groep C>, <groep D> |                                                            |  |                                          |  |
+|------|-------------------------------------------------------------|------------------------------------------------------------|--|-------------------------------------------------------------|--|
+
 
 ## Verwachtingen
 
@@ -37,19 +56,21 @@ Wat willen we dat je kunt aan het einde van deze cursus?
 
 Het eindcijfer is samengesteld uit de resultaten van de opdrachten en dat van het tentamen.
 
-| onderdeel | beoordeling         | gewicht |  
-| --------- | ------------------- | ------: |
-| module 1  | kwaliteit           |     33% |  
-| module 2  | kwaliteit           |     33% |  
-| module 3  | kwaliteit           |     33% |  
-| tentamen  | correcte uitwerking |      0% |  
+| onderdeel | beoordeling          | gewicht |  
+| --------- | -------------------- | ------: |
+| module 1  | kwaliteit            |     33% |  
+| module 2  | kwaliteit            |     33% |  
+| module 3  | kwaliteit            |     33% |  
+| tentamen  | voldoende uitwerking |      0% |  
 
 Je krijgt een eindcijfer voor dit vak als je:
 
 * elke module op tijd en naar verwachting hebt ingeleverd;
 * het tentamen voldoende hebt gemaakt.
 
-Heb je een opdracht niet zichtbaar geprobeerd, of was je niet bij het tentamen, dan krijg je een NA (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
+Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NA (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
+
+Het tentamen bestaat dit jaar uit een *screen-cast*. Dit is een filmpje van *5 minuten* waarin je een deel van de code die je zelf geschreven hebt bespreekt en uitlegt. Je haalt het tentamen als de uitleg voldoende inzicht toont. Als dit niet zo is, kan je dit tentamen herkansen in de vorm van een mondeling tentamen. Deze herkansing vindt plaats in week 7.
 
 ## Activiteiten
 
@@ -57,10 +78,10 @@ Er zijn drie modules waarvan de tweede de grootste is. Vanaf de eerste dag van d
 
 | onderdeel | deadline                      |  
 | --------- | ----------------------------- |
-| module 1  | dinsdag 14 januari 17:59      |  
-| module 2  | dinsdag 21 januari 17:59      |  
-| module 3  | dinsdag 28 januari 17:59      |  
-| tentamen  | vrijdag 31 januari 13--17 uur |  
+| module 1  | dinsdag 12 januari 17:59      |  
+| module 2  | dinsdag 19 januari 17:59      |  
+| module 3  | dinsdag 26 januari 17:59      |  
+| tentamen  | vrijdag 31 januari 17:00 uur  |  
 
 Het is geen probleem als de modules een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
 
