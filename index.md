@@ -36,7 +36,7 @@ De belangrijkste plek waar je vragen kan stellen over de programmeeropdrachten i
 
 In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor-/werkcolleges. Voorde practica is belangrijk dat je de zoom-link gebruikt voor jouw groep (A, B, C of D).
 
-<table>
+<!-- <table>
     <hr><td>week</td><td>ma</td><td>di</td><td>wo </td><td>do </td><td>vr </td></hr>
     <tr>
         <td>1</td>
@@ -65,7 +65,7 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
         </td>
         <td></td>
     </tr>
-</table>
+</table> -->
 
 ## Verwachtingen
 
