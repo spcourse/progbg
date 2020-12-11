@@ -30,11 +30,11 @@ Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de mani
 
 ### Forum
 
-De belangrijkste plek waar je vragen kan stellen over de programmeeropdrachten is Ed: [link]<https://us.edstem.org/courses/3067/>. Hiervoor ontvang je aan het begin van de cursus een uitnodiging. De vragen zullen beantwoord worden door je medestudenten en door de assistenten. Je kan natuurlijk ook zelf vragen van andere studenten beantwoorden hier!
+De belangrijkste plek waar je vragen kan stellen over de programmeeropdrachten is Ed: [link](https://us.edstem.org/courses/3067/). Hiervoor ontvang je aan het begin van de cursus een uitnodiging. De vragen zullen beantwoord worden door je medestudenten en door de assistenten. Je kan natuurlijk ook zelf vragen van andere studenten beantwoorden hier!
 
 ### Online colleges
 
-In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor-/werkcolleges. Voorde practica is belangrijk dat je de zoom-link gebruikt voor jouw groep (A, B, C of D).
+In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor-/werkcolleges. Voor de practica is belangrijk dat je de zoom-link gebruikt voor jouw groep (A, B, C of D).
 
 <!-- <table>
     <hr><td>week</td><td>ma</td><td>di</td><td>wo </td><td>do </td><td>vr </td></hr>
