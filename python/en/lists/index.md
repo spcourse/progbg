@@ -2,6 +2,10 @@
 
 A list in Python is a useful way of grouping data so they can be interacted with as a whole. This way calculations can be performed on the entire collection in one go instead of each number individually.
 
+In Dutch:
+
+![embed](https://player.vimeo.com/video/287247201)
+
 ## Reference
 
 The following code creates a new list called `staff` filled with strings (names):
