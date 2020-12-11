@@ -1,17 +1,18 @@
 Module 1 - Getaltheorie:
-    ".":
-        - numbers
-        - plotting
-    Submit:
-        Submit your solutions: /submit/numbers
+  ".":
+    - numbers
+    - plotting
+  Submit:
+    Submit your solutions: /submit/numbers
 
 Module 2 - Tekstanalyse:
-    ".":
-        - text
-    Submit:
-        Submit your solutions: /submit/text
+  ".":
+    - text
+  Submit:
+    Submit your solutions: /submit/text
 
 Module 3 - Big Data:
+  ".":
     - bigdata-en
-    Submit:
-        Submit your solutions: /submit/bigdata
+  Submit:
+    Submit your solutions: /submit/bigdata
