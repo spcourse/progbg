@@ -2,41 +2,42 @@ grades:
     numbers:
         type: float
         subgrades:
-            points: integer
+            checkpy: integer
             score: integer
         automatic:
-            points: correctness_score
+            checkpy: correctness_score
         calculation: points / 22.0 * 3 + 1 + score
         hide_calculated: true
     text:
         type: float
         subgrades:
-            points: integer
+            checkpy: integer
+            tweets: boolean
             score: integer
         automatic:
-            points: correctness_score
+            checkpy: correctness_score
         calculation: (points + tweets * -1) / 14.0 * 3 + 1 + score
         hide_calculated: true
     bigdata-en:
         type: float
         subgrades:
-            points: integer
+            checkpy: integer
             score: integer
         automatic:
-            points: correctness_score
+            checkpy: correctness_score
         calculation: points / 10.0 * 3 + 1 + score
         hide_calculated: true
     tentamen:
         type: pass
         subgrades:
-            points: integer
-        calculation: points >= 4 && -1 || 0
+            passed: boolean
+        calculation: passed
         is_test: true
     hertentamen:
         type: pass
         subgrades:
-            points: integer
-        calculation: points >= 4 && -1 || 0
+            passed: boolean
+        calculation: passed
         is_test: true
 
 calculation:
