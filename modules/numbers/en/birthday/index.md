@@ -25,7 +25,7 @@ Example 3:
 
 * Print the $$k$$'th leap year starting from 2000 (so 2000 is the 0th, and 2004 is the 1st year).
 
-## Constraints
+### Constraints
 Python has a lot of built-in tricks to make your life as a programmer easier. But, before you start
 using those tricks it is important to be fully comfortable with the basics. So for this
 exercise there are some constraints on what you're allowed to use.

@@ -10,27 +10,27 @@ in almost *any* programming language, not just python.
 With combining the concepts below in the right way you can in theory write *any* program.
 In fact you even don't need all of them. In theory only a small subset would suffice.
 
-## Operators
+#### Operators
 
-- `+`, `-`, `*`, `/`, `//`, `%`, `**`: [here](/python/en/basics#operators)
-- `=`: [here](/python/en/basics#variables)
-- `==`, `!=`, `<`, `>`, `<=`, `>=`: [here](/python/en/algorithms#more-operators)
-- `not`, `and`, `or`: [here](/python/en/algorithms#combining-conditions)
+- `+`, `-`, `*`, `/`, `//`, `%`, `**`: [more](/python/en/basics#operators)
+- `=`: [more](/python/en/basics#variables)
+- `==`, `!=`, `<`, `>`, `<=`, `>=`: [more](/python/en/algorithms#more-operators)
+- `not`, `and`, `or`: [more](/python/en/algorithms#combining-conditions)
 
-## Datatypes
+#### Datatypes
 
-- `string`: [here](/python/en/basics#printing) and [here](/python/en/basics#types)
-- `int`, `float`: [here](/python/en/basics#types)
+- `string`: [more](/python/en/basics#printing) and [more](/python/en/basics#types)
+- `int`, `float`: [more](/python/en/basics#types)
 
-## input/output:
+#### input/output:
 
-- `print`: [here](/python/en/basics#printing)
-- `input`: [here](/python/en/basics#user-input)
+- `print`: [more](/python/en/basics#printing)
+- `input`: [more](/python/en/basics#user-input)
 
-## Algorithmic
+#### Algorithmic
 
-- `if`, `elif`, `else`: [here](/python/en/algorithms#conditional-instructions)
-- `for`, `while`: [here](/python/en/loops#types-of-loops)
+- `if`, `elif`, `else`: [more](/python/en/algorithms#conditional-instructions)
+- `for`, `while`: [more](/python/en/loops#types-of-loops)
 
-## Functions
-- `def`, `return`: [here](python/en/functions)
+#### Functions
+- `def`, `return`: [more](python/en/functions)
