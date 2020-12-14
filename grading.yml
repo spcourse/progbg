@@ -1,6 +1,3 @@
-1: &passfail
-    type: pass
-
 grades:
     numbers:
         type: float
@@ -9,7 +6,7 @@ grades:
             score: integer
         automatic:
             points: correctness_score
-        calculation: points >= 9 && score || 0
+        calculation: points / 22.0 * 3 + 1 + score
         hide_calculated: true
     text:
         type: float
@@ -18,16 +15,16 @@ grades:
             score: integer
         automatic:
             points: correctness_score
-        calculation: points >= 9 && score || 0
+        calculation: (points + tweets * -1) / 14.0 * 3 + 1 + score
         hide_calculated: true
-    weather:
+    bigdata-en:
         type: float
         subgrades:
             points: integer
             score: integer
         automatic:
             points: correctness_score
-        calculation: points >= 9 && score || 0
+        calculation: points / 10.0 * 3 + 1 + score
         hide_calculated: true
     tentamen:
         type: pass
@@ -54,7 +51,7 @@ mods:
     submits:
         numbers: 1
         text: 1
-        weather: 1
+        bigdata-en: 1
 
 tentamen:
     required: true
