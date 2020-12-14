@@ -31,7 +31,7 @@ using those tricks it is important to be fully comfortable with the basics. So f
 exercise there are some constraints on what you're allowed to use.
 
 * You are only allowed to use the concepts that are discussed in this module.
-For an overview of those concepts have a look [here](/python/en/basics).
+For an overview of those concepts have a look [here](/python/en/overview).
 * You are *not* allowed to use the `break`-statement. (This hasn't been discussed yet,
 but if you happen to know it, don't use it.)
 * You are *not* allowed to use the `import`-statement. (This hasn't been discussed yet either.)
