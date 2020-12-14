@@ -6,7 +6,7 @@ grades:
             score: integer
         automatic:
             checkpy: correctness_score
-        calculation: points / 22.0 * 3 + 1 + score
+        calculation: checkpy / 22.0 * 3 + 1 + score
         hide_calculated: false
     text:
         type: float
@@ -16,7 +16,7 @@ grades:
             score: integer
         automatic:
             checkpy: correctness_score
-        calculation: (points + tweets * -1) / 14.0 * 3 + 1 + score
+        calculation: (checkpy + tweets * -1) / 14.0 * 3 + 1 + score
         hide_calculated: false
     bigdata-en:
         type: float
@@ -25,7 +25,7 @@ grades:
             score: integer
         automatic:
             checkpy: correctness_score
-        calculation: points / 10.0 * 3 + 1 + score
+        calculation: checkpy / 10.0 * 3 + 1 + score
         hide_calculated: false
     tentamen:
         type: pass
