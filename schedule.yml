@@ -1,11 +1,15 @@
-Module 1 - Getaltheorie:
+Welcome:
+  Read the syllabus to get started: /syllabus
+  Install python: /python/en/installing
+
+Module 1 - Number Theory:
   ".":
     - numbers
     - plotting
   Submit:
     Submit your solutions: /submit/numbers
 
-Module 2 - Tekstanalyse:
+Module 2 - Text Analysis:
   ".":
     - text
   Submit:
