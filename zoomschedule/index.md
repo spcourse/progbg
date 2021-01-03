@@ -47,7 +47,7 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
 ### Week 4
 
 |---------------------------|-------------------|-------------------|------------------|
-| maandag 11 jan            | dinsdag 12 jan    | woensdag 13 jan   | donderdag 14 jan |
+| maandag 25 jan            | dinsdag 26 jan    | woensdag 27 jan   | donderdag 28 jan |
 |---------------------------|-------------------|-------------------|------------------|
 | 11-13, hoorcollege        | 9-13, practicum   |                   |                  |
 | - groep A,B,C,D [zoom]    | - groep A [zoom]  |                   |                  |

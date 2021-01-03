@@ -14,6 +14,14 @@ Write a program that shows the following graph.
 
 * Use `print` to also display the minimum as text in the terminal, in addition to the text in the graph.
 
+### Constraints
+* Unless specifically mentioned otherwise, you are only allowed to use the concepts that are discussed in this module. For an overview of those concepts have a look [here](/python/en/overview).
+* You are *only* allowed to use the `import`-statement for the following libraries: `numpy`, `matplotlib`, and `math`.
+* You are not allowed to use any other `import`-statements.
+* From the `numpy`-liberary you are only allowed to use `np.arrange()`, and nothing else.
+* You are not allowed the built-in `min()` command. You will have to write an algorithm to find the minimum value yourself.
+
+
 ## Hints
 
 * Before plotting, create two lists with correct x- and y-values each.
@@ -38,7 +46,7 @@ Write a program that shows the following graph.
 		matplotlib.use('tkagg')
 		import matplotlib.pyplot as plt
 
-* Also remember that `^` in Python does not result in exponentiation. Use `**` to correctly calculate a number raised to a power. 
+* Also remember that `^` in Python does not result in exponentiation. Use `**` to correctly calculate a number raised to a power.
 
 * Can't seem to get the plotting to function properly? Send us a mail!
 
