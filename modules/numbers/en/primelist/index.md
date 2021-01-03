@@ -15,11 +15,11 @@ Write a program called `listprimes.py` that asks the user to provide a number $$
 * Print the list.
 
 ### Constraints
+The same as before:
 * You are only allowed to use the concepts that are discussed in this module.
 For an overview of those concepts have a look [here](/python/en/overview).
-* You are *not* allowed to use the `break`-statement. (This hasn't been discussed yet,
-but if you happen to know it, don't use it.)
-* You are *not* allowed to use the `import`-statement. (This hasn't been discussed yet either.)
+* You are *not* allowed to use the `break`-statement.
+* You are *not* allowed to use the `import`-statement.
 
 ## Testing
 
