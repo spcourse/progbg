@@ -4,12 +4,11 @@ Welkom bij de cursus Inleiding Programmeren voor Bèta-gamma! Met deze handleidi
 
 ## Opzet van de cursus
 
-Er zijn vier *modules* die elk een ander onderwerp behandelen (meestal verbonden aan een bepaald wetenschapsgebied) maar vooral stukjes Python en technieken voor probleemoplossing aanleren. De volgorde van de modules is belangrijk: elke bouwt voort op de vorige.
+Er zijn drie *modules* die elk een ander onderwerp behandelen (meestal verbonden aan een bepaald wetenschapsgebied) maar vooral stukjes Python en technieken voor probleemoplossing aanleren. De volgorde van de modules is belangrijk: elke bouwt voort op de vorige.
 
 - Module 1: Python (basis programmeertechnieken)
 - Module 2: Numeriek integreren (gebruik de computer om oppervlaktes onder arbitraire functies te schatten)
-- Module 3: Simuleren (simuleer het Monopoly-spel om het eerlijker te maken)
-- Module 4: Big Data (analyseer GPS- en klimaatdata)
+- Module 3: Big Data (analyseer GPS- en klimaatdata)
 
 ## Materialen
 
@@ -81,34 +80,11 @@ De planning voor het nakijken is als volgt:
 
 ### Cijfers
 
-Voor de eerste drie opdrachten beoordelen we het werk van de student alleen op *correctness*:
-
-- *Correctness* (en Scope): Een cijfer van 1 to 5 (5 is de norm). In hoeverre is een serieuze poging gedaan om de verschillende onderdelen te implementeren? In hoeverre voldoen de geprogrammeerde oplossingen aan de exacte specificatie in de opdrachten? Voor dit criterium gebruiken we o.a. de tool *checkpy*. De studenten krijgen hier toegang toe.
-
-Voor de laatste opdracht kijken we nog naar twee andere aspecten van de code:
-
-- *Design*: Een cijfer van 1 tot 5 (3 is de norm). In hoeverre is de code elegant geschreven, dus: overzichtelijk, efficient, logisch, prettig leesbaar? Hierbij is het belangrijk dat de studenten proberen herhaling van code te voorkomen, onnodige loops en magic numbers vermijden, logische indeling van code, etc.
-
-- *Style*: Een cijfer van 1 tot 5 (3 is de norm). In hoeverre is de code goed en snel leesbaar, dus: commentaar aanwezig, indentatie op orde, variabelen met herkenbare namen? Hierbij is het belangrijk dat studenten zich houden aan de (stijlgids)[python/stijlgids].
-
-Voor design en style becijferen we als volgt:
-
-- 5 Perfectie. Alles klopt precies, niets meer aan te verbeteren.
-- 4 Zeer goed. Een of twee kleinigheden.
-- 3 Goed. Een of twee wat grotere problemen of systematische problemen.
-- 2 Redelijk. Nog diverse verbeteringen mogelijk.
-- 1 Slecht. Een onwaarschijnlijk resultaat.
-
-Het eindcijfer wordt als volgt berkend:
-- 40% Tentamen
-- 40% Correctness (alle opdrachten)
-- 20% Design en style (laatste opdracht)
+...
 
 ### Feedback
 
-Voor elke opdracht geven we de studenten mondelinge feedback. Probeer niet meer dan 10 minuten per student te besteden aan het bespreken van de feedback. Om dit voor elkaar te krijgen is het belangrijk om de grote lijnen in de gaten te houden en niet teveel in te zoomen op details.
-
-Probeer bij het geven van feedback het niveau van de individuele student mee te nemen. Vergelijk de student met zichzelf: in hoeverre heeft de student de feedback van voorgaande weken toegepast en is hij of zij vooruitgegaan? Vergeet niet ook positieve feedback te geven! Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt.
+Voor elke opdracht geven we de studenten feedback. Probeer bij het geven van feedback het niveau van de individuele student mee te nemen. Vergelijk de student met zichzelf: in hoeverre heeft de student de feedback van voorgaande weken toegepast en is hij of zij vooruitgegaan? Vergeet niet ook positieve feedback te geven! Feedback wordt veel prettiger verwerkt als ook de positieve punten worden aangestipt.
 
 Geef feedback op het proces, niet op de student. Dit is ook al kort genoemd bij gesprekstechnieken voor het computerpracticum. Directe feedback op de persoon is veel minder effectief dan feedback op het proces[^5]. Geef daarom in de feedback goed aan waarom iets goed of minder goed is. Bied daarbij tips aan, zodat de student de volgende keer de knelpunten beter kan aanpakken. Tijdens de wekelijkse bespreking van de feedback kun je de feedback wat meer toelichten.
 
