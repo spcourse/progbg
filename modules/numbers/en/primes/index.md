@@ -20,7 +20,9 @@ As previously mentioned, a computer is a great tool for quickly executing a seri
 * Make sure that your program does not output anything other and the prime number, just like in the examples at the start!
 
 ### Constraints
+
 The same as before:
+
 * You are only allowed to use the concepts that are discussed in this module.
 For an overview of those concepts have a look [here](/python/en/overview).
 * You are *not* allowed to use the `break`-statement.
