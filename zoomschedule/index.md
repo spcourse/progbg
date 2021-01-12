@@ -23,7 +23,7 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
 | 9-11, hoorcollege        | 9-13, practicum   | 9-13, practicum   | 9-13, practicum  |
 | - groep A,B,C,D [zoom](https://uva-live.zoom.us/j/84636241080)  | - groep A [zoom](https://uva-live.zoom.us/j/81892000341) |  - groep C [zoom](https://uva-live.zoom.us/j/84106399991) | - groep A [zoom] |
 | 13-17, practicum                                                | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |  - groep D [zoom](https://uva-live.zoom.us/j/85237280759) | - groep B [zoom](https://uva-live.zoom.us/j/83574243394) |
-| - groep A [zoom](https://uva-live.zoom.us/j/83715932842)        | - groep C [zoom](https://uva-live.zoom.us/j/88117435436) |                   |                  |
+| - groep A [zoom](https://uva-live.zoom.us/j/83715932842)        | - groep C [zoom](https://uva-live.zoom.us/j/89650650946) |                   |                  |
 | - groep B [zoom](https://uva-live.zoom.us/j/83151706153)        | - groep D [zoom](https://uva-live.zoom.us/j/86214522122) |                   |                  |
 | - groep C [zoom](https://uva-live.zoom.us/j/83118252379)        |                                                          |                   |                  |
 | - groep D [zoom](https://uva-live.zoom.us/j/88609686577)        |                                                          |                   |                  |
