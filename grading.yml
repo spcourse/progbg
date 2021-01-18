@@ -6,7 +6,7 @@ grades:
             score: integer
         automatic:
             checkpy: correctness_score
-        calculation: min(checkpy - 11, 0) / 11.0 * 3 + 1 + score
+        calculation: max([checkpy - 11, 0]) / 11.0 * 3 + 1 + score
         hide_calculated: false
     text:
         type: float
