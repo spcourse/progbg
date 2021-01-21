@@ -34,13 +34,13 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
 |---------------------------|-------------------|-------------------|------------------|
 | maandag 18 jan            | dinsdag 19 jan    | woensdag 20 jan   | donderdag 21 jan |
 |---------------------------|-------------------|-------------------|------------------|
-| 11-13, hoorcollege                                             | 9-13, practicum                                          | 9-13, practicum   | 9-13, practicum  |
-| - groep A,B,C,D [zoom](https://uva-live.zoom.us/j/86096579382) | - groep A [zoom](https://uva-live.zoom.us/j/84882325171) |  - groep C [zoom](https://uva-live.zoom.us/j/81726427033) | - groep A [zoom] |
-| 13-17, practicum                                               | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |  - groep D [zoom](https://uva-live.zoom.us/j/84519098031) | - groep B [zoom] |
-| - groep A [zoom](https://uva-live.zoom.us/j/83715932842)       | - groep C [zoom](https://uva-live.zoom.us/j/84149024506) |                   |                  |
-| - groep B [zoom](https://uva-live.zoom.us/j/81832421203)       | - groep D [zoom](https://uva-live.zoom.us/j/84224537705) |           |                  |
-| - groep C [zoom](https://uva-live.zoom.us/j/82476350068)       |                                                          |                   |                  |
-| - groep D [zoom](https://uva-live.zoom.us/j/88609686577)       |                                                          |                   |                  |
+| 11-13, hoorcollege        | 9-13, practicum   | 9-13, practicum   | 9-13, practicum  |
+| - groep A,B,C,D           | - groep A         |  - groep C        | - groep A [zoom](https://uva-live.zoom.us/j/89970730810) |
+| 13-17, practicum          | - groep B         |  - groep D        | - groep B [zoom](https://uva-live.zoom.us/j/88555060723) |
+| - groep A                 | - groep C         |                   |                  |
+| - groep B                 | - groep D         |                   |                  |
+| - groep C                 |                   |                   |                  |
+| - groep D                 |                   |                   |                  |
 |---------------------------|-------------------|-------------------|------------------|
 
 ### Week 4
@@ -48,11 +48,11 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
 |---------------------------|-------------------|-------------------|------------------|
 | maandag 25 jan            | dinsdag 26 jan    | woensdag 27 jan   | donderdag 28 jan |
 |---------------------------|-------------------|-------------------|------------------|
-| 11-13, hoorcollege        | 9-13, practicum   |                   |                  |
-| - groep A,B,C,D [zoom]    | - groep A [zoom]  |                   |                  |
-| 13-17, practicum          | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |||
+| 11-13, hoorcollege                                                | 9-13, practicum   |                   |                  |
+| - groep A,B,C,D [zoom]                                            | - groep A [zoom]  |                   |                  |
+| 13-17, practicum                                                  | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |||
 | - groep A [zoom](https://uva-live.zoom.us/j/83715932842)          | - groep C [zoom] |||
-| - groep B [zoom]          | - groep D [zoom]  |                   |                  |
+| - groep B [zoom](https://uva-live.zoom.us/j/85999646767)          | - groep D [zoom]  |                   |                  |
 | - groep C [zoom](https://uva-live.zoom.us/j/89223006277) |        |                  ||
 | - groep D [zoom](https://uva-live.zoom.us/j/88609686577) |        |                  ||
 |---------------------------|-------------------|-------------------|------------------|
