@@ -1,6 +1,6 @@
 # Screencast
 
-Maak een **korte videopresentatie van 5 minuten** waarin je zo goed mogelijk laat zien wat je hebt geleerd bij dit vak. Doe dit door een deel van een recent gemaakte opdracht uit te leggen. **Om welke opdracht dit gaat zal later bekend worden gemaakt.**
+Maak een **korte videopresentatie van 5 minuten** waarin je zo goed mogelijk laat zien wat je hebt geleerd bij dit vak. Doe dit door de opdracht **???.py** uit te leggen. **Je moet deze presentatie uiteraard zelf, zonder de hulp van assistenten of medestudenten maken.**
 
 Vertel over de opdracht en je uitwerking:
 

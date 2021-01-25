@@ -1,4 +1,4 @@
-# Zoom-rooster
+  # Zoom-rooster
 In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor-/werkcolleges. Voor de practica is belangrijk dat je de zoom-link gebruikt voor jouw groep (A, B, C of D).
 
 ### Week 1
@@ -48,11 +48,11 @@ In het onderstaande rooster kan je de zoom-links vinden voor de practica en hoor
 |---------------------------|-------------------|-------------------|------------------|
 | maandag 25 jan            | dinsdag 26 jan    | woensdag 27 jan   | donderdag 28 jan |
 |---------------------------|-------------------|-------------------|------------------|
-| 11-13, hoorcollege                                                | 9-13, practicum   |                   |                  |
-| - groep A,B,C,D [zoom](https://uva-live.zoom.us/j/81121575170)    | - groep A [zoom]  |                   |                  |
-| 13-17, practicum                                                  | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |||
-| - groep A [zoom](https://uva-live.zoom.us/j/83715932842)          | - groep C [zoom] |||
-| - groep B [zoom](https://uva-live.zoom.us/j/85999646767)          | - groep D [zoom]  |                   |                  |
-| - groep C [zoom](https://uva-live.zoom.us/j/89223006277)          |                  |||
-| - groep D [zoom](https://uva-live.zoom.us/j/88609686577)          |                  |||
+| 11-13, hoorcollege                                                | 9-13, practicum   |                 |                  |
+| - groep A,B,C,D  | - groep A [zoom](https://uva-live.zoom.us/j/88054808101) |||
+| 13-17, practicum | - groep B [zoom](https://uva-live.zoom.us/j/85685304535) |||
+| - groep A        | - groep C [zoom] |||
+| - groep B        | - groep D [zoom](https://uva-live.zoom.us/j/86559166230)  |||
+| - groep C        |                  | 15-17, extra hulp                                                | 14-16, extra hulp                                             |
+| - groep D        |                  | - groep A,B,C,D [zoom](https://uva-live.zoom.us/j/83882929419)   | - groep A,B,C,D [zoom](https://uva-live.zoom.us/j/86035616837)|
 |---------------------------|-------------------|-------------------|------------------|
