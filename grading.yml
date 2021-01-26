@@ -23,11 +23,13 @@ grades:
         subgrades:
             checkpy: integer
             score: integer
+            car_plots: boolean
+            weather_plots: boolean
         automatic:
             checkpy: correctness_score
-        calculation: "[checkpy - 5, 0].max / 5.0 * 3 + 1 + score"
+        calculation: "[checkpy + car_plots + weather_plots - 6, 0].max / 6.0 * 3 + 1 + score"
         hide_calculated: false
-    tentamen:
+    screencast:
         type: pass
         subgrades:
             passed: boolean
@@ -42,7 +44,7 @@ grades:
 
 calculation:
     eindcijfer:
-        tentamen: 0
+        screencast: 0
         mods: 1
     herkansing:
         hertentamen: 0

@@ -2,6 +2,8 @@
 
 Maak een **korte videopresentatie van 5 minuten** waarin je zo goed mogelijk laat zien wat je hebt geleerd bij dit vak. Doe dit door de opdracht **reformatting.py** uit te leggen. **Je moet deze presentatie uiteraard zelf, zonder de hulp van assistenten of medestudenten maken.**
 
+De presentatie moet uiterlijk **vrijdag 29 januari om 17:00** ingeleverd zijn.
+
 Vertel over de opdracht en je uitwerking:
 
 * Wat het probleem is dat je moest oplossen.
