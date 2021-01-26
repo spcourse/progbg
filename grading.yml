@@ -23,11 +23,11 @@ grades:
         subgrades:
             checkpy: integer
             score: integer
-            car_plots: boolean
-            weather_plots: boolean
+            carplots: boolean
+            weatherplots: boolean
         automatic:
             checkpy: correctness_score
-        calculation: "[checkpy + car_plots + weather_plots - 6, 0].max / 6.0 * 3 + 1 + score"
+        calculation: "[checkpy + carplots + weatherplots - 6, 0].max / 6.0 * 3 + 1 + score"
         hide_calculated: false
     screencast:
         type: pass
