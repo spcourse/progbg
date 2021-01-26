@@ -29,7 +29,7 @@ grades:
             checkpy: correctness_score
         calculation: "[checkpy + carplots + weatherplots - 6, 0].max / 6.0 * 3 + 1 + score"
         hide_calculated: false
-    screencast:
+    tentamen:
         type: pass
         subgrades:
             passed: boolean
