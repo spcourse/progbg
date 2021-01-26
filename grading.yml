@@ -56,10 +56,10 @@ mods:
         text: 1
         bigdata-en: 1
 
-tentamen:
+screencast:
     required: true
     submits:
-        tentamen: 1
+        screencast: 1
 
 hertentamen:
     required: true
