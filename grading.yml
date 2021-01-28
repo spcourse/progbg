@@ -18,7 +18,7 @@ grades:
             checkpy: correctness_score
         calculation: "[checkpy + tweets * -1 - 7, 0].max / 7.0 * 3 + 1 + score"
         hide_calculated: false
-    bigdata-en:
+    bigdata:
         type: float
         subgrades:
             checkpy: integer
@@ -54,7 +54,7 @@ mods:
     submits:
         numbers: 1
         text: 1
-        bigdata-en: 1
+        bigdata: 1
 
 screencast:
     required: true
