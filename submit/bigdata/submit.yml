@@ -1,4 +1,4 @@
-name: bigdata
+name: bigdata-en
 files:
     required:
         - car_ride.py
