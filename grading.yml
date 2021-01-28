@@ -27,7 +27,7 @@ grades:
             weatherplots: boolean
         automatic:
             checkpy: correctness_score
-        calculation: "[checkpy + carplots + weatherplots - 6, 0].max / 6.0 * 3 + 1 + score"
+        calculation: "[checkpy + carplots * -1 + weatherplots * -1 - 6, 0].max / 6.0 * 3 + 1 + score"
         hide_calculated: false
     screencast:
         type: pass
