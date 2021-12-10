@@ -1,4 +1,96 @@
 Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python: /python/en/installing
+
+Number theory (level 1):
+    Introduction: /numbers/en/
+
+    Maandag (10 jan):
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+        Create a Number Whiz [assignment]: /numbers/en/whiz
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+        Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
+        Learn about while-loops [theory]: /python/en/loops/while
+        Practice with while-loops [practice]: /python/en/loops/while/practice
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+        Submit your work [submit]: .
+
+    Dinsdag:
+        Find leap-years [assignment]: /numbers/en/leap
+        Find birthdays of leap-year babies [assignment]: /numbers/en/birthday
+        Submit your work [submit]: .
+
+
+    Woensdag/donderdag:
+        Looking for trouble [theory]: /python/en/debugging-basics
+        Look for prime numbers [assignment]: /numbers/en/primes
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [practice]: /python/en/lists/practice
+        Make lists of prime numbers [assignment]: /numbers/en/primelist
+        Submit your work [submit]: .
+
+    Maandag (17 jan):
+        Understand how to write good code [theory]: /python/en/style
+        Prove (?) Goldbach's conjecture [PAIR assignment]: /numbers/en/goldbach
+        Submit your work [submit]: .
+
+    Dinsdag:
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+        Visualize data with plots [assignment]: /plot/en/
+        Submit your work [submit]: .
+
+
+Text processing (module 2):
+    Introduction: /text/en/
+
+    Woensdag/donderdag (19/20 jan):
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with functions in Python [practice]: /python/en/functions/practice
+        Learn about strings [theory]: /python/en/strings
+        Calculate basic statistics for a text [assignment]: /text/en/statistics
+        Analyze text content word-by-word [assignment]: /text/en/words
+        Submit your work [submit]: .
+
+    Maandag (24 jan):
+        Reformat a text neatly [PAIR assignment]: /text/en/reformatting
+        Submit your work [submit]: .
+
+    Dinsdag (25 jan):
+        Learn how to read text from files [theory]: /python/en/files
+        Perform a sentiment analysis [assignment]: /text/en/sentiment
+        Present an overview of Twitter sentiment [assignment]: /text/en/tweets
+        Submit your work [submit]: .
+
+Big data (module 3):
+    Introduction: /bigdata/en/
+
+    Woensdag (26 jan):
+        Learn to analyse and process a data set [theory]: /python/en/files
+        Process sensor data of a car ride [PAIR assignment]: /bigdata/en/car
+        Submit your work [submit]: .
+
+    Maandag (31 jan):
+        Learn more about functions [theory]: /python/en/functions3
+        Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
+        Submit your work [submit]: .
+
+    Dinsdag (01 feb):
+        Peer review [assignment]: .
+        Submit your work [submit]: .
+
+
+    Submit:
+        Submit your solutions: /submit/bigdata
+
+
+
+
+Welcome:
   Read the syllabus to get started: /syllabus
   Install python: /python/en/installing
 

@@ -9,16 +9,18 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 ## Docenten en assistenten
 
 Simon Pauw (docent, coördinator)
+
 Martijn Stegeman (docent, examinator)  
 
 Coen van den Elsen
+
 Danny van den Berg
+
 Iris Luden
-Kiki van Rongen
-Pepijn de Reus
-Ruben de Klerk
-Tamara Stoof
-Tim Lenters
+
+...
+
+> todo
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
@@ -26,21 +28,13 @@ Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de r
 
 ## Covid-19
 
-Het vak zal dit jaar geheel online plaatsvinden. Dit heeft gevolgen voor de manier waarop we lesgeven en examineren. De practica en hoor/werkcolleges zullen gegeven in de vorm van collectieve zoom-sessies. Daarnaast is er een online forum waarop je vragen kan stellen.
-
-### Forum
-
-De belangrijkste plek waar je vragen kan stellen over de programmeeropdrachten is Ed: [link](https://us.edstem.org/courses/3067/). Hiervoor ontvang je aan het begin van de cursus een uitnodiging. De vragen zullen beantwoord worden door je medestudenten en door de assistenten. Je kan natuurlijk ook zelf vragen van andere studenten beantwoorden hier!
-
-### Online colleges
-
-Je kan het rooster voor de online colleges [hier](/zoomschedule) vinden.
+> todo
 
 ## Verwachtingen
 
 In deze cursus ga je aan de slag met programmeeropdrachten, waardoor je de taal Python leert en bovendien de standaardaanpak voor een aantal wetenschappelijke problemen leert kennen. Om echt te leren programmeren is veel oefening nodig, dus bovenal verwachten we dat je **alle opdrachten volledig werkend maakt**.
 
-> Samenwerken tijdens dit vak is niet toegestaan. Dit vak heeft als doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het vaak wél mogelijk om samen te programmeren. Zie verder de opmerkingen over plagiaat, onderaan deze studiehandleiding.
+> Samenwerken tijdens dit vak is niet toegestaan (tenzij expliciet anders vermeld). Dit vak heeft als voornaamste doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het vaak wél mogelijk om samen te programmeren. Zie verder de opmerkingen over plagiaat, onderaan deze studiehandleiding.
 
 ## Leerdoelen
 
@@ -57,12 +51,12 @@ Wat willen we dat je kunt aan het einde van deze cursus?
 
 Het eindcijfer is samengesteld uit de resultaten van de opdrachten en dat van het tentamen.
 
-| onderdeel | beoordeling          | gewicht |  
-| --------- | -------------------- | ------: |
-| module 1  | kwaliteit            |     33% |  
-| module 2  | kwaliteit            |     33% |  
-| module 3  | kwaliteit            |     33% |  
-| tentamen  | voldoende uitwerking |      0% |  
+| onderdeel | beoordeling                                 | gewicht |  
+| --------- | ------------------------------------------- | ------: |
+| module 1  | volledigheid, correctheid en stijl          |     33% |  
+| module 2  | volledigheid, correctheid, stijl en ontwerp |     33% |  
+| module 3  | volledigheid, correctheid, stijl en ontwerp |     33% |  
+| tentamen  | correctheid                                 |      0% |  
 
 Je krijgt een eindcijfer voor dit vak als je:
 
@@ -71,27 +65,33 @@ Je krijgt een eindcijfer voor dit vak als je:
 
 Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NA (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
 
-Het tentamen bestaat dit jaar uit een *screen-cast*. Dit is een filmpje van *5 minuten* waarin je een deel van de code die je zelf geschreven hebt bespreekt en uitlegt. Je haalt het tentamen als de uitleg voldoende inzicht toont. Als dit niet zo is, kan je dit tentamen herkansen in de vorm van een mondeling tentamen. Deze herkansing vindt plaats in week 7.
+Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in de zaal een onder toezicht een aantal programmeeropdrachten gaat maken. Je haalt het tentamen als voldoende van deze opdrachten correct weet te maken.
 
 ## Activiteiten
 
 Er zijn drie modules waarvan de tweede de grootste is. Vanaf de eerste dag van de cursus ga je oefenen met het omzetten van een idee voor een programma naar werkende Python-code. Elke module bestaat uit theorie en voorbeelden, gecombineerd met grotere programmeeropdrachten.
 
+Er is voor elke module een dagschema.
+
+> todo: dagdeadlines
+
+Hierin kan je de deadlines voor elke onderdeel van de module vinden. De deadline voor de module als geheel kan je hieronder vinden:
+
 | onderdeel | deadline                      |  
 | --------- | ----------------------------- |
-| module 1  | dinsdag 12 januari 17:59      |  
-| module 2  | dinsdag 19 januari 17:59      |  
-| module 3  | dinsdag 26 januari 17:59      |  
-| tentamen  | vrijdag 31 januari 17:00 uur  |  
+| module 1  | dinsdag 18 januari 17:59      |  
+| module 2  | dinsdag 15 januari 17:59      |  
+| module 3  | dinsdag 01 februari 17:59     |  
+| tentamen  | vrijdag 04 februari           |  
 
 Het is geen probleem als de modules een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
-
-Het is mogelijk om de modules maximaal 24 uur later in te leveren, met automatische aftrek van 1 punt voor de module. Lever je uiterlijk 4 dagen te laat in, dan gaan er 2 punten van het cijfer af. Nog later inleveren is niet mogelijk.
 
 Omdat het mogelijk is ongemerkt mee te liften met een medestudent tijdens het maken van de practica (als je steevast overlegt over de manier van code schrijven), checken we met behulp van het tentamen nog een keer of je zelfstandig de leerdoelen van het vak gehaald hebt.
 
 ## Feedback
 
+> todo
+<!--
 Alle uitwerkingen van een module lever je vóór de deadline in. Om te beginnen kijken we of je alles goed gemaakt hebt: de **correctness**. Hiervoor gebruiken we de tool **checkpy**. Je hebt zelf ook toegang tot deze tool, dus gebruik die goed!
 
 Alleen als je opdracht helemaal werkt volgens `checkpy` kan deze nagekeken worden.
@@ -111,7 +111,7 @@ Programma's moeten niet alleen het "goede" antwoord geven, maar een programma ka
 
 Zoals je ziet is het minimum een 4. Als je de opdracht wel helemaal werkend inlevert, maar niet zichtbaar aan de kwaliteitsaspecten hebt gewerkt, krijg je dat cijfer.
 
-> Feedback op kwaliteit moet je gedurende de cursus zelf vragen! Zorg dat je verschillende assistenten vraagt om verbeterpunten voor je opdrachten. Zo kun je een goed beeld vormen van wat "goede code" is, en dat zul je natuurlijk terug zien in je cijfer voor de laatste opdracht.
+> Feedback op kwaliteit moet je gedurende de cursus zelf vragen! Zorg dat je verschillende assistenten vraagt om verbeterpunten voor je opdrachten. Zo kun je een goed beeld vormen van wat "goede code" is, en dat zul je natuurlijk terug zien in je cijfer voor de laatste opdracht. -->
 
 ## Aanwezigheid
 
@@ -123,9 +123,9 @@ De modules kosten je gemiddeld zo'n 19 uur werk: dat is dus meer tijd dan er pra
 
 | onderdeel   | studielast                |     totaal |  
 | ----------- | ------------------------- | ---------: |  
-| hoorcollege | 4 x 2 uur                 |      8 uur |  
-| opdrachten  | 3 x 19 uur + 1 x 10 uur   |     67 uur |  
-| tentamen    | 1 x 4 uur + voorbereiding |      6 uur |  
+| hoorcollege | 4 x 3 uur                 |     12 uur |  
+| opdrachten  | 3 x 18 uur + 1 x 10 uur   |     64 uur |  
+| tentamen    | 1 x 3 uur + voorbereiding |      5 uur |  
 |             |                           | **81 uur** |  
 
 De meeste studenten ervaren een programmeervak als **zwaar**. Dit komt omdat er veel tijd "verloren" gaat aan kleine foutjes, hard nadenken en even uitrusten. Als de frustratie je teveel wordt, laat het dan gerust weten. Weet dat het erbij hoort en onvermijdelijk is. En neem even pauze!
@@ -193,7 +193,9 @@ uitwerking van internet, dan zijn er twee mogelijkheden.
 
 ## Vakevaluatie vorig studiejaar
 
-In het studiejaar 2016-2017 is dit vak voor het eerst gegeven. Studenten waren inhoudelijk over het algemeen tevreden en vonden de opdrachten leuk. Wel was de werkdruk soms veel te hoog.
+> todo
+
+<!-- In het studiejaar 2016-2017 is dit vak voor het eerst gegeven. Studenten waren inhoudelijk over het algemeen tevreden en vonden de opdrachten leuk. Wel was de werkdruk soms veel te hoog.
 
 In het studiejaar 2017-2018 gaven we het vak voor de tweede keer. De werkdruk was aanzienlijk beter volgens de studenten. Hierbij een samenvatting van de opmerkingen:
 
@@ -204,7 +206,7 @@ In het studiejaar 2017-2018 gaven we het vak voor de tweede keer. De werkdruk wa
 | nuttige opdrachten |                                                                     |  
 | goede docenten     |                                                                     |  
 
-Dit jaar zijn er meer oefeningen en tussenopdrachtjes in de modules opgenomen, waarvan de bedoeling is dat het helpt om beter van de cursus te leren.
+Dit jaar zijn er meer oefeningen en tussenopdrachtjes in de modules opgenomen, waarvan de bedoeling is dat het helpt om beter van de cursus te leren. -->
 
 ## Dankwoord
 
