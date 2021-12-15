@@ -1,9 +1,9 @@
-name: bigdata-en
+name: peer-temperature
 files:
     required:
-        - car_ride.py
         - temperature.py
+        - peer_review.txt
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: -m weather
+    args: temperature

@@ -1,0 +1,10 @@
+name: birthday
+files:
+    required:
+        - leap.py
+        - birthday.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: leap birthday

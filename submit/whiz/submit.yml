@@ -1,0 +1,9 @@
+name: numbers
+files:
+    required:
+        - whiz.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: whiz

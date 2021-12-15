@@ -1,0 +1,8 @@
+name: temperature
+files:
+    required:
+        - temperature.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: temperature

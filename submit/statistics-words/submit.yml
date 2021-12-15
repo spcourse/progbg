@@ -1,0 +1,9 @@
+name: statistics
+files:
+    required:
+        - text_statistics.py
+        - list_words.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: text_statistics list_words

@@ -1,67 +1,251 @@
+# This is a separate section containing a few templates that we will use below.
+# The & feature is built into YAML, it is not a special feature of the website.
+# The section does not need to be called `templates` necessarily.
+
+templates:
+    1: &automatic
+        type: integer
+        subgrades:
+            checkpy: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: checkpy
+        auto_publish: true
+        hide_calculated: false
+
+    2: &semiautomatic
+        type: integer
+        subgrades:
+            checkpy: integer
+            plots_correct: boolean
+        automatic:
+            checkpy: correctness_score + -1 * plots_correct
+        calculation: checkpy
+        auto_publish: true
+        hide_calculated: false
+
+    3: &manual
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design_style: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: scope * (correctness * 3.0 + design_style * 2.0) / 125 * 9 + 1
+        hide_calculated: true
+
+    4: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+
+# GRADES - contains definitions of how grades are structured. The names of the
+# grades match the names of submits that may be defined in `submit.yml`
+# elsewhere, but you can also create grades without an accompanying submit.
+#
+# The following properties are supported:
+#
+# - `type` can be `integer`, `float` or `pass`, which influences presentation
+# and input
+#
+# - `subgrades` defines any extra numbers to be added to a grade, with their
+# types `integer`, `pass`, `boolean` or `float`
+#
+# - note: if any subgrades are defined, teaching assistants are only allowed to
+# enter those, and can't override the grade itself
+#
+# - `calculation` is an expression that is evaluated in the context of the
+# subgrades, which means you can use any subgrade by name in that expression, as
+# well as any standard Ruby objects and syntax
+#
+# - `automatic` is an expression that is evaluated in the context of any
+# automatic grading results (as defined in `submit.yml`) - allowing the use of
+# the variable `correctness_score`. It can only be used to fill in subgrades,
+# but you can then use the `calculation` to transfer the value of a subgrade
+# into the grade.
+#
+# - `hide_calculated` hides the calculated grade, only showing the entered
+# subgrades (to de-emphasize grades for students)
+#
+# - `hide_subgrades` hides the subgrades, for example if you want to do a simple
+# calculation but only show the resulting grade to students
+#
+# You can leave this out if grading isn't used or if each submit simply requires
+# entering a final grade, no subgrades and no calculations.
+
 grades:
-    numbers:
-        type: float
-        subgrades:
-            checkpy: integer
-            score: integer
-        automatic:
-            checkpy: correctness_score
-        calculation: "[checkpy - 11, 0].max / 11.0 * 3 + 1 + score"
-        hide_calculated: false
-    text:
-        type: float
-        subgrades:
-            checkpy: integer
-            tweets: boolean
-            score: integer
-        automatic:
-            checkpy: correctness_score
-        calculation: "[checkpy + tweets * -1 - 7, 0].max / 7.0 * 3 + 1 + score"
-        hide_calculated: false
-    bigdata-en:
-        type: float
-        subgrades:
-            checkpy: integer
-            score: integer
-            carplots: boolean
-            weatherplots: boolean
-        automatic:
-            checkpy: correctness_score
-        calculation: "[checkpy + carplots * -1 + weatherplots * -1 - 6, 0].max / 6.0 * 3 + 1 + score"
-        hide_calculated: false
-    screencast:
-        type: pass
-        subgrades:
-            passed: boolean
-        calculation: passed
-        is_test: true
-    hertentamen:
-        type: pass
-        subgrades:
-            passed: boolean
-        calculation: passed
-        is_test: true
+    whiz: *automatic
+    birthday: *automatic
+    listprimes: *automatic
+    goldbach: *automatic
+    plot: *automatic
+
+    statistics: *automatic
+    reformatting: *automatic
+    sentiments: *automatic
+
+    car: *automatic
+    temperature: *automatic
+    peer_temperature: *automatic
+
+    m1: *manual
+    m2: *manual
+    m3: *manual
+
+    oefententamen: *check
+    tentamen: *check
+    tentamen2: *check
+
+# CALCULATIONS - define the final grades for the course and the weights between
+# subcomponents for each. Often, multiple final grades are differentiated by the
+# choice of grades that are used for the calculation, for example calculating
+# the "normal" final grade based on the "first exam", and the "resit" final
+# grade based on the result of the second exam. Currently, running "calculate
+# final grades" on the website will try to calculate all, which might result in
+# useless non-grades getting calculated.
+#
+# Weights specify proportionally to each other and do not need to add up to
+# anything in particular. If a weight of 0 is specified, the grade is not used
+# in the calculation, but the grade must be "passed" for the calculation to
+# succeed.
+#
+# You can leave this out if the site does not need to perform final grade
+# calculations.
 
 calculation:
     eindcijfer:
-        screencast: 0
-        mods: 1
-    herkansing:
-        hertentamen: 0
-        mods: 1
+        opdrachten: 0
+        cijfers_fulltime: 1
+        tentamen: 0
+    eindcijfer_herkansing:
+        opdrachten: 0
+        cijfers_fulltime: 1
+        tentamen2: 0
 
-mods:
+# SUB-CALCULATIONS - define the components of the course that may be used in
+# final grade calculations. A few constraints can be specified.
+#
+# The following properties are supported:
+#
+# `submits` are the names of the grades/submits with accompanying weight for
+# each
+#
+# `show_progress: true` will list the results of the grades in a table on
+# students' progress pages
+#
+# `required: true` will only "pass" this part if all comprising grades are
+# passed (used with pass/fail tests)
+#
+# `minimum: 5.5` will only "pass" this part if the weighed average of the grades
+# is at least the specified minimum
+#
+# You can leave these out if unused in the `calculation` section.
+
+# toets:
+#     # show_progress: true
+#     submits:
+#         takehome: 1
+
+opdrachten:
+    show_progress: true
     submits:
-        numbers: 1
-        text: 1
-        bigdata-en: 1
+        whiz: 0
+        birthday: 0
+        listprimes: 0
+        goldbach: 0
+        plot: 0
 
-screencast:
+
+cijfers_fulltime:
+    show_progress: true
+    submits:
+        m1: 1
+        m2: 1
+        m3: 1
+
+
+tentamen:
+    show_progress: true
     required: true
     submits:
-        screencast: 1
+        tentamen: 1
 
-hertentamen:
+tentamen2:
+    show_progress: true
     required: true
     submits:
-        hertentamen: 1
+        tentamen2: 1
+
+
+#
+#
+# grades:
+#     numbers:
+#         type: float
+#         subgrades:
+#             checkpy: integer
+#             score: integer
+#         automatic:
+#             checkpy: correctness_score
+#         calculation: "[checkpy - 11, 0].max / 11.0 * 3 + 1 + score"
+#         hide_calculated: false
+#     text:
+#         type: float
+#         subgrades:
+#             checkpy: integer
+#             tweets: boolean
+#             score: integer
+#         automatic:
+#             checkpy: correctness_score
+#         calculation: "[checkpy + tweets * -1 - 7, 0].max / 7.0 * 3 + 1 + score"
+#         hide_calculated: false
+#     bigdata-en:
+#         type: float
+#         subgrades:
+#             checkpy: integer
+#             score: integer
+#             carplots: boolean
+#             weatherplots: boolean
+#         automatic:
+#             checkpy: correctness_score
+#         calculation: "[checkpy + carplots * -1 + weatherplots * -1 - 6, 0].max / 6.0 * 3 + 1 + score"
+#         hide_calculated: false
+#     screencast:
+#         type: pass
+#         subgrades:
+#             passed: boolean
+#         calculation: passed
+#         is_test: true
+#     hertentamen:
+#         type: pass
+#         subgrades:
+#             passed: boolean
+#         calculation: passed
+#         is_test: true
+#
+# calculation:
+#     eindcijfer:
+#         screencast: 0
+#         mods: 1
+#     herkansing:
+#         hertentamen: 0
+#         mods: 1
+#
+# mods:
+#     submits:
+#         numbers: 1
+#         text: 1
+#         bigdata-en: 1
+#
+# screencast:
+#     required: true
+#     submits:
+#         screencast: 1
+#
+# hertentamen:
+#     required: true
+#     submits:
+#         hertentamen: 1

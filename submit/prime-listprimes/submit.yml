@@ -1,0 +1,11 @@
+name: listprimes
+files:
+    required:
+        - prime.py
+        - listprimes.py
+
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: prime listprimes

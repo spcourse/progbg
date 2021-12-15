@@ -1,0 +1,8 @@
+name: car
+files:
+    required:
+        - car_ride.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: car_ride
