@@ -158,8 +158,15 @@ opdrachten:
         goldbach: 0
         plot: 0
 
+        statistics: 0
+        reformatting: 0
+        sentiments: 0
 
-cijfers_fulltime:
+        car: 0
+        temperature: 0
+        peer_temperature: 0
+
+cijfers:
     show_progress: true
     submits:
         m1: 1
