@@ -130,11 +130,11 @@ grades:
 calculation:
     eindcijfer:
         opdrachten: 0
-        # cijfers: 1
+        cijfers: 1
         tentamen: 0
     eindcijfer_herkansing:
         opdrachten: 0
-        # cijfers: 1
+        cijfers: 1
         tentamen2: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
