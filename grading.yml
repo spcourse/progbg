@@ -12,25 +12,12 @@ templates:
         auto_publish: true
         hide_calculated: false
 
-    2: &semiautomatic
-        type: integer
-        subgrades:
-            checkpy: integer
-            plots_correct: boolean
-        automatic:
-            checkpy: correctness_score + -1 * plots_correct
-        calculation: checkpy
-        auto_publish: true
-        hide_calculated: false
-
     3: &manual
         type: float
         subgrades:
             scope: integer
             correctness: integer
             design_style: integer
-        automatic:
-            checkpy: correctness_score
         calculation: scope * (correctness * 3.0 + design_style * 2.0) / 125 * 9 + 1
         hide_calculated: true
 
@@ -105,6 +92,8 @@ grades:
 
 
     m1: *manual
+        automatic:
+            correctness: correctness_score / -12
     m2: *manual
     m3: *manual
 

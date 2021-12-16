@@ -1,4 +1,4 @@
-name: numbers
+name: whiz
 files:
     required:
         - whiz.py
