@@ -21,12 +21,12 @@ templates:
     #     calculation: scope * (correctness * 3.0 + design_style * 2.0) / 125 * 9 + 1
     #     hide_calculated: true
     #
-    # 4: &check
-    #     type: pass
-    #     subgrades:
-    #         done: boolean
-    #     calculation: done
-    #     hide_calculated: true
+    4: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
