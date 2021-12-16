@@ -12,15 +12,18 @@ templates:
         auto_publish: true
         hide_calculated: false
 
-    # 3: &manual
-    #     type: float
-    #     subgrades:
-    #         scope: integer
-    #         correctness: integer
-    #         design_style: integer
-    #     calculation: scope * (correctness * 3.0 + design_style * 2.0) / 125 * 9 + 1
-    #     hide_calculated: true
-    #
+    3: &manual
+        type: float
+        subgrades:
+            checkpy: integer
+            scope: integer
+            design_style: integer
+            correctness: integer
+        automatic:
+            checkpy: correctness_score
+        calculation: scope * (correctness * 3 + design_style * 2) / 125.0 * 9 + 1
+        hide_calculated: false
+
     4: &check
         type: pass
         subgrades:
@@ -75,9 +78,9 @@ grades:
     goldbach:
         <<: *automatic
         calculation: -1 * (checkpy / 3).floor
-    plot:
-        <<: *automatic
-        calculation: -1 * (checkpy / 2).floor
+    # plot:
+    #     <<: *automatic
+    #     calculation: -1 * (checkpy / 2).floor
 
     statistics:
         <<: *automatic
@@ -85,9 +88,9 @@ grades:
     reformatting:
         <<: *automatic
         calculation: -1 * (checkpy / 2).floor
-    sentiments:
-        <<: *automatic
-        calculation: -1 * (checkpy / 3).floor
+    # sentiments:
+    #     <<: *automatic
+    #     calculation: -1 * (checkpy / 3).floor
 
     car:
         <<: *automatic
@@ -95,17 +98,15 @@ grades:
     temperature:
         <<: *automatic
         calculation: -1 * (checkpy / 8).floor
-    peer_temperature:
-        <<: *automatic
-        calculation: -1 * (checkpy / 8).floor
+    # peer_temperature:
+    #     <<: *automatic
+    #     calculation: -1 * (checkpy / 8).floor
     #
     #
-    # m1: *manual
-    #     automatic:
-    #         correctness: correctness_score / -12
-    # m2: *manual
-    # m3: *manual
-    #
+    m1: *manual
+    m2: *manual
+    m3: *manual
+
     oefententamen: *check
     tentamen: *check
     tentamen2: *check
@@ -165,17 +166,17 @@ opdrachten:
     submits:
         whiz: 0
         birthday: 0
-        # listprimes: 0
-        # goldbach: 0
-        # plot: 0
-        #
-        # statistics: 0
-        # reformatting: 0
-        # sentiments: 0
-        #
-        # car: 0
-        # temperature: 0
-        # peer_temperature: 0
+        listprimes: 0
+        goldbach: 0
+        plot: 0
+
+        statistics: 0
+        reformatting: 0
+        sentiments: 0
+
+        car: 0
+        temperature: 0
+        peer_temperature: 0
 
 # cijfers:
 #     show_progress: true

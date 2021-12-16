@@ -1,9 +1,10 @@
-name: sentiments
+name: m2
 files:
     required:
+        - reformatting.py
         - sentiment.py
         - tweets.py
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: sentiment
+    args: reformatting sentiment
