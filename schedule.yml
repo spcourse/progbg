@@ -32,7 +32,7 @@ Number theory (module 1):
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
         Make lists of prime numbers [assignment]: /numbers/en/primelist
-        Submit your work [submit]: /submit/prime-primelist
+        Submit your work [submit]: /submit/prime-listprimes
 
     Maandag (17 jan):
         Prove (?) Goldbach's conjecture [PAIR assignment]: /numbers/en/goldbach
@@ -42,7 +42,7 @@ Number theory (module 1):
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
-        Submit your work [submit]: /submit/plot
+        Submit module 1 [submit MODULE]: /submit/module1
 
 
 Text processing (module 2):
@@ -64,7 +64,7 @@ Text processing (module 2):
         Learn how to read text from files [theory]: /python/en/files
         Perform a sentiment analysis [PAIR assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
-        Submit your work [submit]: /submit/tweets
+        Submit module 2 [submit MODULE]: /submit/module2
 
 Big data (module 3):
     Introduction: /bigdata/en/
@@ -81,4 +81,4 @@ Big data (module 3):
 
     Dinsdag (01 feb):
         Peer review [assignment]: .
-        Submit your work [submit]: /submit/peer-temperatures
+        Submit module 3 [submit MODULE]: /submit/module3
