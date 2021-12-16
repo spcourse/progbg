@@ -9,7 +9,6 @@ templates:
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: checkpy / -1
         auto_publish: true
         hide_calculated: false
 
@@ -64,7 +63,9 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    whiz: *automatic
+    whiz:
+        <<: *automatic
+        calculation: checkpy / -1
         # calculation: checkpy / -1
     # birthday: *automatic
     #     calculation: checkpy / -9
