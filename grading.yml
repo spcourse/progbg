@@ -67,8 +67,9 @@ grades:
         <<: *automatic
         calculation: checkpy / -1
         # calculation: checkpy / -1
-    # birthday: *automatic
-    #     calculation: checkpy / -9
+    birthday:
+        <<: *automatic
+        calculation: checkpy / -9
     # listprimes: *automatic
     #     calculation: checkpy / -7
     # goldbach: *automatic
