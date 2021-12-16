@@ -5,8 +5,8 @@
 templates:
     1: &automatic
         type: pass
-        # subgrades:
-        #     checkpy: float
+        subgrades:
+            checkpy: float
         automatic:
             checkpy: correctness_score
         auto_publish: true
@@ -65,14 +65,11 @@ templates:
 grades:
     whiz:
         <<: *automatic
-        calculation: -1 * (checkpy / 1.0)
+        calculation: -1 * (checkpy / 1).floor
         # calculation: checkpy / -1
     birthday:
         <<: *automatic
-        subgrades:
-            checkpy: float
-            max_points: 9.0
-        calculation: -1 * (checkpy / max_points).floor
+        calculation: -1 * (checkpy / 9).floor
     # listprimes: *automatic
     #     calculation: checkpy / -7
     # goldbach: *automatic
