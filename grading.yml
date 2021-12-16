@@ -4,12 +4,11 @@
 
 templates:
     1: &automatic
-        type: integer
+        type: boolean
         subgrades:
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: checkpy
         auto_publish: true
         hide_calculated: false
 
@@ -78,18 +77,32 @@ templates:
 
 grades:
     whiz: *automatic
+        calculation: checkpy / -1
     birthday: *automatic
+        calculation: checkpy / -9
     listprimes: *automatic
+        calculation: checkpy / -7
     goldbach: *automatic
+        calculation: checkpy / -3
     plot: *automatic
+        calculation: checkpy / -2
+
 
     statistics: *automatic
+        calculation: checkpy / -8
     reformatting: *automatic
+        calculation: checkpy / -2
     sentiments: *automatic
+        calculation: checkpy / -3
+
 
     car: *automatic
+        calculation: checkpy / -2
     temperature: *automatic
+        calculation: checkpy / -8
     peer_temperature: *automatic
+        calculation: checkpy / -8
+
 
     m1: *manual
     m2: *manual
