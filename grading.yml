@@ -66,32 +66,38 @@ grades:
     whiz:
         <<: *automatic
         calculation: -1 * (checkpy / 1).floor
-        # calculation: checkpy / -1
     birthday:
         <<: *automatic
         calculation: -1 * (checkpy / 9).floor
-    # listprimes: *automatic
-    #     calculation: checkpy / -7
-    # goldbach: *automatic
-    #     calculation: checkpy / -3
-    # plot: *automatic
-    #     calculation: checkpy / -2
+    listprimes:
+        <<: *automatic
+        calculation: -1 * (checkpy / 7).floor
+    goldbach:
+        <<: *automatic
+        calculation: -1 * (checkpy / 3).floor
+    plot:
+        <<: *automatic
+        calculation: -1 * (checkpy / 2).floor
 
+    statistics:
+        <<: *automatic
+        calculation: -1 * (checkpy / 8).floor
+    reformatting:
+        <<: *automatic
+        calculation: -1 * (checkpy / 2).floor
+    sentiments:
+        <<: *automatic
+        calculation: -1 * (checkpy / 3).floor
 
-    # statistics: *automatic
-    #     calculation: checkpy / -8
-    # reformatting: *automatic
-    #     calculation: checkpy / -2
-    # sentiments: *automatic
-    #     calculation: checkpy / -3
-    #
-    #
-    # car: *automatic
-    #     calculation: checkpy / -2
-    # temperature: *automatic
-    #     calculation: checkpy / -8
-    # peer_temperature: *automatic
-    #     calculation: checkpy / -8
+    car:
+        <<: *automatic
+        calculation: -1 * (checkpy / 2).floor
+    temperature:
+        <<: *automatic
+        calculation: -1 * (checkpy / 8).floor
+    peer_temperature:
+        <<: *automatic
+        calculation: -1 * (checkpy / 8).floor
     #
     #
     # m1: *manual
