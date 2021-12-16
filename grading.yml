@@ -4,7 +4,7 @@
 
 templates:
     1: &automatic
-        type: boolean
+        type: pass
         subgrades:
             checkpy: float
         automatic:
@@ -65,11 +65,11 @@ templates:
 grades:
     whiz:
         <<: *automatic
-        calculation: checkpy / -1
+        calculation: -1 * (checkpy / 1.0)
         # calculation: checkpy / -1
     birthday:
         <<: *automatic
-        calculation: checkpy / -9
+        calculation: -1 * (checkpy / 9.0).floor
     # listprimes: *automatic
     #     calculation: checkpy / -7
     # goldbach: *automatic
