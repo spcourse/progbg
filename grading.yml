@@ -168,15 +168,12 @@ opdrachten:
         birthday: 1
         listprimes: 1
         goldbach: 1
-        m1: 1
 
         statistics: 1
         reformatting: 1
-        m2: 1
 
         car: 1
         temperature: 1
-        m3: 1
 
 cijfers:
     show_progress: true
