@@ -158,7 +158,7 @@ opdrachten:
     show_progress: true
     submits:
         whiz: 0
-        # birthday: 0
+        birthday: 0
         # listprimes: 0
         # goldbach: 0
         # plot: 0
