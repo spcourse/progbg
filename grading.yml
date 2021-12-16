@@ -6,7 +6,7 @@ templates:
     1: &automatic
         type: boolean
         subgrades:
-            checkpy: integer
+            checkpy: float
         automatic:
             checkpy: correctness_score
         auto_publish: true
