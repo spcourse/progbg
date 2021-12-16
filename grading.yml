@@ -168,22 +168,22 @@ opdrachten:
         birthday: 0
         listprimes: 0
         goldbach: 0
-        plot: 0
+        m1: 0
 
         statistics: 0
         reformatting: 0
-        sentiments: 0
+        m2: 0
 
         car: 0
         temperature: 0
-        peer_temperature: 0
+        m3: 0
 
-# cijfers:
-#     show_progress: true
-#     submits:
-#         m1: 1
-#         m2: 1
-#         m3: 1
+cijfers:
+    show_progress: true
+    submits:
+        m1: 1
+        m2: 1
+        m3: 1
 
 
 tentamen:

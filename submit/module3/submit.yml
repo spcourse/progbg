@@ -1,4 +1,4 @@
-name: peer-temperature
+name: m3
 files:
     required:
         - temperature.py
