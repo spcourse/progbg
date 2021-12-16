@@ -69,7 +69,8 @@ grades:
         # calculation: checkpy / -1
     birthday:
         <<: *automatic
-        calculation: -1 * (checkpy / 9.0).floor
+        max_points: 9.0
+        calculation: -1 * (checkpy / max_points).floor
     # listprimes: *automatic
     #     calculation: checkpy / -7
     # goldbach: *automatic
