@@ -19,8 +19,6 @@ templates:
             scope: integer
             design_style: integer
             correctness: integer
-        automatic:
-            checkpy: correctness_score * 10
         calculation: scope * (correctness * 3 + design_style * 2) / 125.0 * 9 + 1
         hide_calculated: false
 
@@ -93,7 +91,10 @@ grades:
         <<: *automatic
         calculation: -1 * (checkpy / 8).floor
 
-    m1: *manual
+    m1:
+        <<: *manual
+        automatic:
+            checkpy: correctness_score / 10.0
     m2: *manual
     m3: *manual
 
