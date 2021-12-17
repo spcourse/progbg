@@ -1,6 +1,6 @@
 # Inleiding Programmeren<br><small>Studiewijzer</small>
 
-**Versie: Januari 2021**
+**Versie: Januari 2022**
 
 ![Python](python-logo.png){:.inline}  
 
