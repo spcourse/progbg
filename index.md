@@ -1,6 +1,6 @@
 # Inleiding Programmeren<br><small>Studiewijzer</small>
 
-*Versie: Januari 2020 (wijzigingen voorbehouden)*
+**Versie: Januari 2021**
 
 ![Python](python-logo.png){:.inline}  
 
@@ -8,27 +8,15 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Docenten en assistenten
 
-Simon Pauw (docent, coördinator)
-
-Martijn Stegeman (docent, examinator)  
-
-Coen van den Elsen
-
-Danny van den Berg
-
-Iris Luden
-
-...
-
-> todo
+Simon Pauw (docent, coördinator), Martijn Stegeman (examinator), Simon Stuij (docent), Iris Luden, Daan Moll, Coen van den Elsen, Danny van den Berg, Emma Oosterhuis, Jacomijn Prins, Roan van Blanken
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
-Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **docenten** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
+Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
 
 ## Covid-19
 
-> todo
+Er is een beperking van 75 man voor alle colleges. Voor de werkcolleges betekent dit dat niet iedereen op campus mee kan doen. Deze colleges zullen daarom in hybride vorm plaatsvinden. Voor meer informatie: [hybride werkcolleges](/werkcolleges)
 
 ## Verwachtingen
 
@@ -47,19 +35,53 @@ Wat willen we dat je kunt aan het einde van deze cursus?
   consistente stijl toe te passen.
 * Je kunt enkele veelvoorkomende programmeerfouten opsporen en verbeteren.
 
+
+## Activiteiten
+
+Het vak bestaat uit drie programmeer modules en een tentamen. Vanaf de eerste dag van de cursus ga je oefenen met het omzetten van een idee voor een programma naar werkende Python-code. Elke module bestaat uit verschillende onderdelen:
+
+- _theory_: Uitleg van de programmerconcepten. Dit is meestal in de vorm van korte filmpjes (<2 min.) en wat geleidende tekst.
+- _practice_: Dit zijn korte oefenopdrachten die je niet hoeft in te leveren. Het doel van hiervan is om voor jezelf te zien of je de theorie ook echt begrepen hebt.
+- _assignment_: Dit zijn grotere opdrachten die je moet invleveren. Hiervoor is het belangrijk goed op de deadlines te letten. Dit zijn individuele opdrachten. Je mag bij deze onderdelen dus **niet samenwerken**.
+- _PAIR assignment_: Dit zijn (vaak wat complexere) opdrachten die je samen met één iemand anders mag maken. Je moet duidelijk aangeven in het commentaar van je programma en bij het inleveren met wie je samenwerkt. Je mag hierbij niet met meer dan één ander persoon samenwerken.
+
+Het vak heeft laptopcolleges en wrkcolleges. Tijdens de laptop colleges ga je aan de modules programmeren en kan je daarbij hulp krijgen van ons. Tijdens de werkcolleges gaan we dieper in op de theorie.
+
+Het vak sluiten we af met een tentamen. Omdat het mogelijk is ongemerkt mee te liften met een medestudent tijdens het maken van de practica (als je steevast overlegt over de manier van code schrijven), checken we met behulp van het tentamen nog een keer of je zelfstandig de leerdoelen van het vak gehaald hebt.
+
+### Deadlines
+
+Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daarom voor elke module naast de einddeadline ook een aantal dagdeadlines (deadlines voor specfieke *assignments*).
+
+In de table hieronder kan je alle deadlines vinden.
+
+| onderdeel | dagdeadline | dagdeadline | dagdeadline | dagdeadline | einddeadline |  
+| --------- | ----------- | ----------- | ----------- | ----------- | ------------ |
+| module 1  | ma 10 jan   | di 11 jan   | do 13 jan   | ma 17 jan   | di 18 jan    |  
+| module 2  |             |             | do 20 jan   | ma 24 jan   | di 15 jan    |  
+| module 3  |             |             | do 27 jan   | ma 31 jan   | di 01 feb    |  
+| tentamen  |             |             |             |             | vr 04 feb    |  
+
+De tijd van elke deadline is om **18:00**. Het is geen probleem als de opdrachten een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
+
+**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddelijk een probleem geeft, krijg je 5 te-laat-credits. Elke keer dat je een onderdeel een dag te laat inlvert kost je dat een credit (2 dagen te laat is dus 2 credits). Je mag dus niet vaker dan 5 keer iets een dag te laat inleveren.
+
+Als je, ondanks dat je hard aan het vak werkt, structureel gebruik moet maken van de te-laat-credits. Dan kom je misschien in aanmerking voor extra begeleiding (zie het kopje [extra begeleiding](#extra-begeleiding)).
+
 ## Eindcijfer
 
 Het eindcijfer is samengesteld uit de resultaten van de opdrachten en dat van het tentamen.
 
 | onderdeel | beoordeling                                 | gewicht |  
 | --------- | ------------------------------------------- | ------: |
-| module 1  | volledigheid, correctheid en stijl          |     33% |  
+| module 1  | volledigheid, correctheid, stijl en ontwerp |     33% |  
 | module 2  | volledigheid, correctheid, stijl en ontwerp |     33% |  
 | module 3  | volledigheid, correctheid, stijl en ontwerp |     33% |  
 | tentamen  | correctheid                                 |      0% |  
 
 Je krijgt een eindcijfer voor dit vak als je:
 
+* alle tussentijdse opdrachten op tijd hebt ingeleverd;
 * elke module op tijd en naar verwachting hebt ingeleverd;
 * het tentamen voldoende hebt gemaakt.
 
@@ -67,51 +89,61 @@ Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaa
 
 Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in de zaal een onder toezicht een aantal programmeeropdrachten gaat maken. Je haalt het tentamen als voldoende van deze opdrachten correct weet te maken.
 
-## Activiteiten
+## Beoordeling opdrachten
 
-Er zijn drie modules waarvan de tweede de grootste is. Vanaf de eerste dag van de cursus ga je oefenen met het omzetten van een idee voor een programma naar werkende Python-code. Elke module bestaat uit theorie en voorbeelden, gecombineerd met grotere programmeeropdrachten.
+** (wijzigingen voorbehouden) **
 
-Er is voor elke module een dagschema.
+De opdrachten die je tussentijds inlevert (op de dagdeadlines) worden automatisch nagekeken aan de hand van *checkpy*. Je ontvangt vrijwel onmiddelijk feedback over of je het goed hebt gedaan of niet.
 
-> todo: dagdeadlines
+Het werk wat je aan het einde van de module inlvert wordt met de hand nagekeken.
 
-Hierin kan je de deadlines voor elke onderdeel van de module vinden. De deadline voor de module als geheel kan je hieronder vinden:
+Je ontvangt hiervoor drie apparte cijfers: omvang (*scope*), correctheid (*correctness*), en ontwerp (*design*). Voor elk onderdeel krijg je een een waardering van op een schaal van 0 tot 5. Gezamelijk geven deze een je cijfer voor de module. De weging is alsvolgt:
 
-| onderdeel | deadline                      |  
-| --------- | ----------------------------- |
-| module 1  | dinsdag 18 januari 17:59      |  
-| module 2  | dinsdag 15 januari 17:59      |  
-| module 3  | dinsdag 01 februari 17:59     |  
-| tentamen  | vrijdag 04 februari           |  
+$$
+\textrm{punten} = \textrm{omvang} \times (\textrm{correctheid} \times 3 + \textrm{stijl} \times 2)
+$$
 
-Het is geen probleem als de modules een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
+Omvang (*scope*): In hoeverre zijn alle opdrachten gemaakt? (Er een serieuze poging is gedaan.)
 
-Omdat het mogelijk is ongemerkt mee te liften met een medestudent tijdens het maken van de practica (als je steevast overlegt over de manier van code schrijven), checken we met behulp van het tentamen nog een keer of je zelfstandig de leerdoelen van het vak gehaald hebt.
+De correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk op de output van *checkpy*.
 
-## Feedback
-
-> todo
-<!--
-Alle uitwerkingen van een module lever je vóór de deadline in. Om te beginnen kijken we of je alles goed gemaakt hebt: de **correctness**. Hiervoor gebruiken we de tool **checkpy**. Je hebt zelf ook toegang tot deze tool, dus gebruik die goed!
-
-Alleen als je opdracht helemaal werkt volgens `checkpy` kan deze nagekeken worden.
-
-> Omdat we altijd nieuwe opdrachten gebruiken, gebeurt het soms dat er een fout wordt gevonden in `checkpy` of in de opdracht zelf. Als we de fout kunnen corrigeren sturen we een mail rond. Zorg in ieder geval dat je altijd aan het eind van de week je oplossingen nog eens checkt met de nieuwste versie van `checkpy`!
+Ontwerp (*design*): Hoe netjes is de code? Is de code goed leesbaar en overzichtelijk? Heb je slimme ontwerpkeuzes gemaakt.
 
 Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? De opdrachten worden beoordeeld op de volgende schaal:
 
-10. uitzonderlijk goed resultaat met doordacht ontwerp
-9. uitstekend resultaat op de aangegeven aspecten
-8. keurig resultaat op de aangegeven aspecten
-7. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
-6. zichtbare aandacht voor de meeste aspecten
-5. zichtbare aandacht voor een beperkt aantal aspecten
-4. geen aantoonbare aandacht voor de kwaliteitsaspecten
-{: start="10" reversed=""}
+Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan een ruime acht moet kunnen halen.
 
-Zoals je ziet is het minimum een 4. Als je de opdracht wel helemaal werkend inlevert, maar niet zichtbaar aan de kwaliteitsaspecten hebt gewerkt, krijg je dat cijfer.
+De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
-> Feedback op kwaliteit moet je gedurende de cursus zelf vragen! Zorg dat je verschillende assistenten vraagt om verbeterpunten voor je opdrachten. Zo kun je een goed beeld vormen van wat "goede code" is, en dat zul je natuurlijk terug zien in je cijfer voor de laatste opdracht. -->
+5. uitzonderlijk goed resultaat met zeer doordacht ontwerp
+4. uitstekend resultaat op alle aspecten en je hebt zichtbaar goed nagedacht over het ontwerp
+3. goed resultaat op alle aspecten
+2. zichtbare aandacht voor alle aspecten, goed resultaat voor de meeste
+1. zichtbare aandacht voor een beperkt aantal aspecten
+0. geen aantoonbare aandacht voor de kwaliteitsaspecten
+
+
+Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
+
+## Extra begeleiding
+
+Als je merkt dat je het echt heel moeilijk vindt, en ondanks dat je heel erg je best doet het niet lukt, kan je extra hulp krijgen. Hiervoor zijn sessies op donderdag en vrijdag ingepland.
+
+Deze extra hulp is geen hulp met het maken van de opdrachten. Het is dus **geen uurtje voor extra assistentie**. Het doel is om te achterhalen wat je nu precies moeilijk vindt en daaraan wat extra te werken. Kom dus niet naar deze sessies met een vraag over de opdrachten, die zullen hier niet worden beantwoord.
+
+Er is beperkt plek voor deze extra hulp, dus dit is alleen bedoeld voor studenten die het echt nodig hebben. Je kan hiervoor in aanmerking komen als:
+
+- je aantoonbaar je best doet. Je steekt dus ruim genoeg tijd in het vak (meer dan 20 uur per week), maar dat lijkt niet genoeg te zijn.
+- je veel moeite hebt met het programmeren.
+
+Je gaat bij dit vak in korte tijd leren programmeren. Het is normaal om dat lastig vinden. Maar niet voor iedereen is de extra hulp even nuttig. Hoe weet je of het zoveel moeite kost dat je baat hebt bij deze extra hulp? Indicatoren hiervoor zijn bijvoorbeeld als je:
+
+- bijna nooit weet hoe je aan een opdracht moet beginnen.
+- je heel vaak opnieuw begint aan een opdracht zonder verder te komen.
+- het ondanks genoeg uren te maken, de deadlines onhaalbaar lijken.
+- zelden goede antwoorden kan geven op de conceptvragen tijdens het werkcollege.
+
+Mail ons even als je hier gebruik van wilt maken: progbg@mprog.nl
 
 ## Aanwezigheid
 
