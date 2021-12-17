@@ -107,7 +107,7 @@ $$
 
 Omvang (*scope*): In hoeverre zijn alle opdrachten gemaakt? (Er een serieuze poging is gedaan.)
 
-De correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk gebaseerd op de output van *checkpy*.
+Correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk gebaseerd op de output van *checkpy*.
 
 Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan een ruime acht moet kunnen halen.
 
@@ -178,9 +178,8 @@ Je hebt binnen 30 dagen na bekendmaking van de cijfers recht op inzage van alle 
 
 ## Samenwerken
 
-Samenwerken tijdens dit vak is *niet* toegestaan (tenzij expliciet anders vermeld). Dit vak heeft als doel jouw
-persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het
-vaak wél mogelijk om samen te programmeren.
+Samenwerken tijdens dit vak is *niet* toegestaan (tenzij expliciet anders vermeld). Dit vak heeft als voornaamste doel jouw
+persoonlijke programmeervaardigheid te ontwikkelen.
 
 Tijdens de practica is het natuurlijk prima als je de opgave bespreekt met de
 student die naast je zit. Het is echter niet toegestaan om een regel
