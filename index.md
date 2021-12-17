@@ -113,12 +113,12 @@ Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, m
 
 De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
-5. uitzonderlijk goed resultaat met zeer doordacht ontwerp
-4. uitstekend resultaat op alle aspecten en je hebt zichtbaar goed nagedacht over het ontwerp
-3. goed resultaat op alle aspecten
-2. zichtbare aandacht voor alle aspecten, goed resultaat voor de meeste
-1. zichtbare aandacht voor een beperkt aantal aspecten
-0. geen aantoonbare aandacht voor de kwaliteitsaspecten
+- [5] uitzonderlijk goed resultaat met zeer doordacht ontwerp
+- [4] uitstekend resultaat op alle aspecten en je hebt zichtbaar goed nagedacht over het ontwerp
+- [3] goed resultaat op alle aspecten
+- [2] zichtbare aandacht voor alle aspecten, goed resultaat voor de meeste
+- [1] zichtbare aandacht voor een beperkt aantal aspecten
+- [0] geen aantoonbare aandacht voor de kwaliteitsaspecten
 
 
 Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
