@@ -76,7 +76,8 @@ grades:
         automatic:
             checkpy_percentage: correctness_score * 100 / 7
     goldbach:
-        <<: *automaticautomatic:
+        <<: *automatic
+        automatic:
             checkpy_percentage: correctness_score * 100 / 3
 
     statistics:
