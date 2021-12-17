@@ -6,16 +6,15 @@ templates:
     1: &automatic
         type: pass
         subgrades:
-            checkpy: float
-        automatic:
-            checkpy: correctness_score
+            checkpy_percentage: integer
+        calculation: -1 * (checkpy_percentage / 100.0).floor
         auto_publish: true
         hide_calculated: false
 
     3: &manual
         type: float
         subgrades:
-            checkpy: integer
+            checkpy_precentage: integer
             scope: integer
             design_style: integer
             correctness: integer
@@ -66,43 +65,50 @@ templates:
 grades:
     whiz:
         <<: *automatic
-        calculation: -1 * (checkpy / 1).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 1
     birthday:
         <<: *automatic
-        calculation: -1 * (checkpy / 9).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 9
     listprimes:
         <<: *automatic
-        calculation: -1 * (checkpy / 7).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 7
     goldbach:
-        <<: *automatic
-        calculation: -1 * (checkpy / 3).floor
+        <<: *automaticautomatic:
+            checkpy_percentage: correctness_score * 100 / 3
 
     statistics:
         <<: *automatic
-        calculation: -1 * (checkpy / 8).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 8
     reformatting:
         <<: *automatic
-        calculation: -1 * (checkpy / 2).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 2
 
     car:
         <<: *automatic
-        calculation: -1 * (checkpy / 2).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 2
     temperature:
         <<: *automatic
-        calculation: -1 * (checkpy / 8).floor
+        automatic:
+            checkpy_percentage: correctness_score * 100 / 8
 
     m1:
         <<: *manual
         automatic:
-            checkpy: correctness_score * 100 / 9
+            checkpy_precentage: correctness_score * 100 / 9
     m2:
         <<: *manual
         automatic:
-            checkpy: correctness_score * 100 / 5
+            checkpy_precentage: correctness_score * 100 / 5
     m3:
         <<: *manual
         automatic:
-            checkpy: correctness_score * 100 / 8
+            checkpy_precentage: correctness_score * 100 / 8
 
     oefententamen: *check
     tentamen: *check
