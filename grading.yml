@@ -15,7 +15,7 @@ templates:
     3: &manual
         type: float
         subgrades:
-            checkpy: float
+            checkpy: integer
             scope: integer
             design_style: integer
             correctness: integer
@@ -94,9 +94,15 @@ grades:
     m1:
         <<: *manual
         automatic:
-            checkpy: correctness_score / 10.0
-    m2: *manual
-    m3: *manual
+            checkpy: correctness_score * 100 / 9
+    m2:
+        <<: *manual
+        automatic:
+            checkpy: correctness_score * 100 / 5
+    m3:
+        <<: *manual
+        automatic:
+            checkpy: correctness_score * 100 / 8
 
     oefententamen: *check
     tentamen: *check
