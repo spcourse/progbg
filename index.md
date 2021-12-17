@@ -97,7 +97,7 @@ Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in d
 
 De opdrachten die je tussentijds inlevert (op de dagdeadlines) worden automatisch nagekeken aan de hand van *checkpy*. Je ontvangt vrijwel onmiddelijk feedback over of je het goed hebt gedaan of niet.
 
-Het werk wat je aan het einde van de module inlvert wordt met de hand nagekeken.
+Het werk wat je aan het einde van de module inlevert wordt met de hand nagekeken.
 
 Je ontvangt hiervoor drie apparte cijfers: omvang (*scope*), correctheid (*correctness*), en ontwerp (*design*). Voor elk onderdeel krijg je een een waardering van op een schaal van 0 tot 5. Gezamelijk geven deze een je cijfer voor de module. De weging is alsvolgt:
 
@@ -107,13 +107,9 @@ $$
 
 Omvang (*scope*): In hoeverre zijn alle opdrachten gemaakt? (Er een serieuze poging is gedaan.)
 
-De correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk op de output van *checkpy*.
+De correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk gebaseerd op de output van *checkpy*.
 
-Ontwerp (*design*): Hoe netjes is de code? Is de code goed leesbaar en overzichtelijk? Heb je slimme ontwerpkeuzes gemaakt.
-
-Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? De opdrachten worden beoordeeld op de volgende schaal:
-
-Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan een ruime acht moet kunnen halen.
+Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan een ruime acht moet kunnen halen.
 
 De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
@@ -149,7 +145,7 @@ Mail ons even als je hier gebruik van wilt maken: progbg@mprog.nl
 
 ## Aanwezigheid
 
-Tijdens de eerste week is er een **aanwezigheidplicht** voor alle geroosterde practica: zie je persoonlijke rooster op datanose. In latere weken verwachten we dat je bij de practica aanwezig bent als je hulp en uitleg nodig hebt. Er is geen mogelijkheid om hulp per e-mail te krijgen als vervanging van het practicum. Zorg dus dat je op tijd begint, zodat je nog een kans hebt om langs te komen als het nodig is!
+Tijdens de eerste week is er een **aanwezigheidplicht** voor alle geroosterde practica en werkcolleges: zie je persoonlijke rooster op datanose. In latere weken verwachten we dat je bij de practica aanwezig bent als je hulp en uitleg nodig hebt. Er is geen mogelijkheid om hulp per e-mail te krijgen als vervanging van het practicum. Zorg dus dat je op tijd begint, zodat je nog een kans hebt om langs te komen als het nodig is!
 
 ## Studielast
 
@@ -182,7 +178,7 @@ Je hebt binnen 30 dagen na bekendmaking van de cijfers recht op inzage van alle 
 
 ## Samenwerken
 
-Samenwerken tijdens dit vak is *niet* toegestaan. Dit vak heeft als doel jouw
+Samenwerken tijdens dit vak is *niet* toegestaan (tenzij expliciet anders vermeld). Dit vak heeft als doel jouw
 persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het
 vaak wél mogelijk om samen te programmeren.
 
