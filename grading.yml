@@ -15,12 +15,12 @@ templates:
     3: &manual
         type: float
         subgrades:
-            checkpy: integer
+            checkpy: float
             scope: integer
             design_style: integer
             correctness: integer
         automatic:
-            checkpy: correctness_score
+            checkpy: correctness_score / 10
         calculation: scope * (correctness * 3 + design_style * 2) / 125.0 * 9 + 1
         hide_calculated: false
 
@@ -78,9 +78,6 @@ grades:
     goldbach:
         <<: *automatic
         calculation: -1 * (checkpy / 3).floor
-    # plot:
-    #     <<: *automatic
-    #     calculation: -1 * (checkpy / 2).floor
 
     statistics:
         <<: *automatic
@@ -88,9 +85,6 @@ grades:
     reformatting:
         <<: *automatic
         calculation: -1 * (checkpy / 2).floor
-    # sentiments:
-    #     <<: *automatic
-    #     calculation: -1 * (checkpy / 3).floor
 
     car:
         <<: *automatic
@@ -98,11 +92,7 @@ grades:
     temperature:
         <<: *automatic
         calculation: -1 * (checkpy / 8).floor
-    # peer_temperature:
-    #     <<: *automatic
-    #     calculation: -1 * (checkpy / 8).floor
-    #
-    #
+
     m1: *manual
     m2: *manual
     m3: *manual
@@ -194,74 +184,3 @@ tentamen2:
     required: true
     submits:
         tentamen2: 1
-
-
-#
-#
-# grades:
-#     numbers:
-#         type: float
-#         subgrades:
-#             checkpy: integer
-#             score: integer
-#         automatic:
-#             checkpy: correctness_score
-#         calculation: "[checkpy - 11, 0].max / 11.0 * 3 + 1 + score"
-#         hide_calculated: false
-#     text:
-#         type: float
-#         subgrades:
-#             checkpy: integer
-#             tweets: boolean
-#             score: integer
-#         automatic:
-#             checkpy: correctness_score
-#         calculation: "[checkpy + tweets * -1 - 7, 0].max / 7.0 * 3 + 1 + score"
-#         hide_calculated: false
-#     bigdata-en:
-#         type: float
-#         subgrades:
-#             checkpy: integer
-#             score: integer
-#             carplots: boolean
-#             weatherplots: boolean
-#         automatic:
-#             checkpy: correctness_score
-#         calculation: "[checkpy + carplots * -1 + weatherplots * -1 - 6, 0].max / 6.0 * 3 + 1 + score"
-#         hide_calculated: false
-#     screencast:
-#         type: pass
-#         subgrades:
-#             passed: boolean
-#         calculation: passed
-#         is_test: true
-#     hertentamen:
-#         type: pass
-#         subgrades:
-#             passed: boolean
-#         calculation: passed
-#         is_test: true
-#
-# calculation:
-#     eindcijfer:
-#         screencast: 0
-#         mods: 1
-#     herkansing:
-#         hertentamen: 0
-#         mods: 1
-#
-# mods:
-#     submits:
-#         numbers: 1
-#         text: 1
-#         bigdata-en: 1
-#
-# screencast:
-#     required: true
-#     submits:
-#         screencast: 1
-#
-# hertentamen:
-#     required: true
-#     submits:
-#         hertentamen: 1
