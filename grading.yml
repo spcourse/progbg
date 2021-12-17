@@ -20,7 +20,7 @@ templates:
             design_style: integer
             correctness: integer
         automatic:
-            checkpy: correctness_score / 10
+            checkpy: correctness_score * 10
         calculation: scope * (correctness * 3 + design_style * 2) / 125.0 * 9 + 1
         hide_calculated: false
 
