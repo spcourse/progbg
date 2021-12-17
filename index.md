@@ -16,7 +16,9 @@ Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de r
 
 ## Covid-19
 
-Er is een beperking van 75 man voor alle colleges. Voor de werkcolleges betekent dit dat niet iedereen op campus mee kan doen. Deze colleges zullen daarom in hybride vorm plaatsvinden. Voor meer informatie: [hybride werkcolleges](/werkcolleges)
+Er is een beperking van 75 man voor alle colleges. Voor de werkcolleges betekent dit dat niet iedereen tegelijk op campus mee kan doen. Deze colleges zullen daarom in hybride vorm plaatsvinden. Voor meer informatie: [hybride werkcolleges](/werkcolleges)
+
+De laptopcolleges (practica) zijn wel volledig op Science Park.
 
 ## Verwachtingen
 
