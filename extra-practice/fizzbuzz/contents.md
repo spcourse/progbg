@@ -9,4 +9,4 @@ So have student **start at level 7**. If they can do it, they are done. If not, 
 
 If the student doesn't know. Try to do this for the student. Try to find the highest level the student can solve, and let them work their way up to level 8.
 
-FizzBuzz, level [1](1), [2](2), [3](3)
+FizzBuzz, level [1](../fizzbuzz01), [2](../fizzbuzz02), [3](../fizzbuzz03)
