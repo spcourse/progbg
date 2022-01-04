@@ -18,7 +18,7 @@ templates:
             scope: integer
             design_style: integer
             correctness: integer
-        calculation: scope * (correctness * 3 + design_style * 2) / 125.0 * 9 + 1
+        calculation: (scope * (correctness * 3 + design_style * 2) - 5) / 120.0 * 9 + 1
         hide_calculated: false
 
     4: &check
