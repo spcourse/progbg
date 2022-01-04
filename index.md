@@ -99,27 +99,25 @@ De opdrachten die je tussentijds inlevert (op de dagdeadlines) worden automatisc
 
 Het werk wat je aan het einde van de module inlevert wordt met de hand nagekeken.
 
-Je ontvangt hiervoor drie apparte cijfers: omvang (*scope*), correctheid (*correctness*), en ontwerp (*design*). Voor elk onderdeel krijg je een een waardering van op een schaal van 0 tot 5. Gezamelijk geven deze een je cijfer voor de module. De weging is alsvolgt:
+Je ontvangt hiervoor drie apparte cijfers: omvang (*scope*), correctheid (*correctness*), en ontwerp (*design*). Voor elk onderdeel krijg je een een waardering van op een schaal van 1 tot 5. Gezamelijk geven deze een je cijfer voor de module. De weging is alsvolgt:
 
 $$
-\textrm{punten} = \textrm{omvang} \times (\textrm{correctheid} \times 3 + \textrm{stijl} \times 2)
+\textrm{punten} = \textrm{scope} \times (\textrm{correctness} \times 3 + \textrm{design} \times 2)
 $$
 
 Omvang (*scope*): In hoeverre zijn alle opdrachten gemaakt? (Er een serieuze poging is gedaan.)
 
 Correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk gebaseerd op de output van *checkpy*.
 
-Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan een ruime acht moet kunnen halen.
+Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan in ieder geval 3 punten moet kunnen halen voor design.
 
 De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
-- [5] uitzonderlijk goed resultaat met zeer doordacht ontwerp
-- [4] uitstekend resultaat op alle aspecten en je hebt zichtbaar goed nagedacht over het ontwerp
-- [3] goed resultaat op alle aspecten
-- [2] zichtbare aandacht voor alle aspecten, goed resultaat voor de meeste
-- [1] zichtbare aandacht voor een beperkt aantal aspecten
-- [0] geen aantoonbare aandacht voor de kwaliteitsaspecten
-
+- [5] uitzonderlijk goed resultaat op alle kwaliteitsaspecten met zeer doordacht ontwerp
+- [4] uitstekend resultaat op alle aspecten, en zichtbaar nagedacht over het ontwerp
+- [3] goed resultaat voor alle aspecten
+- [2] zichtbare aandacht voor de meeste aspecten
+- [1] beperkte aandacht voor de kwaliteitsaspecten
 
 Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
 
