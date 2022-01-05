@@ -1,4 +1,4 @@
-# FizzBuzz
+# Extra practice 3: FizzBuzz
 
 > This file is intended for the instructor, not for the students.
 

@@ -1,4 +1,4 @@
-# Extra practice 2: for vs while
+# Extra practice 2: for and while
 
 ### 1
 

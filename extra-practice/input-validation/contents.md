@@ -1,4 +1,4 @@
-# Input validation (level 1)
+# Extra practice 1: Input validation
 
 ### 1
 
