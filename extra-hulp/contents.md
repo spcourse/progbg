@@ -17,6 +17,7 @@ of waar het probleem in de code zit. Het doel van de opddracht is niet om het we
 krijgen, maar om te leren hoe je het zonder hulp werkend kan krijgen.
 
 Er zijn twee typische vragen die je krijgt van studenten die het moelijk vinden:
+
 - Hoe moet ik beginnnen?
 - Het werkt niet, wat moet ik nu doen?
 
@@ -50,11 +51,9 @@ voorspellingen bij het tracen.
 
 ## Materiaal dat hierbij kan helpen.
 
-Video's over tracen en debuggen: [video's](/python/en/debugging-basics)
-
-Basisboek over het tracen van functies: [basisboek functies](https://pdp.mprog.nl/materials/python/en/functions/book_en.pdf)
-
-Automatisch tracen (niet zomaar aan studenten geven): [python tutor](https://pythontutor.com/visualize.html#mode=edit)
+- Video's over tracen en debuggen: [video's](/python/en/debugging-basics)
+- Basisboek over het tracen van functies: [basisboek functies](https://pdp.mprog.nl/materials/python/en/functions/book_en.pdf)
+- Automatisch tracen (niet zomaar aan studenten geven): [python tutor](https://pythontutor.com/visualize.html#mode=edit)
 
 
 ## Extra oefeningen (alleen voor extra hulp).
@@ -63,5 +62,5 @@ Automatisch tracen (niet zomaar aan studenten geven): [python tutor](https://pyt
 extra-hulp-uren doen.
 
 - [input validation](/extra-practice/input-validation)
-- [for vs while][/extra-practice/for-while]
+- [for vs while](/extra-practice/for-while)
 - [fizzbuzz](/extra-practice/fizzbuzz)
