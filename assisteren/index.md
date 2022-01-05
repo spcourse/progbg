@@ -6,9 +6,9 @@ Welkom bij de cursus Inleiding Programmeren voor Bèta-gamma! Met deze handleidi
 
 Er zijn drie *modules* die elk een ander onderwerp behandelen (meestal verbonden aan een bepaald wetenschapsgebied) maar vooral stukjes Python en technieken voor probleemoplossing aanleren. De volgorde van de modules is belangrijk: elke bouwt voort op de vorige.
 
-- Module 1: Python (basis programmeertechnieken)
-- Module 2: Numeriek integreren (gebruik de computer om oppervlaktes onder arbitraire functies te schatten)
-- Module 3: Big Data (analyseer GPS- en klimaatdata)
+- Module 1: Numbers
+- Module 2: Text
+- Module 3: Big Data
 
 ## Materialen
 
@@ -63,20 +63,13 @@ Om ervoor te zorgen dat alle studenten aan de beurt kunnen komen gebruiken we ee
 
 ## Nakijken en feedback
 
-Omdat het vak maar een maand duurt en we de studenten toch de gelegenheid willen bieden om te leren van de feedback op hun opdrachten, hebben we weinig tijd voor nakijken. Om dit mogelijk te maken beperken we het nakijken van de eerste drie opdrachten tot een simpele vraag: Werkt alles correct?
-
-Verder moeten de studenten hun code mondeling met hun begeleider bespreken. Hierbij is het de bedoeling dat de assistent ze laat zien hoe ze het ontwerp en de stijl van hun code kunnen verbeteren.
-
-Voor de laatste opdracht beoordelen we de student niet alleen op de correctheid van de code, maar ook op de stijl en het ontwerp.
+...
 
 ### Planning
 
 De planning voor het nakijken is als volgt:
 
-- De deadlines voor de opdrachten zijn steeds op zaterdagavond.
-- De nakijkdeadline: Maandagavond om 12:00.
-- Elke maandag houden we een nakijksessie om 11:30. Het doel hiervan is om aan het einde van de sessie al het werk te hebben nageken. Je bent als assistent niet verplicht om hierbij aanwezig te zijn. Maar het kan je een hoop tijd schelen. Mocht je er niet bij kunnen zijn, zorg er dan zelf voor dat je al het werk voor maandagavond hebt nagekeken.
-- Dinsdag: Feedback bespreken met de studenten. We maken de student zelf verantwoordelijk voor het bespreken van hun programma met een assistent, maar probeer ook zelf in de gaten te houden of je al jouw studenten hebt gesproken.
+...
 
 ### Cijfers
 
