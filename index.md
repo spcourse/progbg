@@ -17,6 +17,7 @@ Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de r
 ## Covid-19
 
 Helaas gaat het onderwijs in de komende periode (in ieder geval tot 14 januari) weer volledig online. Hier komt snel meer informatie over wat dit betekent voor dit vak.
+
 <!-- Er is een beperking van 75 man voor alle colleges. Voor de werkcolleges betekent dit dat niet iedereen tegelijk op campus mee kan doen. Deze colleges zullen daarom in hybride vorm plaatsvinden. Voor meer informatie: [hybride werkcolleges](/werkcolleges)
 
 De laptopcolleges (practica) zijn wel volledig op Science Park. -->
