@@ -17,12 +17,12 @@ Number theory (module 1):
         Practice with while-loops [practice]: /python/en/loops/while/practice
         Some typical uses of loops [theory]: /python/en/loops/practical-uses
         Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-        Submit your work [submit]: /submit/whiz
+        Submit your work (10 jan) [submit]: /submit/whiz
 
     Dinsdag (11 jan):
         Find leap-years [assignment]: /numbers/en/leap
         Find birthdays of leap-year babies [assignment]: /numbers/en/birthday
-        Submit your work [submit]: /submit/leap-birthday
+        Submit your work (11 jan) [submit]: /submit/leap-birthday
 
 
     Woensdag/donderdag (12/13 jan):
@@ -32,17 +32,17 @@ Number theory (module 1):
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
         Make lists of prime numbers [assignment]: /numbers/en/primelist
-        Submit your work [submit]: /submit/prime-listprimes
+        Submit your work (13 jan) [submit]: /submit/prime-listprimes
 
     Maandag (17 jan):
         Prove (?) Goldbach's conjecture [PAIR assignment]: /numbers/en/goldbach
-        Submit your work [submit]: /submit/goldbach
+        Submit your work (17 jan) [submit]: /submit/goldbach
 
     Dinsdag (18 jan):
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
-        Submit module 1 [submit MODULE]: /submit/module1
+        Submit module 1 (18 jan) [submit MODULE]: /submit/module1
 
 
 Text processing (module 2):
@@ -54,17 +54,17 @@ Text processing (module 2):
         Learn about strings [theory]: /python/en/strings
         Calculate basic statistics for a text [assignment]: /text/en/statistics
         Analyze text content word-by-word [assignment]: /text/en/words
-        Submit your work [submit]: /submit/statistics-words
+        Submit your work (20 jan) [submit]: /submit/statistics-words
 
     Maandag (24 jan):
         Reformat a text neatly [assignment]: /text/en/reformatting
-        Submit your work [submit]: /submit/reformatting
+        Submit your work (24 jan) [submit]: /submit/reformatting
 
     Dinsdag (25 jan):
         Learn how to read text from files [theory]: /python/en/files
         Perform a sentiment analysis [PAIR assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
-        Submit module 2 [submit MODULE]: /submit/module2
+        Submit module 2 (25 jan) [submit MODULE]: /submit/module2
 
 Big data (module 3):
     Introduction: /bigdata/en/
@@ -72,13 +72,13 @@ Big data (module 3):
     Woensdag (26 jan):
         Learn to analyse and process a data set [theory]: /python/en/files
         Process sensor data of a car ride [PAIR assignment]: /bigdata/en/car
-        Submit your work [submit]: /submit/car
+        Submit your work (26 jan) [submit]: /submit/car
 
     Maandag (31 jan):
         Learn more about functions [theory]: /python/en/functions3
         Dig around in KNMI temperature data [assignment]: /bigdata/en/temperatures
-        Submit your work [submit]: /submit/temperatures
+        Submit your work (31 jan) [submit]: /submit/temperatures
 
-    Dinsdag (01 feb):
+    Dinsdag (1 feb):
         Peer review [assignment]: .
-        Submit module 3 [submit MODULE]: /submit/module3
+        Submit module 3 (1 feb) [submit MODULE]: /submit/module3
