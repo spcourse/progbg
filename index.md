@@ -117,8 +117,8 @@ De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
 - [5] uitzonderlijk goed resultaat op alle kwaliteitsaspecten met zeer doordacht ontwerp
 - [4] uitstekend resultaat op alle aspecten, en zichtbaar nagedacht over het ontwerp
-- [3] goed resultaat voor alle aspecten
-- [2] zichtbare aandacht voor de meeste aspecten
+- [3] goed resultaat voor alle stijlelementen uit de styleguide
+- [2] goed resultaat voor alle aspecten
 - [1] beperkte aandacht voor de kwaliteitsaspecten
 
 Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
