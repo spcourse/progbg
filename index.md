@@ -116,7 +116,7 @@ Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, m
 De beoordeling voor *design* wordt gedaan op de volgende schaal:
 
 - [5] uitzonderlijk goed resultaat op alle kwaliteitsaspecten met zeer doordacht ontwerp
-- [4] uitstekend resultaat op alle aspecten, en zichtbaar nagedacht over het ontwerp
+- [4] uitstekend resultaat voor alle stijlelementen uit de styleguide, en zichtbaar nagedacht over het ontwerp
 - [3] goed resultaat voor alle stijlelementen uit de styleguide
 - [2] goed resultaat voor alle aspecten
 - [1] beperkte aandacht voor de kwaliteitsaspecten
