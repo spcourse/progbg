@@ -12,12 +12,12 @@ Alle werkcolleges vinden plaats in de CWI Turingzaal. Je kan kan een plek reserv
 
 Als je niet fysiek aanwezig kan zijn, kan je de colleges online volgen. Hiervoor zijn twee kanalen van belang.
 
-* Live-stream. Zie [hieronder](#Live-stream).
+* Live-stream. Zie [hieronder](#live-stream).
 
 * Zoom. Voor het college is het belangrijk dat je kan overleggen met medestudenten. Hiervoor gebruiken we zoom: [discussie zoom](https://uva-live.zoom.us/j/87393415014)
 
 **Het is belangrijk dat je zowel de zoomsessie als de live-stream open hebt!**
 
-## Live stream.
+#### Live stream.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCwnFtJh0zcwD4yrX3W_5nlg" frameborder="0" allowfullscreen></iframe>
