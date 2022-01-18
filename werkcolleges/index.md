@@ -22,3 +22,7 @@ Als je niet fysiek aanwezig kan zijn (omdat het college vol is of omdat je door 
 * Zoom. Voor het college is het belangrijk dat je kan overleggen met medestudenten. Hiervoor gebruiken we zoom: [discussie zoom](https://uva-live.zoom.us/j/87393415014)
 
 Het is belangrijk dat je zowel de zoomsessie als de live-stream open hebt!
+
+## Test
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCwnFtJh0zcwD4yrX3W_5nlg" frameborder="0" allowfullscreen></iframe>
