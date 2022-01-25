@@ -1,10 +1,10 @@
 # Code review ()
 
-> Warning: do not start code review until you **and** your partner are completely done and you have **both submitted working version of `temperature.py`**. If you haven't finished your programs you should ask for help on that specifically and never look at someone else's code.
+> Warning: do not start code review until you **and** your partner are completely done and you have **both submitted working version of `temperature.py`**. If you haven't finished your program you should ask for help on that specifically and never look at someone else's code.
 
-Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. In the code review, you will give each other feedback and advice on improving your code.
+Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. To get better at this it helps to review the code of someone else and discuss your own code with that person. To learn this, you will do a code review with another student. In the code review, you will give each other feedback and advice on improving your code.
 
-You will only review the `temperature` assignments for this module.
+You will only review the `temperature` assignment.
 
 ## What to do
 
