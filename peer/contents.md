@@ -10,7 +10,7 @@ You will only review the `temperature` assignment.
 
 1. Find a partner for this exercise.
 
-2.  For this module, you will assess and improve your code along the following aspects. Take your time to fully read and grasp the descriptions there before you perform the review with your partner.
+2.  For this module, you will assess and improve your code along the style guide. Take your time to fully read and grasp the descriptions there before you perform the review with your partner.
 
     - [Style guide](/python/en/style)
 
