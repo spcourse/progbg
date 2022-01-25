@@ -1,15 +1,12 @@
-# Submit improved version of Temperature
+## Submit improved code
 
-Here you can submit your solutions to the problems in your module. Take note:
+Below, you will submit improved version of your program. In addition, you are going to document who helped you review your code and what changes you made in response to the review. That information is needed for grading!
 
-- Ensure that all programs have the right name. For example, when submitting `prime.py`, a files named `prime (1).py` or `primetest2.py` will not be accepted!
+Which student contributed to reviewing your code?
+<input name="form[reviewers]" type="text" required>
 
-- Double-check that your programs are correct by running checkpy one last time.
+What changes did you make to your code in response to the reviews, and why? Take into account all of the listed aspects.
+<textarea name="form[changes]" rows="8" required></textarea>
 
-- You may submit and re-submit without limit up until the deadline. However, each time you submit, you need to submit all problems at once.
-
-- In case of problems submitting, ask your teacher or send an e-mail to <progbg@uva.nl>.
-
-With whom did you do the peer-review?
-
-<textarea name="form[1]" rows="1" required=""></textarea>
+What did you **not** change in response to the reviews, and why?
+<textarea name="form[not_changed]" rows="3" required></textarea>
