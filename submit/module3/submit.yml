@@ -2,7 +2,6 @@ name: m3
 files:
     required:
         - temperature.py
-        - peer_review.txt
 check:
     tool: checkpy
     repo: uva-sp/sp1
