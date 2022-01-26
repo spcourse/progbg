@@ -1,4 +1,6 @@
-# Oefententamen Inleiding Programmeren voor Bèta-gamma 27-01-2021
+# Oefententamen Inleiding Programmeren voor Bèta-gamma
+
+Datum: 31-01-2022
 
 Dit is een digitaal tentamen. Het tentamen bestaat uit 4 opdrachten waarin je een kort python programma moet schrijven.
 
