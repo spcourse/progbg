@@ -37,6 +37,8 @@ Verwachtte output:
 
 ### 2: Decompose
 
+> Er is geen checkpy voor deze opdracht
+
 Sommige getallen $$n$$ kan je schrijven in de vorm $$n = 2 \cdot a + b$$ waarbij $$a$$ en $$b$$ allebei delers van $$n$$ zijn.
 Schrijf een functie `print_decomposition(n)`. Deze functie print alle decomposities die aan de bovenstaande
 regel voldoen.
