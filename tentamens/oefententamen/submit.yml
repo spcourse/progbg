@@ -1,0 +1,8 @@
+name: oefententamen
+files:
+    required:
+        - tentamen22_1.py
+check:
+    tool: checkpy
+    repo: spcourse/exam-tests
+    args: tentamen22_1

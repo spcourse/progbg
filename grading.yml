@@ -24,7 +24,10 @@ templates:
     4: &check
         type: pass
         subgrades:
+            checkpy: integer
             done: boolean
+        automatic:
+            checkpy: correctness_score
         calculation: done
         hide_calculated: true
 
@@ -186,6 +189,11 @@ cijfers:
         m2: 1
         m3: 1
 
+oefententamen:
+    show_progress: true
+    required: true
+    submits:
+        oefententamen: 1
 
 tentamen:
     show_progress: true
