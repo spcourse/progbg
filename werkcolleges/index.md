@@ -20,4 +20,6 @@ Als je niet fysiek aanwezig kan zijn, kan je de colleges online volgen. Hiervoor
 
 #### Live stream.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCwnFtJh0zcwD4yrX3W_5nlg" frameborder="0" allowfullscreen></iframe>
+_Geen live stream voor de colleges op 31 januari en 2 februari. Alles gaat via de zoom._
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCwnFtJh0zcwD4yrX3W_5nlg" frameborder="0" allowfullscreen></iframe> -->
