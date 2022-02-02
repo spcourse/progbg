@@ -1,6 +1,6 @@
 # Uitwerkingen oefententamen
 
-Je kan de uitwerkingen voor het oefententamen hieronder downloaden. Dit is specifiek bedoelt voor studenten die bij de bespreking waren als naslag.
+Je kan de uitwerkingen voor het oefententamen hieronder downloaden. Dit is specifiek bedoelt als naslag voor studenten die bij de bespreking waren.
 
 Het simpelweg doorlezen van de uitwerkingen heeft niet zo heel veel zin. Daar leer je weinig van. Als je de uitwerkingen wilt gebruiken om van te leren probeer dan (voor je naar de uitwerking kijkt) zelf te reproduceren wat we hebben besproken. Pas als je dat serieus hebt gedaan kijk je naar de uitwerking.
 
