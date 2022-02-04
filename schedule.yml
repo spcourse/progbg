@@ -89,6 +89,6 @@ Oefententamen:
     Tentamen: /tentamens/oefententamen
     Uitwerkingen: /tentamens/uitwerking-oefententamen
 
-Tentamen:
-
-    Tentamen: /tentamens/tentamen
+# Tentamen:
+#
+#     Tentamen: /tentamens/tentamen
