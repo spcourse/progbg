@@ -130,7 +130,7 @@ Gebruiksvoorbeeld:
 
 Verwachte output:
 
-    200
+    129
 
 Je kan ook het bestand [barca_short.txt](barca_short.txt) gebruiken om je code mee te testen. Deze bevat alleen de eerste 4 wedstrijden.
 
@@ -141,7 +141,7 @@ Gebruiksvoorbeeld:
 
 Verwachte output:
 
-    13
+    4
 
 
 Tips:
