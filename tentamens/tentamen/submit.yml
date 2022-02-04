@@ -5,4 +5,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: tentamen22_1
+    args: tentamen22_2
