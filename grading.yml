@@ -136,11 +136,11 @@ grades:
 
 calculation:
     eindcijfer:
-        opdrachten: 0
+        # opdrachten: 0
         cijfers: 1
         tentamen: 0
     eindcijfer_herkansing:
-        opdrachten: 0
+        # opdrachten: 0
         cijfers: 1
         tentamen2: 0
 
