@@ -70,7 +70,7 @@ Verwachte output:
 
 De tekst "a aa aa b" heeft een woord dat één keer wordt herhaald: ("aa"). De tekst "aa bb aa y" heeft geen herhaalde woorden (de twee "aa" staan niet direct achter elkaar). De tekst "x aa aa aa y bb bb" heeft in totaal drie herhaalde woorden ("aa" wordt twee keer herhaald en "bb" wordt één keer herhaald).
 
-Schrijf een functie `repetition_count(text)`. De functie verwacht een string als input en returnt het aantal herhaalde lengtes dat in de string voorkomt.
+Schrijf een functie `repetition_count(text)`. De functie verwacht een string als input en returnt het aantal herhaalde woorden dat in de string voorkomt.
 
 Gebruiksvoorbeeld 1:
 
