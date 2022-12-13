@@ -1,6 +1,6 @@
 # Inleiding Programmeren<br><small>Studiewijzer</small>
 
-**Versie: Januari 2022**
+**Versie: Januari 2023**
 
 ![Python](python-logo.png){:.inline}  
 
@@ -8,19 +8,11 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Docenten en assistenten
 
-Simon Pauw (docent, coördinator), Martijn Stegeman (examinator), Simon Stuij (docent), Iris Luden, Daan Moll, Coen van den Elsen, Danny van den Berg, Emma Oosterhuis, Jacomijn Prins, Roan van Blanken
+Simon Pauw (docent, coördinator), Jacob Vermeule (docent), Iris Luden, Roan van Blanken, Emma Oosterhuis, Jacomijn Prins, Amir Sahrani, Marit van den Helder, Vincent Huf
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
 Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
-
-## Covid-19
-
-Helaas gaat het onderwijs in de komende periode (in ieder geval tot 14 januari) weer volledig online. Hier komt snel meer informatie over wat dit betekent voor dit vak.
-
-<!-- Er is een beperking van 75 man voor alle colleges. Voor de werkcolleges betekent dit dat niet iedereen tegelijk op campus mee kan doen. Deze colleges zullen daarom in hybride vorm plaatsvinden. Voor meer informatie: [hybride werkcolleges](/werkcolleges)
-
-De laptopcolleges (practica) zijn wel volledig op Science Park. -->
 
 ## Verwachtingen
 
@@ -38,7 +30,6 @@ Wat willen we dat je kunt aan het einde van deze cursus?
 * Je kunt code overzichtelijk en beter leesbaar maken door een
   consistente stijl toe te passen.
 * Je kunt enkele veelvoorkomende programmeerfouten opsporen en verbeteren.
-
 
 ## Activiteiten
 
@@ -59,12 +50,13 @@ Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daa
 
 In de table hieronder kan je alle deadlines vinden.
 
-| onderdeel | dagdeadline | dagdeadline | dagdeadline | dagdeadline | einddeadline |  
-| --------- | ----------- | ----------- | ----------- | ----------- | ------------ |
-| module 1  | ma 10 jan   | di 11 jan   | do 13 jan   | ma 17 jan   | di 18 jan    |  
-| module 2  |             |             | do 20 jan   | ma 24 jan   | di 15 jan    |  
-| module 3  |             |             | do 27 jan   | ma 31 jan   | di 01 feb    |  
-| tentamen  |             |             |             |             | vr 04 feb    |  
+
+| week/dag | ma                           | di                              | wo                           | do                             | vr       |
+|----------| ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------ | -------- |
+| week 1   | module 1 <br/> dagdeadline 1 | module 1 <br/> dagdeadline 2    |                              | module 1 <br/> dagdeadline 3   |          |
+| week 2   | module 1 <br/> dagdeadline 4 | **module 1 <br/> einddeadline** |                              | module 2 <br/> dagdeadline 1   |          |
+| week 3   | module 2 <br/> dagdeadline 2 | **module 2 <br/> einddeadline** |                              | module 3 <br/> dagdeadline 1   |          |
+| week 4   |                              | module 3 <br/> dagdeadline 2    |                              |**module 3 <br/> einddeadline** | tentamen |
 
 De tijd van elke deadline is om **18:00**. Het is geen probleem als de opdrachten een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
 
@@ -220,7 +212,7 @@ uitwerking van internet, dan zijn er twee mogelijkheden.
   welke inzendingen overeenkomen, waarna de commissie beslist over te nemen
   maatregelen.
 
-## Vakevaluatie vorig studiejaar
+<!-- ## Vakevaluatie vorig studiejaar -->
 
 > todo
 
