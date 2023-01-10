@@ -117,7 +117,7 @@ Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van he
 
 ## Extra begeleiding
 
-Als je merkt dat je het echt heel moeilijk vindt, en ondanks dat je heel erg je best doet het niet lukt, kan je extra hulp krijgen. Hiervoor zijn sessies op donderdag en vrijdag ingepland.
+Als je merkt dat je het echt heel moeilijk vindt, en ondanks dat je heel erg je best doet het niet lukt, kan je extra hulp krijgen. Hiervoor zijn sessies op dinsdag en donderdag ingepland.
 
 Deze extra hulp is geen hulp met het maken van de opdrachten. Het is dus **geen uurtje voor extra assistentie**. Het doel is om te achterhalen wat je nu precies moeilijk vindt en daaraan wat extra te werken. Kom dus niet naar deze sessies met een vraag over de opdrachten, die zullen hier niet worden beantwoord.
 
