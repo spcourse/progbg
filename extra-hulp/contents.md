@@ -63,5 +63,7 @@ extra-hulp-uren doen.
 
 - [input validation](/extra-practice/input-validation)
 - [for vs while](/extra-practice/for-while)
+- [for vs while 2](/extra-practice/for-while2)
 - [fizzbuzz](/extra-practice/fizzbuzz)
 - [lists](/extra-practice/lists)
+- [lists 2](/extra-practice/lists2)
