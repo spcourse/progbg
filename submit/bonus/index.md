@@ -13,5 +13,3 @@ Here you can submit your solutions to the problems in your module. Take note:
 - **Make sure that you write with whom you collaborated, both in the comments of your assignment and the text field below.**
 
 With whom did you collaborate on this assignment?
-
-<textarea name="form[1]" rows="1" required=""></textarea>
