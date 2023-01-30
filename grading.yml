@@ -114,6 +114,13 @@ grades:
         automatic:
             checkpy_precentage: correctness_score * 100 / 8
 
+    bonus:
+        type: float
+        subgrades:
+            grade: float
+        calculation: grade
+        hide_calculated: false
+
     oefententamen: *check
     tentamen: *check
     tentamen2: *check
@@ -181,6 +188,8 @@ opdrachten:
 
         car: 1
         temperature: 1
+
+        bonus: 0
 
 cijfers:
     show_progress: true

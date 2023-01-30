@@ -1,0 +1,5 @@
+name: car
+files:
+    required:
+        - eratosthenes.py
+        - plot.png
