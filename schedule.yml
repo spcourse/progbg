@@ -61,7 +61,8 @@ Text processing (module 2):
         Submit your work (23 jan) [submit]: /submit/reformatting
 
     Dinsdag (24 jan):
-        Learn how to read text from files [theory]: /python/en/files
+        Learn how to read text from files [theory]: /python/en/file-io
+        Learn how to read text from files [practice]: /python/en/files
         Perform a sentiment analysis [PAIR assignment]: /text/en/sentiment
         Present an overview of Twitter sentiment [assignment]: /text/en/tweets
         Submit module 2 (24 jan) [submit MODULE]: /submit/module2
@@ -70,7 +71,8 @@ Big data (module 3):
     Introduction: /bigdata/en/
 
     Woensdag/donderdag (25/26 jan):
-        Reading files (repeated form last module) [theory]: /python/en/files
+        Learn how to read text from files (repeated) [theory]: /python/en/file-io
+        Learn how to read text from files (repeated) [practice]: /python/en/files
         Process sensor data of a car ride [PAIR assignment]: /bigdata/en/car
         Submit your work (26 jan) [submit]: /submit/car
 
