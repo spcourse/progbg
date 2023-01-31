@@ -1,4 +1,4 @@
-name: car
+name: bonus
 files:
     required:
         - eratosthenes.py
