@@ -1,8 +1,8 @@
 name: tentamen
 files:
     required:
-        - tentamen22_2.py
+        - tentamen23_1.py
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: tentamen22_2
+    args: tentamen23_1
