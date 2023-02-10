@@ -87,12 +87,11 @@ Big data (module 3):
 
 
 Oefententamen:
-
     Tentamen: /tentamens/oefententamen1
     # Uitwerkingen: /tentamens/uitwerking-oefententamen
 
 Tentamen:
-
     Tentamen: /tentamens/tentamen
-# Hertentamen:
-#     Tentamen: /tentamens/tentamen2
+
+Hertentamen:
+    Tentamen: /tentamens/tentamen2
