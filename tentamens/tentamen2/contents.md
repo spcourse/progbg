@@ -24,7 +24,7 @@ Run checkpy:
 
 ### 1: Triangular
 
-*Triangular numbers* x zijn getallen die de het resultaat zijn van de som $1 + 2 + \ldots + i$ voor een gegeven waarde $i$. Het eerste *triangular number* is $1$, het volgende is $1 + 2 = 3$, het volgende $1 + 2 + 3 = 6$, het *triangular number** erna is $10$, etc.
+*Triangular numbers* x zijn getallen die de het resultaat zijn van de som $1 + 2 + \ldots + i$ voor een gegeven waarde $i$. Het eerste *triangular number* is $1$, het volgende is $1 + 2 = 3$, het volgende $1 + 2 + 3 = 6$, het *triangular number* erna is $10$, etc.
 
 Schrijf een functie genaamd `triangular(n)` dat een lijst van alle triangular numbers kleiner dan $n$ produceert.
 
