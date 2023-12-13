@@ -1,18 +1,20 @@
 # Inleiding Programmeren<br><small>Studiewijzer</small>
 
-**Versie: Januari 2023**
+**Versie: Januari 2024**
 
 ![Python](python-logo.png){:.inline}  
 
 We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het programmeren, maar je gaat vooral aan de slag met toepassingen uit verschillende wetenschapsgebieden.
 
-## Docenten en assistenten
+## Team
 
-Simon Pauw (docent, coördinator), Jacob Vermeule (docent), Iris Luden, Roan van Blanken, Emma Oosterhuis, Jacomijn Prins, Amir Sahrani, Marit van den Helder, Vincent Huf
+...
+
+## Vragem
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
-Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
+Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@proglab.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
 
 ## Verwachtingen
 
@@ -60,9 +62,7 @@ In de table hieronder kan je alle deadlines vinden.
 
 De tijd van elke deadline is om **18:00**. Het is geen probleem als de opdrachten een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
 
-**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddelijk een probleem geeft, krijg je 5 te-laat-credits. Elke keer dat je een onderdeel een dag te laat inlvert kost je dat een credit (2 dagen te laat is dus 2 credits). Je mag dus niet vaker dan 5 keer iets een dag te laat inleveren.
-
-Als je, ondanks dat je hard aan het vak werkt, structureel gebruik moet maken van de te-laat-credits. Dan kom je misschien in aanmerking voor extra begeleiding (zie het kopje [extra begeleiding](#extra-begeleiding)).
+**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddelijk een probleem geeft, krijg je 5 te-laat-credits. Elke keer dat je een onderdeel een dag te laat inlevert kost je dat een credit (2 dagen te laat is dus 2 credits). Je mag dus niet vaker dan 5 keer iets een dag te laat inleveren. Als je hieroverheen dreigt te gaan, neem dan contact op met de docent.
 
 ## Eindcijfer
 
@@ -105,35 +105,18 @@ Correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaak
 
 Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan in ieder geval 3 punten moet kunnen halen voor design.
 
-De beoordeling voor *design* wordt gedaan op de volgende schaal:
+De beoordeling voor *design* wordt gedaan op de volgende schaal. Je kan 3 punten verdienen door de style guide goed te volgen:
 
-- [5] uitzonderlijk goed resultaat op alle kwaliteitsaspecten met zeer doordacht ontwerp
-- [4] uitstekend resultaat voor alle stijlelementen uit de styleguide, en zichtbaar nagedacht over het ontwerp
-- [3] goed resultaat voor alle stijlelementen uit de styleguide
-- [2] goed resultaat voor alle aspecten
 - [1] beperkte aandacht voor de kwaliteitsaspecten
+- [2] goed resultaat voor alle aspecten
+- [3] zeer goed resultaat voor alle stijlelementen uit de styleguide
+
+Daar bovenop kan je nog 2 punten verdien met een goed doordacht ontwerp van je programma.
+
+- [+1] zichtbaar nagedacht over het ontwerp
+- [+2] zeer doordacht ontwerp
 
 Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
-
-## Extra begeleiding
-
-Als je merkt dat je het echt heel moeilijk vindt, en ondanks dat je heel erg je best doet het niet lukt, kan je extra hulp krijgen. Hiervoor zijn sessies op dinsdag en donderdag ingepland.
-
-Deze extra hulp is geen hulp met het maken van de opdrachten. Het is dus **geen uurtje voor extra assistentie**. Het doel is om te achterhalen wat je nu precies moeilijk vindt en daaraan wat extra te werken. Kom dus niet naar deze sessies met een vraag over de opdrachten, die zullen hier niet worden beantwoord.
-
-Er is beperkt plek voor deze extra hulp, dus dit is alleen bedoeld voor studenten die het echt nodig hebben. Je kan hiervoor in aanmerking komen als:
-
-- je aantoonbaar je best doet. Je steekt dus ruim genoeg tijd in het vak (meer dan 20 uur per week), maar dat lijkt niet genoeg te zijn.
-- je veel moeite hebt met het programmeren.
-
-Je gaat bij dit vak in korte tijd leren programmeren. Het is normaal om dat lastig vinden. Maar niet voor iedereen is de extra hulp even nuttig. Hoe weet je of het zoveel moeite kost dat je baat hebt bij deze extra hulp? Indicatoren hiervoor zijn bijvoorbeeld als je:
-
-- bijna nooit weet hoe je aan een opdracht moet beginnen.
-- je heel vaak opnieuw begint aan een opdracht zonder verder te komen.
-- het ondanks genoeg uren te maken, de deadlines onhaalbaar lijken.
-- zelden goede antwoorden kan geven op de conceptvragen tijdens het werkcollege.
-
-Mail ons even als je hier gebruik van wilt maken: progbg@mprog.nl
 
 ## Aanwezigheid
 
@@ -212,26 +195,10 @@ uitwerking van internet, dan zijn er twee mogelijkheden.
   welke inzendingen overeenkomen, waarna de commissie beslist over te nemen
   maatregelen.
 
-<!-- ## Vakevaluatie vorig studiejaar -->
-
-> todo
-
-<!-- In het studiejaar 2016-2017 is dit vak voor het eerst gegeven. Studenten waren inhoudelijk over het algemeen tevreden en vonden de opdrachten leuk. Wel was de werkdruk soms veel te hoog.
-
-In het studiejaar 2017-2018 gaven we het vak voor de tweede keer. De werkdruk was aanzienlijk beter volgens de studenten. Hierbij een samenvatting van de opmerkingen:
-
-| Sterke punten      | Mogelijke verbeteringen                                             |  
-| ------------------ | ------------------------------------------------------------------- |  
-| zeer leerzaam      | in de 'spits' duurde het soms lang voordat vragen werden beantwoord |  
-| duidelijke opbouw  | er zou meer uitleg bij kunnen                                       |  
-| nuttige opdrachten |                                                                     |  
-| goede docenten     |                                                                     |  
-
-Dit jaar zijn er meer oefeningen en tussenopdrachtjes in de modules opgenomen, waarvan de bedoeling is dat het helpt om beter van de cursus te leren. -->
 
 ## Dankwoord
 
 Gedeelten van deze cursus zijn gebaseerd op:
 
-- Harvard's CS50, op <http://cs50.tv>
-- UvA's Inleiding Wetenschappelijk Programmeren, op <https://inleiding.mprog.nl/>
+- UvA's Scientific Programming, <https://sp.proglab.nl/>
+- Harvard's CS50, <http://cs50.tv>
