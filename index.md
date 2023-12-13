@@ -10,7 +10,7 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ...
 
-## Vragem
+## Vragen
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
@@ -56,9 +56,9 @@ In de table hieronder kan je alle deadlines vinden.
 | week/dag | ma                           | di                              | wo                           | do                             | vr       |
 |----------| ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------ | -------- |
 | week 1   | module 1 <br/> dagdeadline 1 | module 1 <br/> dagdeadline 2    |                              | module 1 <br/> dagdeadline 3   |          |
-| week 2   | module 1 <br/> dagdeadline 4 | **module 1 <br/> einddeadline** |                              | module 2 <br/> dagdeadline 1   |          |
-| week 3   | module 2 <br/> dagdeadline 2 | **module 2 <br/> einddeadline** |                              | module 3 <br/> dagdeadline 1   |          |
-| week 4   |                              | module 3 <br/> dagdeadline 2    |                              |**module 3 <br/> einddeadline** | tentamen |
+| week 2   | module 1 <br/> dagdeadline 4 |                                 | **module 1 <br/> einddeadline** | module 2 <br/> dagdeadline 1   |          |
+| week 3   | module 2 <br/> dagdeadline 2 |                                 | **module 2 <br/> einddeadline** | module 3 <br/> dagdeadline 1   |          |
+| week 4   | module 3 <br/> dagdeadline 2 |    |**module 3 <br/> einddeadline** || tentamen |
 
 De tijd van elke deadline is om **18:00**. Het is geen probleem als de opdrachten een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
 
