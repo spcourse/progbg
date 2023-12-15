@@ -14,7 +14,7 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
-Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@proglab.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
+Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
 
 ## Verwachtingen
 
