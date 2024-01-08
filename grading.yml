@@ -69,11 +69,11 @@ grades:
     whiz:
         <<: *automatic
         automatic:
-            checkpy_percentage: correctness_score * 100 / 1
+            checkpy_percentage: correctness_score * 100 / 3
     birthday:
         <<: *automatic
         automatic:
-            checkpy_percentage: correctness_score * 100 / 9
+            checkpy_percentage: correctness_score * 100 / 19
     listprimes:
         <<: *automatic
         automatic:
