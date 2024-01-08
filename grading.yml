@@ -108,7 +108,7 @@ grades:
     m2:
         <<: *manual
         automatic:
-            checkpy_precentage: correctness_score * 100 / 16
+            checkpy_precentage: correctness_score * 100 / 17
     m3:
         <<: *manual
         automatic:
