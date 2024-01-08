@@ -86,11 +86,11 @@ grades:
     statistics:
         <<: *automatic
         automatic:
-            checkpy_percentage: correctness_score * 100 / 8
+            checkpy_percentage: correctness_score * 100 / 18
     reformatting:
         <<: *automatic
         automatic:
-            checkpy_percentage: correctness_score * 100 / 2
+            checkpy_percentage: correctness_score * 100 / 11
 
     car:
         <<: *automatic
@@ -108,7 +108,7 @@ grades:
     m2:
         <<: *manual
         automatic:
-            checkpy_precentage: correctness_score * 100 / 5
+            checkpy_precentage: correctness_score * 100 / 16
     m3:
         <<: *manual
         automatic:
