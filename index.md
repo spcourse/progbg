@@ -10,7 +10,7 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 <table>
   <tr>
-    <td><img height="200px" src="team/Simon.JPG"></img></td><td>BIO</td>
+    <td><img src="./team/Simon.JPG" height="200"></td><td>BIO</td>
   </tr>
 </table>
 
