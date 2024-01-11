@@ -8,8 +8,8 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Team
 
-| ![](team/Simon.JPG)<br>Simon | bla                           |
-| ![](team/Simon.JPG)<br>Simon | bla                           |  
+| ![](team/Simon.JPG){:height=100}<br>Simon | bla                           |
+| ![](team/Simon.JPG){:height=100}<br>Simon | bla                           |  
 
 ## Vragen
 
