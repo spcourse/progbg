@@ -7,17 +7,18 @@
 We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het programmeren, maar je gaat vooral aan de slag met toepassingen uit verschillende wetenschapsgebieden.
 
 ## Team
-|----------| ---------------------------- |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/amir.jpg" height = "100px"><br>Amir | bla |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/coen.jpg" height = "100px"><br>Coen | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/daan.jpg" height = "100px"><br>Daan | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/daniel.jpg" height = "100px"><br>Daniël | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/jacob.jpg" height = "100px"><br>Jacob | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/marit.jpg" height = "100px"><br>Marit | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/melanie.jpg" height = "100px"><br>Melanie | bla |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/roan.jpg" height = "100px"><br>Roan | bla  |
-| <img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" height = "100px"><br>Simon | bla                           |
-|----------| ---------------------------- |
+<table>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/amir.jpg" height = "100px"><br>Amir </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/coen.jpg" height = "100px"><br>Coen </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daan.jpg" height = "100px"><br>Daan </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daniel.jpg" height = "100px"><br>Daniël </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/jacob.jpg" height = "100px"><br>Jacob </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/marit.jpg" height = "100px"><br>Marit </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/melanie.jpg" height = "100px"><br>Melanie </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/roan.jpg" height = "100px"><br>Roan </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" height = "100px"><br>Simon </td><td> bla </td></tr>
+</table>
+
 
 ## Vragen
 
