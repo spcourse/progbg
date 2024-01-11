@@ -7,9 +7,16 @@
 We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je leert over de basis van het programmeren, maar je gaat vooral aan de slag met toepassingen uit verschillende wetenschapsgebieden.
 
 ## Team
-
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/amir.JPG" height = "100px"><br>Amir | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/coen.JPG" height = "100px"><br>Coen | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/daan.JPG" height = "100px"><br>Daan | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/daniel.JPG" height = "100px"><br>Daniël | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/jacob.JPG" height = "100px"><br>Jacob | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/marit.JPG" height = "100px"><br>Marit | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/melanie.JPG" height = "100px"><br>Melanie | bla  
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/roan.JPG" height = "100px"><br>Roan | bla  
 | <img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" height = "100px"><br>Simon | bla                           |
-| ![](team/Simon.JPG){:style = "height:100"}<br>Simon | bla                           |  
+
 
 ## Vragen
 
