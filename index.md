@@ -8,15 +8,18 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Team
 <table>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/amir.jpg" height = "100px"><br>Amir </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/coen.jpg" height = "100px"><br>Coen </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daan.jpg" height = "100px"><br>Daan </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daniel.jpg" height = "100px"><br>Daniël </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/jacob.jpg" height = "100px"><br>Jacob </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/marit.jpg" height = "100px"><br>Marit </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/melanie.jpg" height = "100px"><br>Melanie </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/roan.jpg" height = "100px"><br>Roan </td><td> bla </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" height = "100px"><br>Simon </td><td> bla </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/amir.jpg" height = "100px"><br>Amir </td><td> Ik ben Amir en ik doe de Masters Computational Science, hier ben ik bezig met het simuleren van complexe systemen. Ik TA al een tijdje dus ik hopelijk kan ik je goed op weg helpen! </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/coen.jpg" height = "100px"><br>Coen </td><td> Coen van den Elsen
+Bachelor Beta gamma (major KI) afgerond met exchange
+nu AI master aan de uva </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daan.jpg" height = "100px"><br>Daan </td><td> Hoi!
+Ik ben Daan, master AI student en ik heb in het verleden psychologie aan de UvA gedaan met een specialisatie in brain and cognition (die ook als major bestaat bij beta-gamma). Daarnaast heb ik de bachelor KI gedaan en een half jaar in Chili gestudeerd via het exchange programma van de uva. Je mag me alles vragen over programmeren, maar ook over studies/studiekeuze of andere dingen die je boeien :) </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/daniel.jpg" height = "100px"><br>Daniël </td><td> ... </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/jacob.jpeg" height = "100px"><br>Jacob </td><td> Ik ben Jacob Groot, 4e jaars economie student. Tijdens mijn studie heb ik de minor AI afgerond en vond dit zo vet dat ik nooit gestopt ben met programmeren en AI. Naast dit vak ben ik inmiddels ook TA voor de minor AI waar het allemaal begon. Ik heb er zin in! </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/marit.jpg" height = "100px"><br>Marit </td><td> Hoi! Ik ben Marit en ben inmiddels derdejaars Bèta Gamma student. Ik doe de major KI, dus als je daar vragen over hebt kun je altijd bij mij terecht (naast je programmeervragen natuurlijk ;)). </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/melanie.jpg" height = "100px"><br>Melanie </td><td> Hoi, mijn naam is Melanie en ik ben een van de TA’s bij dit vak. Op dit moment volg ik de master Chemistry (UvA / VU). Tijdens mijn bachelor heb ik de minor Artificial Intelligence afgerond, waarbij ik veel programmeerervaring heb opgedaan. Ik kijk ernaar uit om jullie kennis te laten maken met programmeren en te helpen tijdens dit vak! </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/roan.jpg" height = "100px"><br>Roan </td><td> Hoi! Ik ben Roan en ik doe de Master Artificial Intelligence! Binnen deze master hoop ik mij meer te focussen op Computer Vision en Deep Learning. Daarnaast heb ik vorig jaar ook de Bachelor Bèta-gamma met de major Kunstmatige Intelligentie afgerond. Mocht je vragen hebben over deze de major of iets anders stel ze vooral! </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" height = "100px"><br>Simon </td><td> Hoi, ik ben Simon. Ik heb zelf Informatica en daarna de Master of Logic aan de UvA gestudeerd. Ik heb een deel van mijn studie in Parijs (Paris 1) gevolgd. Ik heb onderzoek gedaan aan op het gebied van computationele taalkunde en robotica bij Sony, Aldebaran (nu Softbank), Universtitat Autònoma de Barcelona en de UvA. Op dit moment ben ik full-time docent bij de Minor Programmeren en geef vershchillende programmeervakken bij verschillende opleidingen.</td></tr>
 </table>
 
 
