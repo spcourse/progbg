@@ -8,11 +8,8 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Team
 
-<table>
-  <tr>
-    <td><img src="./team/Simon.JPG" height="200"></td><td>BIO</td>
-  </tr>
-</table>
+| ![embed](team/Simon.JPG)<br>Simon | bla                           |
+| ![embed](team/Simon.JPG)<br>Simon | bla                           |  
 
 ## Vragen
 
