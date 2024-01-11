@@ -8,7 +8,7 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Team
 
-| ![](team/Simon.JPG){:style = "height:100"}<br>Simon | bla                           |
+| <img src = "https://github.com/spcourse/progbg/raw/2023/team/Simon.JPG" hight = "100"><br>Simon | bla                           |
 | ![](team/Simon.JPG){:style = "height:100"}<br>Simon | bla                           |  
 
 ## Vragen
