@@ -121,7 +121,7 @@ Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, m
 De beoordeling voor *design* wordt gedaan op de volgende schaal. Je kan 3 punten verdienen door de style guide goed te volgen:
 
 - [1] beperkte aandacht voor de kwaliteitsaspecten
-- [2] goed resultaat voor alle aspecten
+- [2] goed resultaat voor de meeste aspecten
 - [3] zeer goed resultaat voor alle stijlelementen uit de styleguide
 
 Daar bovenop kan je nog 2 punten verdien met een goed doordacht ontwerp van je programma.
