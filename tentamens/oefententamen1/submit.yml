@@ -1,8 +1,8 @@
 name: oefententamen
 files:
     required:
-        - tentamen22_1.py
+        - ipbg_practice_exam.py
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: tentamen22_1
+    args: ipbg_practice_exam

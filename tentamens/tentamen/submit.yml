@@ -1,8 +1,8 @@
 name: tentamen
 files:
     required:
-        - tentamen23_1.py
+        - ipbg_exam24_1.py
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: tentamen23_1
+    args: ipbg_exam24_1
