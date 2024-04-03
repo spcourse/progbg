@@ -5,4 +5,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: ipbg_exam24_1
+    args: ipbg_exam24_2
