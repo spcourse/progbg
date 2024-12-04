@@ -18,7 +18,7 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
   </td></tr>
   <!-- <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td>
   </td></tr> -->
-  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Hoi, ik ben Simon. Ik heb zelf Informatica en daarna de Master of Logic aan de UvA gestudeerd. Ik heb een deel van mijn studie in Parijs (Paris 1) gevolgd. Ik heb onderzoek gedaan aan op het gebied van computationele taalkunde en robotica bij Sony, Aldebaran (nu Softbank), Universtitat Autònoma de Barcelona en de UvA. Op dit moment ben ik full-time docent bij de Minor Programmeren en geef vershchillende programmeervakken bij verschillende opleidingen.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon heeft Informatica en daarna de Master of Logic aan de UvA gestudeerd. Hij heeft onderzoek gedaan op het gebied van computationele taalkunde en robotica bij Sony, Aldebaran (nu Softbank), Universtitat Autònoma de Barcelona en de UvA. Nu werkt hij als docent op de UvA en geeft programmeeronderwijs bij verschillende opleidingen.</td></tr>
 </table>
 
 
@@ -93,7 +93,7 @@ Je krijgt een eindcijfer voor dit vak als je:
 * elke module op tijd en naar verwachting hebt ingeleverd;
 * het tentamen voldoende hebt gemaakt.
 
-Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NA (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
+Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NAP (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
 
 Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in de zaal een onder toezicht een aantal programmeeropdrachten gaat maken. Je haalt het tentamen als voldoende van deze opdrachten correct weet te maken.
 
