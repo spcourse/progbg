@@ -18,7 +18,7 @@ Welkom:
 
 
 
-Number theory (module 1):
+Number Theory (Module 1):
     Introduction: /numbers/en/
 
     1.1 Output - 5pt.:
@@ -46,7 +46,7 @@ Number theory (module 1):
         Sum [individueel] TODO: /basics/sum
         Leap Years [individueel] TODO: /numbers/en/leap-years
         Count Leap Years [individueel] TODO: /numbers/en/count-leap
-        Find leap-years [assignment]: /numbers/en/leap
+        Find leap-years [samen]: /numbers/en/leap
         Newton [individueel] TODO: /basics/newton
         Prime Check [individueel]* TODO: /numbers/en/check-prime
         Submit (8 jan) [submit]: /submit/1-4-for
@@ -59,54 +59,72 @@ Number theory (module 1):
         More Then [individueel] TODO: /basics/more-then
         Sum To [individueel] TODO: /basics/sum-to
         Birthday [samen]: /numbers/en/birthday
-        Nth Prime [assignment] TODO (aanpassen): /numbers/en/primes
+        Nth Prime [individueel] TODO (aanpassen)*: /numbers/en/primes
         Submit (13 jan) [submit]: /submit/1-5-while
     1.6 Lijsten - 10pt.:
         Debugging [theorie]: /python/en/debugging-basics
         Code in Style [theorie]: /python/en/style
         Lists [theorie]: /python/en/lists
         # Practice with lists [practice]: /python/en/lists/practice
-        Make lists of prime numbers [assignment]: /numbers/en/primelist
+        Make lists of prime numbers [individueel]*: /numbers/en/primelist
         Submit (14 jan) [submit]: /submit/1-6-lists
     1.7 Challenges:
         Goldbach's Conjecture [individueel]: /numbers/en/goldbach
-        Submit Goldbach (14 jan) [submit 10pt]: /submit/ch1-goldbach
+        Submit Goldbach (14 jan) [submit 10pt]: /submit/c11-goldbach
+        Amicable [individueel]: /numbers/en/amicable
+        Submit Amicable (14 jan) [submit 10pt]: /submit/c12-gamicable
+        Eratosthenes [individueel]: /numbers/en/goldbach
+        Submit Eratosthenes (14 jan) [submit 10pt]: /submit/c13-goldbach
 
-
-Text processing (module 2):
-
-    Dinsdag (16 jan):
-        Learn how to use modules [theory]: /python/en/modules
-        Learn about plotting in Python [theory]: /python/en/plotting
-        Visualize data with plots [assignment]: /plot/en/
-
-    Woensdag (17 jan):
-        Submit module 1 [submit MODULE]: /submit/module1
-
-
-
+Text Processing (Module 2):
     Introduction: /text/en/intro2
 
-    Donderdag (18 jan):
-        Learn about functions in Python [theory]: /python/en/functions
-        Practice with functions in Python [practice]: /python/en/functions/practice
-        Learn about strings [theory]: /python/en/strings
-        Calculate basic statistics for a text [assignment]: /text/en/statistics
-        Analyze text content word-by-word [assignment]: /text/en/words
-        Submit your work [submit]: /submit/statistics-words
+    2.1 Functions:
+        Functions [theorie]: /python/en/functions
+        # Practice with functions in Python [practice]: /python/en/functions/practice
+        Squared [samen] TODO: /basics/squared
+        Min [samen] TODO: /basics/min
+        Fun Sum [individueel] TODO: /basics/fun-sum
+        Max [Individueel] TODO: /basics/min
+        Max Index [Individueel] TODO: /basics/min
+        Arange [Individueel]*: /basics/arange
+        Submit (? jan) [submit]: /submit/2-1-fun
+    2.2 Strings 1:
+        Strings [theorie]: /python/en/strings
+        Letters [samen] TODO: /basics/letters
+        Words [samen] TODO: /basics/words1
+        Text Statistics [individueel]*: /text/en/statistics
+        Submit (? jan) [submit]: /submit/2-2-strings
+    2.3 Strings 2:
+        Longest Word [samen] TODO: /text/en/longest-word
+        Resplit [samen] TODO: /text/en/resplit
+        Word-by-Word [individueel]: /text/en/words
+        Snake Case [samen] TODO: /text/en/snake-case
+        Align [individueel]*: /text/en/align
+        Submit (? jan) [submit]: /submit/2-3-strings
+    2.4 Files:
+        Read Text From Files [theorie]: /python/en/file-io
+        # Learn how to read text from files [practice]: /python/en/files
+        Read Words [samen] TODO: /text/en/read-words
+        Sentiment [individueel]*: /text/en/sentiment
+        Submit (? jan) [submit]: /submit/2-4-files
+    2.5 Plot:
+        Import [theorie] TODO: /python/en/modules
+        Plot [theorie] TODO: /python/en/plotting
+        Plot Curve [samen] TODO: /plot/en/plot-curve
+        Plot Max [individueel]*: /plot/en/plot
+        Submit (? jan) [submit]: /submit/2-5-plot
+    2.6 Style:
+        Style [individueel]* TODO: /m2-style
+        Submit (? jan) [submit]: /submit/2-6-style
+    2.7 Challenges:
+        Twitter [individueel]: /text/en/tweets
+        Submit Reformat [submit]: /submit/c21-twitter
+        Reformat [individueel]: /text/en/reformatting
+        Submit Reformat [submit]: /submit/c22-reformatting
+        Plot Min Max [individueel]* TODO: /plot/en/plot-min-max
+        Submit Plot Min Max [submit]: /submit/c23-plot-min-max
 
-    Maandag (22 jan):
-        Reformat a text neatly [assignment]: /text/en/reformatting
-        Submit your work [submit]: /submit/reformatting
-
-    Dinsdag (23 jan):
-        Learn how to read text from files [theory]: /python/en/file-io
-        Learn how to read text from files [practice]: /python/en/files
-        Perform a sentiment analysis [PAIR assignment]: /text/en/sentiment
-        Present an overview of Twitter sentiment [assignment]: /text/en/tweets
-
-    Woensdag (24 jan):
-        Submit module 2 [submit MODULE]: /submit/module2
 
 Big data (module 3):
     Introduction: /bigdata/en/
