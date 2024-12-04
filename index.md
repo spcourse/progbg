@@ -68,7 +68,7 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 | week/dag | ma                            | di                   | wo                    | do | vr       |
 |----------| ----------------------------- | -------------------- | --------------------- | -- | -------- |
 | week 1   | deadline module *1.1, 1.2*    | deadline *1.3*       | deadline *1.4*        |    |          |
-| week 2   | deadline module *1.5*         | deadline *1.6*       | *deadline 2.1 - 2.2*  |    |          |
+| week 2   | deadline module *1.5*         | *deadline 1.6 - 1.7* | deadline *2.1 - 2.2*  |    |          |
 | week 3   | deadline module *2.3, 2.4*    | *deadline 2.5 - 2.7* | deadline *3.1*        |    |          |
 | week 4   | (geen dl maar werk aan *3.2*) | deadline *3.2*       | *deadline 3.3*        |    | tentamen |
 

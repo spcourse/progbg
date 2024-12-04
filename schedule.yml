@@ -1,56 +1,79 @@
-Welcome:
+Welkom:
     Lees eerst de studiewijzer:
       Studiewijzer: /syllabus
-    Install Python on Windows:
+    Installeer python:
       Intro: /python/en/installing/intro
-      Step 1 install Miniconda: /python/en/installing/miniconda-win
-      Step 2 install Pulsar: /python/en/installing/pulsar
-      Step 3 command line interface: /python/en/installing/cli-win
-      Step 4 install Conda environment: /python/en/installing/conda-env-sp
-      Step 5 checkpy: /python/en/installing/checkpy
-    Install Python on MacOS:
-      Intro: /python/en/installing/intro
-      Step 1 install Miniconda: /python/en/installing/miniconda-mac
-      Step 2 install Pulsar: /python/en/installing/pulsar
-      Step 3 command line interface: /python/en/installing/cli-mac
-      Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
-      Step 5 checkpy: /python/en/installing/checkpy
+    Installeer Python voor Windows:
+      Stap 1 installeer Miniconda: /python/en/installing/miniconda-win
+      Stap 2 installeer Pulsar: /python/en/installing/pulsar
+      Stap 3 command line interface: /python/en/installing/cli-win
+      Stap 4 installeer Conda environment: /python/en/installing/conda-env-sp
+      Stap 5 checkpy: /python/en/installing/checkpy-sp
+    Installeer Python voor MacOS:
+      Stap 1 installeer Miniconda: /python/en/installing/miniconda-mac
+      Stap 2 installeer Pulsar: /python/en/installing/pulsar
+      Stap 3 command line interface: /python/en/installing/cli-mac
+      Stap 4 installeer Conda environment: /python/en/installing/conda-env-sp-mac
+      Stap 5 checkpy: /python/en/installing/checkpy-sp
+
+
 
 Number theory (module 1):
     Introduction: /numbers/en/
 
-    Maandag (8 jan):
-        Basic elements of Python [theory]: /python/en/basics
-        Basic elements of Python [practice]: /python/en/basics/practice
-        Create a Number Whiz [assignment]: /numbers/en/whiz
-        Learn about algorithms [theory]: /python/en/algorithms
-        Practice with algorithms [practice]: /python/en/algorithms/practice
-        Learn about for-loops [theory]: /python/en/loops/for
-        Practice with for-loops [practice]: /python/en/loops/for/practice
-        Learn about while-loops [theory]: /python/en/loops/while
-        Practice with while-loops [practice]: /python/en/loops/while/practice
-        Some typical uses of loops [theory]: /python/en/loops/practical-uses
-        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-        Submit your work [submit]: /submit/whiz
-
-    Dinsdag (9 jan):
+    1.1 Output:
+        Hello, world [samen]*: /basics/hello
+        Submit (6 jan) [submit]: /submit/1-1-hello
+    1.2 Input en rekenen:
+        Basics [theorie]: /python/en/basics
+        # Basic elements of Python [practice]: /python/en/basics/practice
+        Number Whiz [samen]: /numbers/en/whiz
+        Divide [individueel]* TODO: /basics/divide
+        Submit (6 jan) [submit]: /submit/1-2-input-rekenen
+    1.3 Als-dan:
+        Algoritmes [theorie]: /python/en/algorithms
+        # Practice with algorithms [practice]: /python/en/algorithms/practice
+        Less Then [samen] TODO: /basics/less-then
+        2001 [samen] TODO: /basics/y2001
+        2099 [individueel] TODO: /basics/y2099
+        Leap Year [individueel]*: /numbers/en/leap-year
+        Submit (7 jan) [submit]: /submit/1-3-als-dan
+    1.4 Herhaling 1 (For):
+        For Loops [theorie]: /python/en/loops/for
+        # Practice with for-loops [practice]: /python/en/loops/for/practice
+        Between [samen] TODO: /basics/between
+        Buzz [samen] TODO: /basics/buzz
+        Sum [individueel] TODO: /basics/sum
+        Leap Years [individueel] TODO: /numbers/en/leap-years
+        Count Leap Years [individueel] TODO: /numbers/en/count-leap
         Find leap-years [assignment]: /numbers/en/leap
-        Find birthdays of leap-year babies [assignment]: /numbers/en/birthday
-        Submit your work [submit]: /submit/leap-birthday
-
-
-    Donderdag (11 jan):
-        Looking for trouble [theory]: /python/en/debugging-basics
-        Understand how to write good code [theory]: /python/en/style
-        Look for prime numbers [assignment]: /numbers/en/primes
-        Learn about lists [theory]: /python/en/lists
-        Practice with lists [practice]: /python/en/lists/practice
+        Newton [individueel] TODO: /basics/newton
+        Prime Check [individueel]* TODO: /numbers/en/check-prime
+        Submit (8 jan) [submit]: /submit/1-4-for
+    1.5 Herhaling 2 (While) [15pt.]:
+        While Loops [theorie]: /python/en/loops/while
+        # Practice with while-loops [practice]: /python/en/loops/while/practice
+        Voorbeelden van Loops [theorie]: /python/en/loops/practical-uses
+        # Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+        Elmo [samen] TODO: /basics/elmo
+        More Then [individueel] TODO: /basics/more-then
+        Sum To [individueel] TODO: /basics/sum-to
+        Birthday [samen]: /numbers/en/birthday
+        Nth Prime [assignment] TODO (aanpassen): /numbers/en/primes
+        Submit (13 jan) [submit]: /submit/1-5-while
+    1.6 Lijsten:
+        Debugging [theorie]: /python/en/debugging-basics
+        Code in Style [theorie]: /python/en/style
+        Lists [theorie]: /python/en/lists
+        # Practice with lists [practice]: /python/en/lists/practice
         Make lists of prime numbers [assignment]: /numbers/en/primelist
-        Submit your work [submit]: /submit/prime-listprimes
+        Submit (14 jan) [submit]: /submit/1-6-lists
+    1.7 Challenges:
+        Goldbach's Conjecture [individueel]: /numbers/en/goldbach
+        Submit Goldbach (14 jan) [submit 10pt]: /submit/ch1-goldbach
 
-    Maandag (15 jan):
-        Prove (?) Goldbach's conjecture [PAIR assignment]: /numbers/en/goldbach
-        Submit your work [submit]: /submit/goldbach
+
+Text processing (module 2):
 
     Dinsdag (16 jan):
         Learn how to use modules [theory]: /python/en/modules
@@ -61,7 +84,7 @@ Number theory (module 1):
         Submit module 1 [submit MODULE]: /submit/module1
 
 
-Text processing (module 2):
+
     Introduction: /text/en/intro2
 
     Donderdag (18 jan):
