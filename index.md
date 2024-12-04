@@ -1,6 +1,6 @@
 # Inleiding Programmeren<br><small>Studiewijzer</small>
 
-**Versie: Januari 2024**
+**Versie: Januari 2025**
 
 ![Python](python-logo.png){:.inline}  
 
@@ -62,19 +62,19 @@ Het vak sluiten we af met een tentamen. Omdat het mogelijk is ongemerkt mee te l
 
 Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daarom voor elke module naast de einddeadline ook een aantal dagdeadlines (deadlines voor specfieke *assignments*).
 
-In de table hieronder kan je alle deadlines vinden.
+In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je eigen studieplan: *als je van plan bent om alle challenges te doen moet je vooruit werken.*
 
 
-| week/dag | ma                           | di                              | wo                           | do                             | vr       |
-|----------| ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------ | -------- |
-| week 1   | module 1 <br/> dagdeadline 1 | module 1 <br/> dagdeadline 2    |                              | module 1 <br/> dagdeadline 3   |          |
-| week 2   | module 1 <br/> dagdeadline 4 |                                 | **module 1 <br/> einddeadline** | module 2 <br/> dagdeadline 1   |          |
-| week 3   | module 2 <br/> dagdeadline 2 |                                 | **module 2 <br/> einddeadline** | module 3 <br/> dagdeadline 1   |          |
-| week 4   | module 3 <br/> dagdeadline 2 |    |**module 3 <br/> einddeadline** || tentamen |
+| week/dag | ma                            | di                   | wo                    | do | vr       |
+|----------| ----------------------------- | -------------------- | --------------------- | -- | -------- |
+| week 1   | deadline module *1.1, 1.2*    | deadline *1.3*       | deadline *1.4*        |    |          |
+| week 2   | deadline module *1.5*         | deadline *1.6*       | *deadline 2.1 - 2.2*  |    |          |
+| week 3   | deadline module *2.3, 2.4*    | *deadline 2.5 - 2.7* | deadline *3.1*        |    |          |
+| week 4   | (geen dl maar werk aan *3.2*) | deadline *3.2*       | *deadline 3.3*        |    | tentamen |
 
-De tijd van elke deadline is om **18:00**. Het is geen probleem als de opdrachten een paar minuten later worden ingeleverd, bijvoorbeeld in geval van technische problemen.
+De tijd van elke deadline is om **23:59**.
 
-**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddelijk een probleem geeft, krijg je 5 te-laat-credits. Elke keer dat je een onderdeel een dag te laat inlevert kost je dat een credit (2 dagen te laat is dus 2 credits). Je mag dus niet vaker dan 5 keer iets een dag te laat inleveren. Als je hieroverheen dreigt te gaan, neem dan contact op met de docent.
+**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je maximaal drie keer een opdracht te laat inleveren.
 
 ## Eindcijfer
 
@@ -82,10 +82,10 @@ Het eindcijfer is samengesteld uit de resultaten van de opdrachten en dat van he
 
 | onderdeel | beoordeling                                 | gewicht |  
 | --------- | ------------------------------------------- | ------: |
-| module 1  | volledigheid, correctheid, stijl en ontwerp |     33% |  
-| module 2  | volledigheid, correctheid, stijl en ontwerp |     33% |  
-| module 3  | volledigheid, correctheid, stijl en ontwerp |     33% |  
-| tentamen  | correctheid                                 |      0% |  
+| module 1  | volledigheid, correctheid, stijl en ontwerp |     17% |  
+| module 2  | volledigheid, correctheid, stijl en ontwerp |     17% |  
+| module 3  | volledigheid, correctheid, stijl en ontwerp |     17% |  
+| tentamen  | correctheid                                 |     50% |  
 
 Je krijgt een eindcijfer voor dit vak als je:
 
@@ -97,49 +97,52 @@ Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaa
 
 Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in de zaal een onder toezicht een aantal programmeeropdrachten gaat maken. Je haalt het tentamen als voldoende van deze opdrachten correct weet te maken.
 
-## Beoordeling opdrachten
+## Beoordeling modules
 
 ** (wijzigingen voorbehouden) **
 
-De opdrachten die je tussentijds inlevert (op de dagdeadlines) worden automatisch nagekeken aan de hand van *checkpy*. Je ontvangt vrijwel onmiddelijk feedback over of je het goed hebt gedaan of niet.
+Elke module bestaat uit een aantal onderdelen waar je punten voor kan verdienen. Er zijn de basisonderdelen en de *challenge* opdrachten. Met de basisonderdelen kan je in totaal 60 punten verdienen en met de *challenge* opdrachten nog eens 30. Je kan dus in totaal 90 punten halen. Het cijfer per module wordt als volgt berekent: $$\textrm{cijfer} = \textrm{punten}/10 + 1$$.
 
-Het werk wat je aan het einde van de module inlevert wordt met de hand nagekeken.
+### Basisonderdelen.
 
-Je ontvangt hiervoor drie apparte cijfers: omvang (*scope*), correctheid (*correctness*), en ontwerp (*design*). Voor elk onderdeel krijg je een een waardering van op een schaal van 1 tot 5. Gezamelijk geven deze een je cijfer voor de module. De weging is alsvolgt:
+De verwachting is dat het voor iedereen goed moet lukken om de basisonderdelen helemaal correct te maken. Hiermee kan je in ieder geval al een 7 voor de modules halen.
 
-$$
-\textrm{punten} = \textrm{scope} \times (\textrm{correctness} \times 3 + \textrm{design} \times 2)
-$$
+### Challenge opdrachten
 
-Omvang (*scope*): In hoeverre zijn alle opdrachten gemaakt? (Er een serieuze poging is gedaan.)
+Als je een hoger cijfer dan een 7 wilt halen zul je dus ook één of meerdere van de *challenge* opdrachten moeten maken. Voor een aantal van de challenge opdrachten *moet* je je uitwerking met de docent hebben besproken om het af te tekenen.
 
-Correctheid (*correctness*): In hoeverre zijn alle opdrachten ook correct gemaakt? Dit is voornamelijk gebaseerd op de output van *checkpy*.
+### Checkpy
 
-Ontwerp (*design*): Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Voor het ontwerp krijg je voor elke module een overzicht met kwaliteitsaspecten waar we vooral op letten bij het nakijken. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan in ieder geval 3 punten moet kunnen halen voor design.
+Voor een groot deel van de opdrachten zijn er automatische tests waarmee je zelf kunt testen of je opdracht correct is genaamd *checkpy*. Je kan dus voor je de opdracht inlevert goed zelf nagaan of de opdracht voldoende is gemaakt. We verwachten dat voor elke opdracht alle checkpy tests slagen. Als dit niet het geval is probeer dit dan (met onze hulp) op te lossen voorn je het inlevert.
 
-De beoordeling voor *design* wordt gedaan op de volgende schaal. Je kan 3 punten verdienen door de style guide goed te volgen:
+### Design
 
-- [1] beperkte aandacht voor de kwaliteitsaspecten
-- [2] goed resultaat voor de meeste aspecten
-- [3] zeer goed resultaat voor alle stijlelementen uit de styleguide
+In module 2 en 3 zijn er ook onderdelen waar het design van je code beoordeelt wordt. Programma's moeten niet alleen het "goede" antwoord geven, maar een programma kan zelf ook een bepaalde **kwaliteit** hebben. Is het een ordelijk en leesbaar geschreven algoritme? Kan het korter of duidelijker? Er is een styleguide voor de cursus waarin een flink aantal design aspecten beschreven wordt. Het uitgangspunt is dat als je die aspecten goed in acht neemt (en alles volledig en correct hebt ingeleverd), dat je dan in ieder geval 3 punten moet kunnen halen voor design.
 
-Daar bovenop kan je nog 2 punten verdien met een goed doordacht ontwerp van je programma.
+De beoordeling voor *design* wordt gedaan op de volgende schaal. Je kan 5 punten verdienen met een goede programmeerstijl (volgens de [style guide](/python/en/style):
 
-- [+1] zichtbaar nagedacht over het ontwerp
-- [+2] zeer doordacht ontwerp
+- [1pt.] comments
+- [2pt.] whitespacing, indenting en witregels
+- [2pt.] variabele- en functienamen
 
-Je ontvangt ook feedback voor elke module. Dit is *géén verantwoording* van het cijfer. De feedback bestaat uit een paar (2 á 3) aandachtspunten. Dit zijn de punten waar je het meeste in kan verbeteren. Als je meer feedback wilt hebben kan je daar altijd tijdens de practica om vragen!
+Daar bovenop kan je nog 5 punten verdien met een goed doordacht ontwerp van je programma.
+
+- [1pt.] logisch gebruik functies (pure functies, geen overbodige parameters, etc.)
+- [1pt.] geen *dead code*
+- [3pt.] goed ontwerp: (logische structuur) 1pt - 3pt (zeer goed doordacht ontwerp)
 
 ## Aanwezigheid
 
-Tijdens de eerste week is er een **aanwezigheidplicht** voor alle geroosterde practica en werkcolleges: zie je persoonlijke rooster op datanose. In latere weken verwachten we dat je bij de practica aanwezig bent als je hulp en uitleg nodig hebt. Er is geen mogelijkheid om hulp per e-mail te krijgen als vervanging van het practicum. Zorg dus dat je op tijd begint, zodat je nog een kans hebt om langs te komen als het nodig is!
+Er is een **aanwezigheidplicht** voor alle geroosterde practica (voor de hele periode van het vak) en tijdens de eerste week zijn ook de werkcolleges verplicht. Maak hier ook goed gebruik van, alle hulp voor dit vak vindt tijdens de practica plaats. Er is geen mogelijkheid om hulp met je opdrachten per e-mail te krijgen.
+
+Nu kan het natuurlijk zo zijn dat je een keer ziek bent of dat er een andere urgente reden is waarom je er niet kan zijn. Je mag daarom in totaal maximaal 3 practica missen. Gebruik deze niet om zomaar vrij te nemen, anders heb je geen dagen meer over voor als je het echt nodig hebt.
 
 ## Studielast
 
 De modules kosten je gemiddeld zo'n 19 uur werk: dat is dus meer tijd dan er practicum ingeroosterd is. Mocht je het niet afhebben, dan is het de bedoeling dat je de opdracht thuis nog af maakt. Kom je in de problemen? Neem dan direct contact op met de docenten, per mail.
 
 | onderdeel   | studielast                |     totaal |  
-| ----------- | ------------------------- | ---------: |  
+| ----------- | ------------------------- | ---------- |  
 | hoorcollege | 4 x 3 uur                 |     12 uur |  
 | opdrachten  | 3 x 18 uur + 1 x 10 uur   |     64 uur |  
 | tentamen    | 1 x 3 uur + voorbereiding |      5 uur |  
