@@ -66,20 +66,23 @@ Number Theory (Module 1):
         Code in Style [theorie]: /python/en/style
         Lists [theorie]: /python/en/lists
         # Practice with lists [practice]: /python/en/lists/practice
+        Odd [samen]: /basics/odd
+        Average [samen]: /basics/average
+        Squares [individueel]: /basics/squares
         Make lists of prime numbers [individueel]*: /numbers/en/primelist
         Submit (14 jan) [submit]: /submit/1-6-lists
     1.7 Challenges:
         Goldbach's Conjecture [individueel]: /numbers/en/goldbach
-        Submit Goldbach (14 jan) [submit 10pt]: /submit/c11-goldbach
+        Submit Goldbach (14 jan): /submit/c11-goldbach
         Amicable [individueel]: /numbers/en/amicable
-        Submit Amicable (14 jan) [submit 10pt]: /submit/c12-gamicable
+        Submit Amicable (14 jan): /submit/c12-gamicable
         Eratosthenes [individueel]: /numbers/en/goldbach
-        Submit Eratosthenes (14 jan) [submit 10pt]: /submit/c13-goldbach
+        Submit Eratosthenes (14 jan): /submit/c13-goldbach
 
 Text Processing (Module 2):
     Introduction: /text/en/intro2
 
-    2.1 Functions:
+    2.1 Functions - 12pt.:
         Functions [theorie]: /python/en/functions
         # Practice with functions in Python [practice]: /python/en/functions/practice
         Squared [samen] TODO: /basics/squared
@@ -89,32 +92,32 @@ Text Processing (Module 2):
         Max Index [Individueel] TODO: /basics/min
         Arange [Individueel]*: /basics/arange
         Submit (? jan) [submit]: /submit/2-1-fun
-    2.2 Strings 1:
+    2.2 Strings 1 - 12pt.:
         Strings [theorie]: /python/en/strings
         Letters [samen] TODO: /basics/letters
         Words [samen] TODO: /basics/words1
         Text Statistics [individueel]*: /text/en/statistics
         Submit (? jan) [submit]: /submit/2-2-strings
-    2.3 Strings 2:
+    2.3 Strings 2 - 12pt.:
         Longest Word [samen] TODO: /text/en/longest-word
         Resplit [samen] TODO: /text/en/resplit
         Word-by-Word [individueel]: /text/en/words
         Snake Case [samen] TODO: /text/en/snake-case
         Align [individueel]*: /text/en/align
         Submit (? jan) [submit]: /submit/2-3-strings
-    2.4 Files:
+    2.4 Files - 12pt.:
         Read Text From Files [theorie]: /python/en/file-io
         # Learn how to read text from files [practice]: /python/en/files
         Read Words [samen] TODO: /text/en/read-words
         Sentiment [individueel]*: /text/en/sentiment
         Submit (? jan) [submit]: /submit/2-4-files
-    2.5 Plot:
+    2.5 Plot - 12pt.:
         Import [theorie] TODO: /python/en/modules
         Plot [theorie] TODO: /python/en/plotting
         Plot Curve [samen] TODO: /plot/en/plot-curve
         Plot Max [individueel]*: /plot/en/plot
         Submit (? jan) [submit]: /submit/2-5-plot
-    2.6 Style:
+    2.6 Style - 10pt.:
         Style [individueel]* TODO: /m2-style
         Submit (? jan) [submit]: /submit/2-6-style
     2.7 Challenges:
