@@ -3,32 +3,26 @@
 # The section does not need to be called `templates` necessarily.
 
 templates:
-    1: &automatic
+    1: &automatic-publish
         type: pass
         subgrades:
-            checkpy_percentage: integer
-        calculation: -1 * (checkpy_percentage / 100.0).floor
-        auto_publish: true
-        hide_calculated: false
-
-    3: &manual
-        type: float
-        subgrades:
-            checkpy_precentage: integer
-            scope: integer
-            design_style: integer
-            correctness: integer
-        calculation: (scope * (correctness * 3 + design_style * 2) - 5) / 120.0 * 9 + 1
-        hide_calculated: false
-
-    4: &check
-        type: pass
-        subgrades:
-            checkpy: integer
             done: boolean
         automatic:
-            checkpy: correctness_score
+            done: -(correctness_score.floor)
         calculation: done
+        auto_publish: true
+        hide_calculated: true
+
+
+
+    4: &semi-auto
+        type: float
+        subgrades:
+            checkpy: integer
+            points: float
+        automatic:
+            checkpy: correctness_score
+        calculation: points
         hide_calculated: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
@@ -66,64 +60,9 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    whiz:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 3
-    birthday:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 19
-    listprimes:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 14
-    goldbach:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 5
-
-    statistics:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 18
-    reformatting:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 11
-
-    car:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 2
-    temperature:
-        <<: *automatic
-        automatic:
-            checkpy_percentage: correctness_score * 100 / 8
-
-    m1:
-        <<: *manual
-        automatic:
-            checkpy_precentage: correctness_score * 100 / 18
-    m2:
-        <<: *manual
-        automatic:
-            checkpy_precentage: correctness_score * 100 / 17
-    m3:
-        <<: *manual
-        automatic:
-            checkpy_precentage: correctness_score * 100 / 8
-
-    bonus:
-        type: float
-        subgrades:
-            grade: float
-        calculation: grade
-        hide_calculated: false
-
-    oefententamen: *check
-    tentamen: *check
-    tentamen2: *check
+    1_1-hello: *automatic
+    tentamen: *semi-auto
+    tentamen2: *semi-auto
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -144,12 +83,10 @@ grades:
 calculation:
     eindcijfer:
         # opdrachten: 0
-        cijfers: 1
-        tentamen: 0
-    eindcijfer_herkansing:
-        # opdrachten: 0
-        cijfers: 1
-        tentamen2: 0
+        opdrachten-m1: 1
+        opdrachten-m2: 1
+        opdrachten-m3: 1
+        tentamen: 3
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -175,43 +112,23 @@ calculation:
 #     submits:
 #         takehome: 1
 
-opdrachten:
+opdrachten-m1:
     show_progress: true
     submits:
-        whiz: 1
-        birthday: 1
-        listprimes: 1
-        goldbach: 1
+        1_1-hello: 1
 
-        statistics: 1
-        reformatting: 1
-
-        car: 1
-        temperature: 1
-
-        bonus: 0
-
-cijfers:
+opdrachten-m1:
     show_progress: true
     submits:
-        m1: 1
-        m2: 1
-        m3: 1
+        2_1: 1
 
-oefententamen:
+opdrachten-m1:
     show_progress: true
-    required: true
     submits:
-        oefententamen: 1
+        3_1: 1
 
 tentamen:
     show_progress: true
     required: true
     submits:
         tentamen: 1
-
-tentamen2:
-    show_progress: true
-    required: true
-    submits:
-        tentamen2: 1

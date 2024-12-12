@@ -1,5 +1,0 @@
-name: bonus
-files:
-    required:
-        - eratosthenes.py
-        - plot.png
