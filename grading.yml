@@ -4,10 +4,10 @@
 
 templates:
     1: &automatic-publish
-        type: float
+        type: int
         subgrades:
-            points: float
-            checkpy-percentage: int
+            points: int
+            max-points: int
         calculation: points
         auto_publish: true
         hide_calculated: false
@@ -62,8 +62,8 @@ grades:
     1_1-hello:
         <<: *automatic-publish
         automatic:
-            checkpy-percentage: correctness_score * 100
             points: correctness_score * 10
+            max-points: 10
     tentamen: *semi-auto
     tentamen2: *semi-auto
 
