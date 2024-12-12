@@ -9,7 +9,7 @@ templates:
             points: float
         calculation: points
         auto_publish: true
-        hide_calculated: true
+        hide_calculated: false
 
 
 
@@ -21,7 +21,7 @@ templates:
         automatic:
             checkpy: correctness_score
         calculation: points
-        hide_calculated: true
+        hide_calculated: false
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
