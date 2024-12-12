@@ -10,8 +10,21 @@ templates:
         calculation: points
         auto_publish: true
         hide_calculated: true
-
-
+    2: &automatic-check
+        type: int
+        subgrades:
+            points: int
+            check: boolean
+        calculation: (check + 1) * points
+        auto_publish: false
+        hide_calculated: true
+    3: &manual
+        type: int
+        subgrades:
+            points: int
+        calculation: points
+        auto_publish: false
+        hide_calculated: true
 
     4: &semi-auto
         type: float
@@ -66,6 +79,32 @@ grades:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 10
+    1_3-als-dan:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 10
+    1_4-herhaling-1:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 10
+    1_5-herhaling-2:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 15
+    1_6-lijsten:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 10
+    c11-goldbach:
+        <<: *automatic-check
+        automatic:
+            points: correctness_score * 10
+    c12-amicable:
+        <<: *automatic-check
+        automatic:
+            points: correctness_score * 10
+    c13-eratosthenes:
+        <<: *manual-check
     tentamen: *semi-auto
     tentamen2: *semi-auto
 
