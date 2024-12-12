@@ -22,7 +22,7 @@ Number Theory (Module 1):
     Introduction: /numbers/en/
 
     1.1 Output - 5pt.:
-        Hello, world [samen]* TODO: /basics/hello
+        Hello, world [samen]: /shorts/hello
         Submit (6 jan) [submit]: /submit/1-1-hello
     1.2 Input en rekenen - 10pt.:
         Basics [theorie]: /python/en/basics
@@ -125,7 +125,7 @@ Text Processing (Module 2):
         Submit Reformat [submit]: /submit/c21-twitter
         Reformat [individueel]: /text/en/reformatting
         Submit Reformat [submit]: /submit/c22-reformatting
-        Plot Min Max [individueel]* TODO: /plot/en/plot-min-max
+        Plot Min Max [individueel] TODO: /plot/en/plot-min-max
         Submit Plot Min Max [submit]: /submit/c23-plot-min-max
 
 

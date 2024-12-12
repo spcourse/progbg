@@ -1,3 +1,6 @@
+shorts:
+    remote: https://github.com/spcourse/shorts.git
+    branch: main
 animation:
     remote: https://github.com/spcourse/animation.git
     branch: main
