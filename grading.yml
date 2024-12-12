@@ -104,7 +104,10 @@ grades:
         automatic:
             points: correctness_score * 10
     c13-eratosthenes:
-        <<: *manual-check
+        <<: *manual
+
+
+
     tentamen: *semi-auto
     tentamen2: *semi-auto
 
@@ -158,6 +161,13 @@ opdrachten-m1:
     submits:
         1_1-hello: 1
         1_2-input-rekenen: 1
+        1_3-als-dan: 1
+        1_4-herhaling-1: 1
+        1_5-herhaling-2: 1
+        1_6-lijsten: 1
+        c11-goldbach: 1
+        c12-amicable: 1
+        c13-eratosthenes: 1
 
 tentamen:
     show_progress: true
