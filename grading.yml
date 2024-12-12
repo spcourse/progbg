@@ -61,6 +61,8 @@ templates:
 
 grades:
     1_1-hello: *automatic-publish
+    2_1: *automatic-publish
+    3_1: *automatic-publish
     tentamen: *semi-auto
     tentamen2: *semi-auto
 
@@ -117,12 +119,12 @@ opdrachten-m1:
     submits:
         1_1-hello: 1
 
-opdrachten-m1:
+opdrachten-m2:
     show_progress: true
     submits:
         2_1: 1
 
-opdrachten-m1:
+opdrachten-m3:
     show_progress: true
     submits:
         3_1: 1
