@@ -4,12 +4,10 @@
 
 templates:
     1: &automatic-publish
-        type: pass
+        type: float
         subgrades:
-            done: boolean
-        automatic:
-            done: -(correctness_score.floor)
-        calculation: done
+            points: float
+        calculation: points
         auto_publish: true
         hide_calculated: true
 
@@ -60,7 +58,10 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    1_1-hello: *automatic-publish
+    1_1-hello:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 10
     tentamen: *semi-auto
     tentamen2: *semi-auto
 
