@@ -9,7 +9,7 @@ templates:
             points: int
         calculation: points
         auto_publish: true
-        hide_calculated: false
+        hide_calculated: true
 
 
 
