@@ -4,5 +4,5 @@ files:
         - hello.py
 check:
     tool: checkpy
-    repo: spcourse/check
+    repo: spcourse/tests
     args: hello
