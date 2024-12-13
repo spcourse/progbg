@@ -1,0 +1,8 @@
+name: 1_2-als-dan
+files:
+    required:
+        - divide.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: divide

@@ -84,7 +84,7 @@ grades:
         automatic:
             points: correctness_score * 10
     1_4-herhaling-1:
-        <<: *automatic-publish
+        <<: *automatic-check
         automatic:
             points: correctness_score * 10
     1_5-herhaling-2:
@@ -92,7 +92,7 @@ grades:
         automatic:
             points: correctness_score * 15
     1_6-lijsten:
-        <<: *automatic-publish
+        <<: *automatic-check
         automatic:
             points: correctness_score * 10
     c11-goldbach:
