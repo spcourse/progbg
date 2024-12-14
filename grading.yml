@@ -75,7 +75,7 @@ grades:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 5
-    1_3-input-en-rekenen:
+    1_2-input-en-rekenen:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 10
@@ -160,7 +160,7 @@ opdrachten-m1:
     show_progress: true
     submits:
         1_1-hello: 1
-        1_2-input-rekenen: 1
+        1_2-input-en-rekenen: 1
         1_3-als-dan: 1
         1_4-herhaling-1: 1
         1_5-herhaling-2: 1
