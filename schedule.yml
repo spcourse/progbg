@@ -33,10 +33,10 @@ Number Theory (Module 1):
     1.3 Als-dan - 10pt.:
         Algoritmes [theorie]: /python/en/algorithms
         # Practice with algorithms [practice]: /python/en/algorithms/practice
-        Less Then [samen] TODO: /basics/less-then
-        2001 [samen] TODO: /basics/y2001
-        2099 [individueel] TODO: /basics/y2099
-        Leap Year [individueel]*: /numbers/en/leap-year
+        Less Then [samen]: /shorts/less-then
+        2001 [samen]: /shorts/first_year
+        2099 [individueel]: /shorts/first_or_last_year
+        Leap Year [individueel]: /shorts/leap-year
         Submit (7 jan) [submit]: /submit/1-3-als-dan
     1.4 Herhaling 1 (For) - 10pt.:
         For Loops [theorie]: /python/en/loops/for
