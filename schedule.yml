@@ -41,13 +41,13 @@ Number Theory (Module 1):
     1.4 Herhaling 1 (For) - 10pt.:
         For Loops [theorie]: /python/en/loops/for
         # Practice with for-loops [practice]: /python/en/loops/for/practice
-        Between [samen] TODO: /basics/between
-        Buzz [samen] TODO: /basics/buzz
-        Sum [individueel] TODO: /basics/sum
-        Leap Years [individueel] TODO: /numbers/en/leap-years
+        Between [samen]: /shorts/between
+        Buzz [samen]: /short/buzz
+        Sum [individueel]: /short/sum
+        Leap Years [individueel]: /shorts/leap-years
         Count Leap Years [individueel] TODO: /numbers/en/count-leap
         Find leap-years [samen]: /numbers/en/leap
-        Newton [individueel] TODO: /basics/newton
+        Newton [individueel] TODO: /shorts/newton
         Prime Check [individueel]* TODO: /numbers/en/check-prime
         Submit (8 jan) [submit]: /submit/1-4-for
     1.5 Herhaling 2 (While) - 15pt.:
