@@ -1,12 +1,10 @@
 name: 1_2-als-dan
 files:
     required:
-        - divide.py
-        - less_then.py
-        - first_year.py
-        - first_or_last_year.py
-        - leap_year.py
+        - whiz.py
+        - oranges.py
+
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: divide
+    args: whiz divide

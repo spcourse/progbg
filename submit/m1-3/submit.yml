@@ -1,0 +1,11 @@
+name: 1_2-als-dan
+files:
+    required:
+        - less_then.py
+        - first_year.py
+        - first_or_last_year.py
+        - leap_year.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: divide

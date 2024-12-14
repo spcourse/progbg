@@ -28,8 +28,8 @@ Number Theory (Module 1):
         Basics [theorie]: /python/en/basics
         # Basic elements of Python [practice]: /python/en/basics/practice
         Number Whiz [samen]: /numbers/en/whiz
-        Divide [individueel]: /shorts/divide
-        Submit (6 jan) [submit]: /submit/1-2-input-rekenen
+        Divide [individueel]: /shorts/oranges
+        Submit (6 jan) [submit]: /submit/1-2
     1.3 Als-dan - 10pt.:
         Algoritmes [theorie]: /python/en/algorithms
         # Practice with algorithms [practice]: /python/en/algorithms/practice
@@ -37,7 +37,7 @@ Number Theory (Module 1):
         2001 [samen]: /shorts/first_year
         2099 [individueel]: /shorts/first_or_last_year
         Leap Year [individueel]: /shorts/leap_year
-        Submit (7 jan) [submit]: /submit/1-3-als-dan
+        Submit (7 jan) [submit]: /submit/1-3
     1.4 Herhaling 1 (For) - 10pt.:
         For Loops [theorie]: /python/en/loops/for
         # Practice with for-loops [practice]: /python/en/loops/for/practice
