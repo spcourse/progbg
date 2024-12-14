@@ -75,7 +75,7 @@ grades:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 5
-    1_2-input-rekenen:
+    1_3-input-en-rekenen:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 10

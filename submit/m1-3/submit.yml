@@ -1,4 +1,4 @@
-name: 1_2-als-dan
+name: 1_3-input-en-rekenen
 files:
     required:
         - less_then.py
@@ -8,4 +8,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: divide
+    args: less_then first_year first_or_last_year leap_year
