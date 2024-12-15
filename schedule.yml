@@ -45,11 +45,10 @@ Number Theory (Module 1):
         Buzz [samen]: /shorts/buzz
         Sum [individueel]: /shorts/sum
         Leap Years [individueel]: /shorts/leap_years
-        Count Leap Years [individueel] TODO: /numbers/en/count-leap
-        Find leap-years [samen]: /numbers/en/leap
+        Count Leap Years [individueel]: /shorts/count_leap_years
         Newton [individueel]: /shorts/newton
-        Prime Check [individueel]* TODO: /numbers/en/check-prime
-        Submit (8 jan) [submit]: /submit/1-4-for
+        Check Prime [individueel]: /numbers/en/check-prime
+        Submit (8 jan) [submit]: /submit/m1-4
     1.5 Herhaling 2 (While) - 15pt.:
         While Loops [theorie]: /python/en/loops/while
         # Practice with while-loops [practice]: /python/en/loops/while/practice
@@ -59,7 +58,7 @@ Number Theory (Module 1):
         More Then [individueel] TODO: /basics/more-then
         Sum To [individueel] TODO: /basics/sum-to
         Birthday [samen]: /numbers/en/birthday
-        Nth Prime [individueel] TODO (aanpassen)*: /numbers/en/primes
+        1001 Primes [individueel]: /numbers/en/n-primes
         Submit (13 jan) [submit]: /submit/1-5-while
     1.6 Lijsten - 10pt.:
         Debugging [theorie]: /python/en/debugging-basics
