@@ -47,27 +47,27 @@ Number Theory (Module 1):
         Leap Years [samen]: /shorts/leap_years
         Count Leap Years [individueel]: /shorts/count_leap_years
         Newton [samen]: /shorts/newton
-        Check Prime [individueel] [aftekenen]*: /numbers/en/check-prime
+        Check Prime [individueel & aftekenen]*: /numbers/en/check-prime
         Submit (8 jan) [submit]: /submit/m1-4
     1.5 Herhaling 2 (While) - 15pt.:
         While Loops [theorie]: /python/en/loops/while
         # Practice with while-loops [practice]: /python/en/loops/while/practice
         Voorbeelden van Loops [theorie]: /python/en/loops/practical-uses
         # Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-        Elmo [samen]: /basics/elmo
-        More Then [individueel] TODO: /basics/more-then
-        Sum To [individueel]: /basics/sum_until
+        Elmo [samen]: /shorts/elmo
+        More Then [individueel] TODO: /shorts/more-then
+        Sum Until [individueel]: /shorts/sum_until
         Birthday [samen]: /numbers/en/birthday
-        1001 Primes [individueel] [aftekenen]*: /numbers/en/n-primes
+        1001 Primes [individueel & aftekenen]*: /numbers/en/n-primes
         Submit (13 jan) [submit]: /submit/1-5-while
     1.6 Lijsten - 10pt.:
         Debugging [theorie]: /python/en/debugging-basics
         Code in Style [theorie]: /python/en/style
         Lists [theorie]: /python/en/lists
         # Practice with lists [practice]: /python/en/lists/practice
-        Odd [samen]: /basics/odd
-        Average [samen]: /basics/average
-        Squares [individueel]: /basics/squares
+        Odd [samen]: /shorts/odd
+        Average [samen]: /shorts/average
+        Squares [individueel]: /shorts/squares
         Prime List [individueel]*: /numbers/en/primelist
         Submit (14 jan) [submit]: /submit/1-6-lists
     1.7 Challenges - 10pt. per challenge:
