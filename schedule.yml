@@ -28,7 +28,7 @@ Number Theory (Module 1):
         Basics [theorie]: /python/en/basics
         # Basic elements of Python [practice]: /python/en/basics/practice
         Number Whiz [samen]: /numbers/en/whiz
-        Divide [individueel]: /shorts/oranges
+        Divide [individueel]*: /shorts/oranges
         Submit (6 jan) [submit]: /submit/m1-2
     1.3 Als-dan - 10pt.:
         Algoritmes [theorie]: /python/en/algorithms
@@ -36,7 +36,7 @@ Number Theory (Module 1):
         Less Then [samen]: /shorts/less_then
         2001 [samen]: /shorts/first_year
         2099 [individueel]: /shorts/first_or_last_year
-        Leap Year [individueel]: /shorts/leap_year
+        Leap Year [individueel]*: /shorts/leap_year
         Submit (7 jan) [submit]: /submit/m1-3
     1.4 Herhaling 1 (For) - 10pt.:
         For Loops [theorie]: /python/en/loops/for
@@ -44,21 +44,21 @@ Number Theory (Module 1):
         Between [samen]: /shorts/between
         Buzz [samen]: /shorts/buzz
         Sum [individueel]: /shorts/sum
-        Leap Years [individueel]: /shorts/leap_years
+        Leap Years [samen]: /shorts/leap_years
         Count Leap Years [individueel]: /shorts/count_leap_years
-        Newton [individueel]: /shorts/newton
-        Check Prime [individueel]: /numbers/en/check-prime
+        Newton [samen]: /shorts/newton
+        Check Prime [individueel] [aftekenen]*: /numbers/en/check-prime
         Submit (8 jan) [submit]: /submit/m1-4
     1.5 Herhaling 2 (While) - 15pt.:
         While Loops [theorie]: /python/en/loops/while
         # Practice with while-loops [practice]: /python/en/loops/while/practice
         Voorbeelden van Loops [theorie]: /python/en/loops/practical-uses
         # Practice more with loops [practice]: /python/en/loops/practical-uses/practice
-        Elmo [samen] TODO: /basics/elmo
+        Elmo [samen]: /basics/elmo
         More Then [individueel] TODO: /basics/more-then
-        Sum To [individueel] TODO: /basics/sum-to
+        Sum To [individueel]: /basics/sum_until
         Birthday [samen]: /numbers/en/birthday
-        1001 Primes [individueel]: /numbers/en/n-primes
+        1001 Primes [individueel] [aftekenen]*: /numbers/en/n-primes
         Submit (13 jan) [submit]: /submit/1-5-while
     1.6 Lijsten - 10pt.:
         Debugging [theorie]: /python/en/debugging-basics
@@ -71,11 +71,11 @@ Number Theory (Module 1):
         Prime List [individueel]*: /numbers/en/primelist
         Submit (14 jan) [submit]: /submit/1-6-lists
     1.7 Challenges - 10pt. per challenge:
-        Goldbach [individueel]: /numbers/en/goldbach
+        Goldbach [individueel] [aftekenen]: /numbers/en/goldbach
         Submit Goldbach (14 jan): /submit/c11-goldbach
-        Amicable [individueel]: /numbers/en/amicable
+        Amicable [individueel] [aftekenen]: /numbers/en/amicable
         Submit Amicable (14 jan): /submit/c12-gamicable
-        Eratosthenes [individueel]: /numbers/en/eratosthenes
+        Eratosthenes [individueel] [aftekenen]: /numbers/en/eratosthenes
         Submit Eratosthenes (14 jan): /submit/c13-eratosthenes
 
 Text Processing (Module 2):
