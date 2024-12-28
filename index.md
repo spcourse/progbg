@@ -8,8 +8,8 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Team
 <table>
-  <!-- <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/wioletta.jpg" style="max-width:90px" width = "150"><br>Wioletta </td><td>
-  </td></tr> -->
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2023/team/wioletta.jpg" style="max-width:90px" width = "150"><br>Wioletta </td><td>
+  </td></tr>
   <tr><td width = "25%"><img src = "https://github.com/spcourse/progbg/raw/2024/team/amir.jpg" style="max-width:90px"><br>Amir </td><td> Amir doet Masters Computational Science, hier is hij bezig met het simuleren van complexe systemen. Hij geeft al een tijd les bij vakken zoals Inleiding Programmeren en Scientific Programming.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2024/team/roan.jpg" style="max-width:90px" width = "150"><br>Roan </td><td> Roan doet de Master Artificial Intelligence. Binnen deze master is hij onder andere bezig met Computer Vision en Deep Learning. Hiervoor heeft hij de Bachelor Bèta-gamma met de major Kunstmatige Intelligentie afgerond. Mocht je vragen hebben over deze de major of iets anders stel ze vooral!</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2024/team/fleur.png" style="max-width:90px" width = "150"><br>Fleur </td><td> Fleur is tweedejaarsstudente van de bachelor Bèta-Gamma, waar zij de major KI doet. In haar vrije tijd is ze graag bezig met programmeren en heeft ook bij project 1 gebruik gemaakt van programmeren (webscraping).
