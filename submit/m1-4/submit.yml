@@ -11,4 +11,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: *
+    args: "*"
