@@ -5,8 +5,8 @@ files:
         - odd.py
         - average.py
         - squares.py
-        - listprime.py
+        - listprimes.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: positive_list odd average squares listprime
+    args: positive_list odd average squares listprimes
