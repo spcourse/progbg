@@ -9,4 +9,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: less_then first_year first_or_last_year leap_year
+    args: positive_list odd average squares primelist
