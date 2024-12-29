@@ -15,7 +15,7 @@ templates:
         subgrades:
             points: int
             besproken: boolean
-        calculation: (besproken * -1) * points
+        calculation: points
         auto_publish: false
         hide_calculated: false
     3: &manual
