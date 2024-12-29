@@ -1,11 +1,12 @@
 name: 1_5-herhaling-2
 files:
     required:
-        - less_then.py
-        - first_year.py
-        - first_or_last_year.py
-        - leap_year.py
+        - elmo.py
+        - positive.py
+        - sum_until.py
+        - birthday.py
+        - n-primes.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: less_then first_year first_or_last_year leap_year
+    args: elmo positive sum_until birthday n-primes

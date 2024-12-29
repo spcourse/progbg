@@ -10,6 +10,7 @@ templates:
         calculation: points
         auto_publish: true
         hide_calculated: true
+        
     2: &automatic-check
         type: int
         subgrades:
@@ -18,6 +19,7 @@ templates:
         calculation: points
         auto_publish: false
         hide_calculated: false
+
     3: &manual
         type: int
         subgrades:

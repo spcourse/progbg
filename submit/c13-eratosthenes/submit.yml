@@ -1,0 +1,9 @@
+name: c13-eratosthenes
+files:
+    required:
+        - eratosthenes.py
+
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: eratosthenes

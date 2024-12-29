@@ -1,4 +1,4 @@
-# Submit Leap and Birthday
+# Submit Goldbach
 
 Here you can submit your solutions to the problems in your module. Take note:
 
@@ -6,6 +6,14 @@ Here you can submit your solutions to the problems in your module. Take note:
 
 - Double-check that your programs are correct by running checkpy one last time.
 
+- Make sure you paid attention to the grading aspects for this module: [aspects](/aspects/module1)
+
 - You may submit and re-submit without limit up until the deadline. However, each time you submit, you need to submit all problems at once.
 
 - In case of problems submitting, ask your teacher or send an e-mail to <progbg@uva.nl>.
+
+- **Make sure that you write with whom you collaborated, both in the comments of your assignment and the text field below.**
+
+With whom did you collaborate on this assignment?
+
+<textarea name="form[1]" rows="1" required=""></textarea>
