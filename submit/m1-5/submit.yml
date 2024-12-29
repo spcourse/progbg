@@ -5,8 +5,8 @@ files:
         - positive.py
         - sum_until.py
         - birthday.py
-        - n-primes.py
+        - 1001-primes.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: elmo positive sum_until birthday n-primes
+    args: elmo positive sum_until birthday 1001-primes
