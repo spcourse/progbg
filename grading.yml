@@ -14,8 +14,8 @@ templates:
         type: int
         subgrades:
             points: int
-            check: boolean
-        calculation: (check * -1) * points
+            besproken: boolean
+        calculation: (besproken * -1) * points
         auto_publish: false
         hide_calculated: false
     3: &manual
