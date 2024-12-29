@@ -11,4 +11,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: "*"
+    args: between buzz sum leap_years count_leap_years newton check-prime
