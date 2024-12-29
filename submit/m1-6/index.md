@@ -1,11 +1,9 @@
 # Submit
 
-Here you can submit your solutions to the problems in your module. Take note:
+- **Je moet deze module laten aftekenen door een student-assistent of docent.**
 
-- Ensure that all programs have the right name. For example, when submitting `prime.py`, a files named `prime (1).py` or `primetest2.py` will not be accepted!
+- Check je oplossing met checkpy voor je submit. Zorg ervoor dat alles helemaal correct is.
 
-- Double-check that your programs are correct by running checkpy one last time.
+- Je kan tot de deadline zo vaak opnieuw inleveren als je wilt.
 
-- You may submit and re-submit without limit up until the deadline. However, each time you submit, you need to submit all problems at once.
-
-- In case of problems submitting, ask your teacher or send an e-mail to <progbg@uva.nl>.
+- Als het niet lukt om te submitten, e-mail naar <progbg@uva.nl>.
