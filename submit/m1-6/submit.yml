@@ -1,0 +1,11 @@
+name: 1_6-lijsten
+files:
+    required:
+        - less_then.py
+        - first_year.py
+        - first_or_last_year.py
+        - leap_year.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: less_then first_year first_or_last_year leap_year

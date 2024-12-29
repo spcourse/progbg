@@ -1,9 +1,9 @@
-name: whiz
+name: c11-goldbach
 files:
     required:
-        - whiz.py
+        - goldbach.py
 
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: whiz
+    args: goldbach

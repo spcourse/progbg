@@ -1,0 +1,14 @@
+name: 1_4-herhaling-1
+files:
+    required:
+        - between.py
+        - buzz.py
+        - sum.py
+        - leap_years.py
+        - count_leap_years.py
+        - newton.py
+        - check-prime.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: *
