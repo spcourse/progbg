@@ -87,9 +87,9 @@ Text Processing (Module 2):
         # Practice with functions in Python [practice]: /python/en/functions/practice
         Squared [samen]: /shorts/squared
         Min [samen]: /shorts/min
-        Fun Sum [individueel]: /shorts/fun-sum
-        Max [Individueel]: /shorts/min
-        Max Index [Individueel]: /shorts/min
+        Fun Sum [individueel]: /shorts/fun_sum
+        Max [Individueel]: /shorts/max
+        Max Index [Individueel]: /shorts/max_index
         Arange [Individueel]*: /shorts/arange
         Submit (? jan) [submit]: /submit/2-1-fun
     2.2 Strings 1 - 12pt.:
