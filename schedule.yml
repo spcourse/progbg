@@ -85,11 +85,11 @@ Text Processing (Module 2):
     2.1 Functions - 12pt.:
         Functions [theorie]: /python/en/functions
         # Practice with functions in Python [practice]: /python/en/functions/practice
-        Squared [samen] TODO: /basics/squared
-        Min [samen] TODO: /shorts/min
-        Fun Sum [individueel] TODO: /shorts/fun-sum
-        Max [Individueel] TODO: /shorts/min
-        Max Index [Individueel] TODO: /shorts/min
+        Squared [samen]: /basics/squared
+        Min [samen]: /shorts/min
+        Fun Sum [individueel]: /shorts/fun-sum
+        Max [Individueel]: /shorts/min
+        Max Index [Individueel]: /shorts/min
         Arange [Individueel]*: /shorts/arange
         Submit (? jan) [submit]: /submit/2-1-fun
     2.2 Strings 1 - 12pt.:
