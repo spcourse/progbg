@@ -94,21 +94,21 @@ Text Processing (Module 2):
         Submit (? jan) [submit]: /submit/2-1-fun
     2.2 Strings 1 - 12pt.:
         Strings [theorie]: /python/en/strings
-        Vowels [samen] TODO: /basics/letters
-        Vowel Words [samen] TODO: /basics/words1
+        Vowels [samen]: /shorts/vowels
+        Vowel Words [samen]: /shorts/vowel_words
         Text Statistics [individueel]*: /text/en/statistics
         Submit (? jan) [submit]: /submit/2-2-strings
     2.3 Strings 2 - 12pt.:
         Longest Word [samen] TODO: /text/en/longest-word
+        Word-by-Word [samen]: /text/en/words
         Resplit [samen] TODO: /text/en/resplit
-        Word-by-Word [individueel]: /text/en/words
-        Snake Case [samen] TODO: /text/en/snake-case
+        Snake Case [individueel] TODO: /text/en/snake-case
         Align [individueel]*: /text/en/align
         Submit (? jan) [submit]: /submit/2-3-strings
     2.4 Files - 12pt.:
         Read Text From Files [theorie]: /python/en/file-io
         # Learn how to read text from files [practice]: /python/en/files
-        Lonmgest Word From File [samen] TODO: /text/en/longest-word-file
+        Longest Word From File [samen] TODO: /text/en/longest-word-file
         Sentiment [individueel]*: /text/en/sentiment
         Submit (? jan) [submit]: /submit/2-4-files
     2.5 Plot - 12pt.:
