@@ -86,16 +86,16 @@ Text Processing (Module 2):
         Functions [theorie]: /python/en/functions
         # Practice with functions in Python [practice]: /python/en/functions/practice
         Squared [samen] TODO: /basics/squared
-        Min [samen] TODO: /basics/min
-        Fun Sum [individueel] TODO: /basics/fun-sum
-        Max [Individueel] TODO: /basics/min
-        Max Index [Individueel] TODO: /basics/min
-        Arange [Individueel]*: /basics/arange
+        Min [samen] TODO: /shorts/min
+        Fun Sum [individueel] TODO: /shorts/fun-sum
+        Max [Individueel] TODO: /shorts/min
+        Max Index [Individueel] TODO: /shorts/min
+        Arange [Individueel]*: /shorts/arange
         Submit (? jan) [submit]: /submit/2-1-fun
     2.2 Strings 1 - 12pt.:
         Strings [theorie]: /python/en/strings
-        Letters [samen] TODO: /basics/letters
-        Words [samen] TODO: /basics/words1
+        Vowels [samen] TODO: /basics/letters
+        Vowel Words [samen] TODO: /basics/words1
         Text Statistics [individueel]*: /text/en/statistics
         Submit (? jan) [submit]: /submit/2-2-strings
     2.3 Strings 2 - 12pt.:
@@ -108,14 +108,14 @@ Text Processing (Module 2):
     2.4 Files - 12pt.:
         Read Text From Files [theorie]: /python/en/file-io
         # Learn how to read text from files [practice]: /python/en/files
-        Read Words [samen] TODO: /text/en/read-words
+        Lonmgest Word From File [samen] TODO: /text/en/longest-word-file
         Sentiment [individueel]*: /text/en/sentiment
         Submit (? jan) [submit]: /submit/2-4-files
     2.5 Plot - 12pt.:
-        Import [theorie] TODO: /python/en/modules
-        Plot [theorie] TODO: /python/en/plotting
-        Plot Curve [samen] TODO: /plot/en/plot-curve
-        Plot Max [individueel]*: /plot/en/plot
+        Import [theorie]: /python/en/modules
+        Plot [theorie]: /python/en/plotting
+        Plot [samen] TODO: /plot/en/plot-curve
+        Plot Min [individueel]*: /plot/en/
         Submit (? jan) [submit]: /submit/2-5-plot
     2.6 Style - 10pt.:
         Style [individueel]* TODO: /m2-style
