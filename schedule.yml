@@ -114,8 +114,8 @@ Text Processing (Module 2):
     2.5 Plot - 12pt.:
         Import [theorie]: /python/en/modules
         Plot [theorie]: /python/en/plotting
-        Plot [samen] TODO: /plot/en/plot-curve
-        Plot Min [individueel]*: /plot/en/
+        Plot [samen] TODO: /plot/en/plot1
+        Plot Min [individueel]*: /plot/en/plot2
         Submit (? jan) [submit]: /submit/2-5-plot
     2.6 Style - 10pt.:
         Style [individueel]* TODO: /m2-style
@@ -125,7 +125,7 @@ Text Processing (Module 2):
         Submit Reformat [submit]: /submit/c21-twitter
         Reformat [individueel]: /text/en/reformatting
         Submit Reformat [submit]: /submit/c22-reformatting
-        Plot Min Max [individueel] TODO: /plot/en/plot-min-max
+        Plot Min Max [individueel] TODO: /plot/en/plot_mm
         Submit Plot Min Max [submit]: /submit/c23-plot-min-max
 
 
