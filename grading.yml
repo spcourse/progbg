@@ -164,6 +164,7 @@ grades:
 calculation:
     eindcijfer:
         opdrachten-m1: 1
+        opdrachten-m2: 1
         tentamen: 3
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -203,7 +204,7 @@ opdrachten-m1:
         c12-amicable: 1
         c13-eratosthenes: 1
 
-opdrachten-m1:
+opdrachten-m2:
     show_progress: true
     submits:
         2_1-fun: 1
