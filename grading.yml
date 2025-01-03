@@ -10,7 +10,7 @@ templates:
         calculation: points
         auto_publish: true
         hide_calculated: true
-        
+
     2: &automatic-check
         type: int
         subgrades:
@@ -108,7 +108,39 @@ grades:
     c13-eratosthenes:
         <<: *manual
 
+    2_1-fun:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 12
+    2_2-strings-1:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 12
+    2_3-strings-2:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 12
+    2_4-files:
+        <<: *automatic-publish
+        automatic:
+            points: correctness_score * 12
+    2_5-plot:
+        <<: *automatic-check
+        automatic:
+            points: correctness_score * 12
+    2_6-style:
+        <<: *automatic-check
+        automatic:
+            points: correctness_score * 10
 
+    c21-twitter:
+        <<: *manual
+    c22-reformatting:
+        <<: *automatic-check
+        automatic:
+            points: correctness_score * 10`
+    c23-plot-min-max:
+        <<: *manual
 
     tentamen: *semi-auto
     tentamen2: *semi-auto
@@ -170,6 +202,19 @@ opdrachten-m1:
         c11-goldbach: 1
         c12-amicable: 1
         c13-eratosthenes: 1
+
+opdrachten-m1:
+    show_progress: true
+    submits:
+        2_1-fun: 1
+        2_2-strings-1: 1
+        2_3-strings-2: 1
+        2_4-files: 1
+        2_5-plot: 1
+        2_6-style: 1
+        c21-twitter: 1
+        c22-reformatting: 1
+        c23-plot-min-max: 1
 
 tentamen:
     show_progress: true
