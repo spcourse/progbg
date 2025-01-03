@@ -107,8 +107,8 @@ Text Processing (Module 2):
         Submit (20 jan) [submit]: /submit/2-3-strings
     2.4 Files - 12pt.:
         Read Files [theorie]: /python/en/file-io
-        # Learn how to read text from files [practice]: /python/en/files
-        Longest Word From File [samen]: /shorts/longest_word_file
+        Practice to read files [practice]: /python/en/files
+        Alice [samen]: /shorts/alice
         Sentiment [individueel]*: /text/en/sentiment
         Submit (20 jan) [submit]: /submit/2-4-files
     2.5 Plot - 12pt.:
@@ -133,8 +133,6 @@ Big data (module 3):
     Introduction: /bigdata/en/
 
     3.1 Car - 15pt.:
-        Learn how to read text from files (repeated) [theory]: /python/en/file-io
-        Learn how to read text from files (repeated) [practice]: /python/en/files
         Car Ride [samen]: /bigdata/en/car
         Submit (22 jan) [submit]: /submit/car
 
@@ -143,13 +141,15 @@ Big data (module 3):
         Temperature [assignment]: /bigdata/en/temperatures
         Submit (29 jan) [submit]: /submit/temperatures
 
-    3.3 Cahllenges :
-        Peer review [assignment]: /peer
-        Submit module 3 [submit MODULE]: /submit/module3
+    3.3 Challenges:
+        Dictionaries (30 jan) - 15pt.: /
+        Temprature with dicts (30 jan) - 15pt.: /
+        # Peer review [assignment]: /peer
+        # Submit module 3 [submit MODULE]: /submit/module3
 
 
-Oefententamen:
-    Tentamen: /tentamens/oefententamen
+# Oefententamen:
+#     Tentamen: /tentamens/oefententamen
 
 # Tentamen:
 #     Tentamen: /tentamens/tentamen
