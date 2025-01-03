@@ -24,15 +24,15 @@ We gaan programmeren in Python, een eenvoudige taal met vele mogelijkheden. Je l
 
 ## Vragen
 
-Tijdens de practica van dit vak staan de **assistenten** voor je klaar en je kunt bij ze terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
+Tijdens de practica van dit vak staan we tijdens de practica kan je bij ons terecht met vragen over het programmeren, maar ook over de nagekeken opdrachten en tips over het vak.
 
 Het kan zijn dat je om één of andere reden een uitzondering nodig hebt op de regels van het vak. Deze kun je alleen krijgen bij de **coördinator** en niet bij de assistenten. Stuur een mail naar <progbg@mprog.nl> en leg even kort uit wat je situatie is. Ben je bang een achterstand op te lopen van meer dan een dag? Neem dan razendsnel contact op!
 
 ## Verwachtingen
 
-In deze cursus ga je aan de slag met programmeeropdrachten, waardoor je de taal Python leert en bovendien de standaardaanpak voor een aantal wetenschappelijke problemen leert kennen. Om echt te leren programmeren is veel oefening nodig, dus bovenal verwachten we dat je **alle opdrachten volledig werkend maakt**.
+In deze cursus ga je aan de slag met programmeeropdrachten, aan de hand waarvan je de taal Python leert en bovendien de standaardaanpak voor een aantal wetenschappelijke problemen leert kennen. Om echt te leren programmeren is veel oefening nodig, dus bovenal verwachten we dat je **alle opdrachten volledig werkend maakt**.
 
-> Samenwerken tijdens dit vak is niet toegestaan (tenzij expliciet anders vermeld). Dit vak heeft als voornaamste doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het vaak wél mogelijk om samen te programmeren. Zie verder de opmerkingen over plagiaat, onderaan deze studiehandleiding.
+Samenwerken is alleen toegestaan bij opdrachten waarbij dit expliciet is vermeld. Je moet aan het einde van het vak zelfstandig kunnen programmeren, we verachten dus ook dat je de individuele opdrachten ook helemaal zelfstandig maakt. Zie verder de opmerkingen over plagiaat, onderaan deze studiehandleiding.
 
 ## Leerdoelen
 
@@ -49,20 +49,20 @@ Wat willen we dat je kunt aan het einde van deze cursus?
 
 Het vak bestaat uit drie programmeer modules en een tentamen. Vanaf de eerste dag van de cursus ga je oefenen met het omzetten van een idee voor een programma naar werkende Python-code. Elke module bestaat uit verschillende onderdelen:
 
-- _theory_: Uitleg van de programmerconcepten. Dit is meestal in de vorm van korte filmpjes (<2 min.) en wat geleidende tekst.
-- _practice_: Dit zijn korte oefenopdrachten die je niet hoeft in te leveren. Het doel van hiervan is om voor jezelf te zien of je de theorie ook echt begrepen hebt.
-- _assignment_: Dit zijn grotere opdrachten die je moet invleveren. Hiervoor is het belangrijk goed op de deadlines te letten. Dit zijn individuele opdrachten. Je mag bij deze onderdelen dus **niet samenwerken**.
-- _PAIR assignment_: Dit zijn (vaak wat complexere) opdrachten die je samen met één iemand anders mag maken. Je moet duidelijk aangeven in het commentaar van je programma en bij het inleveren met wie je samenwerkt. Je mag hierbij niet met meer dan één ander persoon samenwerken.
+- _theorie_: Uitleg van de programmerconcepten. Dit is meestal in de vorm van korte filmpjes (<2 min.) en wat geleidende tekst.
+<!-- - _practice_: Dit zijn korte oefenopdrachten die je niet hoeft in te leveren. Het doel van hiervan is om voor jezelf te zien of je de theorie ook echt begrepen hebt. -->
+- _individueel_: Dit zijn opdrachten die je zelfstandig (dus niet samen met andere studenten) moet maken. Je kan uiteraard wel hulp krijgen van ons tijdens de practica. Het is belangrijk goed op de deadlines te letten.
+- _samen_: Dit zijn opdrachten die je samen met één iemand anders mag maken. Je moet duidelijk aangeven in het commentaar van je programma met wie je samenwerkt. Je mag hierbij niet met meer dan één ander persoon samenwerken.
 
-Het vak heeft laptopcolleges en wrkcolleges. Tijdens de laptop colleges ga je aan de modules programmeren en kan je daarbij hulp krijgen van ons. Tijdens de werkcolleges gaan we dieper in op de theorie.
+Het vak heeft laptopcolleges en werkcolleges. Tijdens de laptop colleges ga je aan de modules programmeren en kan je daarbij hulp krijgen van ons. Tijdens de werkcolleges gaan we dieper in op de theorie.
 
 Het vak sluiten we af met een tentamen. Omdat het mogelijk is ongemerkt mee te liften met een medestudent tijdens het maken van de practica (als je steevast overlegt over de manier van code schrijven), checken we met behulp van het tentamen nog een keer of je zelfstandig de leerdoelen van het vak gehaald hebt.
 
 ### Deadlines
 
-Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daarom voor elke module naast de einddeadline ook een aantal dagdeadlines (deadlines voor specfieke *assignments*).
+Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daarom voor elke module naast de einddeadline ook een aantal deeldeadlines (deadlines voor specifieke onderdelen).
 
-In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je eigen studieplan: *als je van plan bent om alle challenges te doen moet je vooruit werken.*
+In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je eigen studieplan: *als je van plan bent om challenges te doen moet je vooruit werken.*
 
 
 | week/dag | ma                            | di                   | wo                    | do | vr       |
@@ -74,32 +74,31 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 
 De tijd van elke deadline is om **23:59**.
 
-**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je maximaal drie keer een opdracht te laat inleveren.
+**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je maximaal vier keer een deel te laat inleveren zonder verdere consequenties. Als je een keer iets te laat inlevert is het dus wel van belang om daarna extra hard aan de slag te gaan, zodat je niet met de volgende deadline weer in de knoop komt.
 
 ## Eindcijfer
 
 Het eindcijfer is samengesteld uit de resultaten van de opdrachten en dat van het tentamen.
 
 | onderdeel | beoordeling                                 | gewicht |  
-| --------- | ------------------------------------------- | ------: |
-| module 1  | volledigheid, correctheid, stijl en ontwerp |     17% |  
-| module 2  | volledigheid, correctheid, stijl en ontwerp |     17% |  
-| module 3  | volledigheid, correctheid, stijl en ontwerp |     17% |  
-| tentamen  | correctheid                                 |     50% |  
+| --------- | ------------------------------------------- | ------- |
+| module 1  | volledigheid, correctheid, stijl en ontwerp |     1/6 |  
+| module 2  | volledigheid, correctheid, stijl en ontwerp |     1/6 |  
+| module 3  | volledigheid, correctheid, stijl en ontwerp |     1/6 |  
+| tentamen  | correctheid                                 |     1/2 |  
 
 Je krijgt een eindcijfer voor dit vak als je:
 
-* alle tussentijdse opdrachten op tijd hebt ingeleverd;
-* elke module op tijd en naar verwachting hebt ingeleverd;
-* het tentamen voldoende hebt gemaakt.
+- de *reguliere* opdrachten op tijd hebt ingeleverd,
+- het tentamen voldoende hebt gemaakt.
 
 Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NAP (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
+
+Als je de *challenge opdrachten* niet hebt gemaakt krijg je wel gewoon een cijfer. Je kan in dat geval maximaal een 7 halen.
 
 Het tentamen is dit jaar een programmeertentamen. Dit wil zeggen dat je het in de zaal een onder toezicht een aantal programmeeropdrachten gaat maken. Je haalt het tentamen als voldoende van deze opdrachten correct weet te maken.
 
 ## Beoordeling modules
-
-** (wijzigingen voorbehouden) **
 
 Elke module bestaat uit een aantal onderdelen waar je punten voor kan verdienen. Er zijn de basisonderdelen en de *challenge* opdrachten. Met de basisonderdelen kan je in totaal 60 punten verdienen en met de *challenge* opdrachten nog eens 30. Je kan dus in totaal 90 punten halen. Het cijfer per module wordt als volgt berekent: $$\textrm{cijfer} = \textrm{punten}/10 + 1$$.
 
