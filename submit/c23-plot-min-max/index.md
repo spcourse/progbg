@@ -1,4 +1,4 @@
-# Submit Goldbach
+# Submit Plot Min Max
 
 - **Je moet deze module bespreken met de docent voor je een cijfer ontvangt.**
 

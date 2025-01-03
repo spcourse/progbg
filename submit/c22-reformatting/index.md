@@ -1,4 +1,4 @@
-# Submit Goldbach
+# Submit Reformatting
 
 - **Je moet deze module bespreken met de docent voor je een cijfer ontvangt.**
 

@@ -1,4 +1,4 @@
-# Submit Goldbach
+# Submit Twitter
 
 - **Je moet deze module bespreken met de docent voor je een cijfer ontvangt.**
 
