@@ -19,7 +19,7 @@ Welkom:
 
 
 Number Theory (Module 1):
-    Introduction: /numbers/en/
+    # Introduction: /numbers/en/
 
     1.1 Output - 5pt.:
         Hello, world [samen]: /shorts/hello
@@ -58,7 +58,7 @@ Number Theory (Module 1):
         Positive [individueel]: /shorts/positive
         Sum Until [samen]: /shorts/sum_until
         Birthday [samen]: /numbers/en/birthday
-        1001 Primes [individueel & aftekenen]*: /numbers/en/n-primes
+        1001 Primes [individueel]*: /numbers/en/n-primes
         Submit (13 jan) [submit]: /submit/m1-5
     1.6 Lijsten - 10pt.:
         Debugging [theorie]: /python/en/debugging-basics
@@ -69,7 +69,7 @@ Number Theory (Module 1):
         Odd [samen]: /shorts/odd
         Average [samen]: /shorts/average
         Squares [individueel]: /shorts/squares
-        Prime List [individueel]*: /numbers/en/primelist
+        Prime List [individueel & aftekenen]*: /numbers/en/primelist
         Submit (14 jan) [submit]: /submit/m1-6
     1.7 Challenges - 10pt. per challenge:
         Goldbach [individueel & bespreken]: /numbers/en/goldbach
@@ -80,7 +80,7 @@ Number Theory (Module 1):
         Submit Eratosthenes (14 jan): /submit/c13-eratosthenes
 
 Text Processing (Module 2):
-    Introduction: /text/en/intro2
+    # Introduction: /text/en/intro2
 
     2.1 Functions - 12pt.:
         Functions [theorie]: /python/en/functions
@@ -130,7 +130,7 @@ Text Processing (Module 2):
 
 
 Big data (module 3):
-    Introduction: /bigdata/en/
+    # Introduction: /bigdata/en/
 
     3.1 Car - 15pt.:
         Car Ride [samen]: /bigdata/en/car
