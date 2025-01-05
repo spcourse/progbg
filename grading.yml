@@ -16,15 +16,15 @@ templates:
         subgrades:
             points: int
             besproken: boolean
-        calculation: besproken == -1 && points || 0
+        calculation: besproken == -1 && points || 1
         hide_calculated: false
 
     3: &automatic-check2
         type: int
         subgrades:
             points: int
-            besproken-met-docent: boolean
-        calculation: besproken-met-docent == -1 && points || 0
+            besproken_met_docent: boolean
+        calculation: besproken_met_docent == -1 && points || 1
         hide_calculated: false
 
     4: &manual
