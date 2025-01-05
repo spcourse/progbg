@@ -32,6 +32,12 @@ templates:
         calculation: (besproken_met_docent *= -1) * sgrade
         hide_calculated: false
 
+    3: &manual
+        type: int
+        subgrades:
+            sgrade: float
+        calculation: sgrade
+        hide_calculated: false
 
     5: &semi-auto
         type: float
