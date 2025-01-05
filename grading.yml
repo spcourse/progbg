@@ -18,8 +18,8 @@ templates:
         subgrades:
             points: int
             besproken: boolean
-            score: float
-        calculation: (besproken == -1) && score || 2
+            sgrade: float
+        calculation: (besproken == -1) && sgrade || 2
         hide_calculated: false
         hide_subgrades: false
 
@@ -27,27 +27,21 @@ templates:
         type: int
         subgrades:
             points: int
+            sgrade: float
             besproken_met_docent: boolean
-        calculation: (besproken_met_docent *= -1) * points
+        calculation: (besproken_met_docent *= -1) * sgrade
         hide_calculated: false
 
-    4: &manual
-        type: int
-        subgrades:
-            points: int
-        calculation: points
-        auto_publish: false
-        hide_calculated: true
 
     5: &semi-auto
         type: float
         subgrades:
-            checkpy: integer
-            points: float
+            sgrade: float
         automatic:
-            checkpy: correctness_score
-        calculation: points
+            sgrade: correctness_score * 10
+        calculation: sgrade
         hide_calculated: false
+        auto_publish: false
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
@@ -211,15 +205,15 @@ calculation:
 opdrachten-m1:
     show_progress: true
     submits:
-        1_1-hello: 1
-        1_2-input-en-rekenen: 1
-        1_3-als-dan: 1
-        1_4-herhaling-1: 1
-        1_5-herhaling-2: 1
-        1_6-lijsten: 1
-        c11-goldbach: 1
-        c12-amicable: 1
-        c13-eratosthenes: 1
+        1_1-hello: 5
+        1_2-input-en-rekenen: 10
+        1_3-als-dan: 10
+        1_4-herhaling-1: 10
+        1_5-herhaling-2: 15
+        1_6-lijsten: 10
+        c11-goldbach: 10
+        c12-amicable: 10
+        c13-eratosthenes: 10
 
 opdrachten-m2:
     show_progress: true
