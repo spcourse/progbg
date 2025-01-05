@@ -73,7 +73,7 @@ grades:
         automatic:
             punten: (correctness_score * 5).floor
             deelcijfer: correctness_score * 10
-        deadline: 6/01/25 23:59
+        deadline: 6/01/24 23:59
         deadline_hard: false
     1_2-input-en-rekenen:
         <<: *automatic-publish
