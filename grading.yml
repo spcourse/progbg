@@ -17,37 +17,19 @@ templates:
         type: int
         subgrades:
             points: int
-            besproken: boolean
             sgrade: float
-        calculation: (besproken == -1) && sgrade || 2
-        hide_calculated: false
+            checked: boolean
+        calculation: sgrade
+        auto_publish: true
+        hide_calculated: true
         hide_subgrades: false
-
-    3: &automatic-check2
-        type: int
-        subgrades:
-            points: int
-            sgrade: float
-            besproken_met_docent: boolean
-        calculation: (besproken_met_docent *= -1) * sgrade
-        hide_calculated: false
 
     3: &manual
         type: int
         subgrades:
             sgrade: float
         calculation: sgrade
-        hide_calculated: false
 
-    5: &semi-auto
-        type: float
-        subgrades:
-            sgrade: float
-        automatic:
-            sgrade: correctness_score * 10
-        calculation: sgrade
-        hide_calculated: false
-        auto_publish: false
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
@@ -103,6 +85,7 @@ grades:
         <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
     1_5-herhaling-2:
         <<: *automatic-publish
         automatic:
@@ -112,55 +95,66 @@ grades:
         <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
     c11-goldbach:
-        <<: *automatic-check2
+        <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
     c12-amicable:
-        <<: *automatic-check2
+        <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
     c13-eratosthenes:
-        <<: *automatic-check2
+        <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
 
     2_1-fun:
         <<: *automatic-publish
         automatic:
-            points: correctness_score * 12
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     2_2-strings-1:
         <<: *automatic-publish
         automatic:
-            points: correctness_score * 12
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     2_3-strings-2:
         <<: *automatic-publish
         automatic:
-            points: correctness_score * 12
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     2_4-files:
         <<: *automatic-publish
         automatic:
-            points: correctness_score * 12
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     2_5-plot:
         <<: *automatic-check
         automatic:
-            points: correctness_score * 12
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     2_6-style:
         <<: *automatic-check
         automatic:
             points: correctness_score * 10
+            sgrade: correctness_score * 10
 
     c21-twitter:
         <<: *manual
     c22-reformatting:
         <<: *automatic-check
         automatic:
-            points: correctness_score * 10`
+            points: correctness_score * 10
+            sgrade: correctness_score * 10
     c23-plot-min-max:
         <<: *manual
 
-    tentamen: *semi-auto
-    tentamen2: *semi-auto
+    tentamen: *automatic-check
+    tentamen2: *automatic-check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -224,15 +218,15 @@ opdrachten-m1:
 opdrachten-m2:
     show_progress: true
     submits:
-        2_1-fun: 1
-        2_2-strings-1: 1
-        2_3-strings-2: 1
-        2_4-files: 1
-        2_5-plot: 1
-        2_6-style: 1
-        c21-twitter: 1
-        c22-reformatting: 1
-        c23-plot-min-max: 1
+        2_1-fun: 10
+        2_2-strings-1: 10
+        2_3-strings-2: 10
+        2_4-files: 10
+        2_5-plot: 10
+        2_6-style: 10
+        c21-twitter: 10
+        c22-reformatting: 10
+        c23-plot-min-max: 10
 
 tentamen:
     show_progress: true

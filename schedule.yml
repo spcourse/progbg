@@ -82,7 +82,7 @@ Number Theory (Module 1):
 Text Processing (Module 2):
     # Introduction: /text/en/intro2
 
-    2.1 Functions - 12pt.:
+    2.1 Functions - 10pt.:
         Functions [theorie]: /python/en/functions
         # Practice with functions in Python [practice]: /python/en/functions/practice
         Squared [samen]: /shorts/squared
@@ -92,26 +92,26 @@ Text Processing (Module 2):
         Max Index [Individueel]: /shorts/max_index
         Arange [Individueel]*: /shorts/arange
         Submit (15 jan) [submit]: /submit/m2-1
-    2.2 Strings 1 - 12pt.:
+    2.2 Strings 1 - 10pt.:
         Strings [theorie]: /python/en/strings
         Vowels [samen]: /shorts/vowels
         Vowel Words [samen]: /shorts/vowel_words
         Text Statistics [individueel]*: /text/en/statistics
         Submit (15 jan) [submit]: /submit/m2-2
-    2.3 Strings 2 - 12pt.:
+    2.3 Strings 2 - 10pt.:
         Longest Word [samen]: /shorts/longest_word
         Word-by-Word [samen]: /text/en/words
         Resplit [samen]: /shorts/resplit
         Snake Case [individueel]: /shorts/snake_case
         Align [individueel]*: /text/en/align
         Submit (20 jan) [submit]: /submit/m2-3
-    2.4 Files - 12pt.:
+    2.4 Files - 10pt.:
         Read Files [theorie]: /python/en/file-io
         Practice to read files [practice]: /python/en/files
         Alice [samen]: /shorts/alice
         Sentiment [individueel]*: /text/en/sentiment
         Submit (20 jan) [submit]: /submit/m2-4
-    2.5 Plot - 12pt.:
+    2.5 Plot - 10pt.:
         Import [theorie]: /python/en/modules
         Plot [theorie]: /python/en/plotting
         Plot [samen]: /plot/en/plot1
