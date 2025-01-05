@@ -6,7 +6,7 @@ templates:
     1: &automatic-publish
         type: float
         subgrades:
-            punten: float
+            punten: integer
             deelcijfer: float
         calculation: deelcijfer
         auto_publish: true
@@ -16,7 +16,7 @@ templates:
     2: &automatic-check
         type: float
         subgrades:
-            punten: float
+            punten: integer
             deelcijfer: float
             besproken: boolean
         calculation: besproken == -1 && deelcijfer || 0
@@ -71,78 +71,78 @@ grades:
     1_1-hello:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 5
+            punten: (correctness_score * 5).floor
             deelcijfer: correctness_score * 10
     1_2-input-en-rekenen:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     1_3-als-dan:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     1_4-herhaling-1:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     1_5-herhaling-2:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 15
+            punten: (correctness_score * 15).floor
             deelcijfer: correctness_score * 10
     1_6-lijsten:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     c11-goldbach:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     c12-amicable:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     c13-eratosthenes:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
 
     2_1-fun:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     2_2-strings-1:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     2_3-strings-2:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     2_4-files:
         <<: *automatic-publish
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     2_5-plot:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     2_6-style:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
 
     c21-twitter:
@@ -150,7 +150,7 @@ grades:
     c22-reformatting:
         <<: *automatic-check
         automatic:
-            punten: correctness_score * 10
+            punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
     c23-plot-min-max:
         <<: *manual
