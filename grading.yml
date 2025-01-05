@@ -20,7 +20,7 @@ templates:
             sgrade: float
             checked: boolean
         calculation: sgrade
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
@@ -29,7 +29,7 @@ templates:
         subgrades:
             sgrade: float
         calculation: sgrade
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
