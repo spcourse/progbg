@@ -10,21 +10,23 @@ templates:
         calculation: points
         auto_publish: true
         hide_calculated: true
+        hide_subgrades: false
 
     2: &automatic-check
         type: int
         subgrades:
             points: int
             besproken: boolean
-        calculation: ((besproken == -1) && points) || 2
+        calculation: (besproken == -1) && points || 2
         hide_calculated: false
+        hide_subgrades: false
 
     3: &automatic-check2
         type: int
         subgrades:
             points: int
             besproken_met_docent: boolean
-        calculation: besproken_met_docent == -1 && points || 1
+        calculation: (besproken_met_docent *= -1) * points
         hide_calculated: false
 
     4: &manual
