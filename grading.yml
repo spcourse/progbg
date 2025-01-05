@@ -19,7 +19,15 @@ templates:
         calculation: besproken == -1 && points || 0
         hide_calculated: false
 
-    3: &manual
+    3: &automatic-check2
+        type: int
+        subgrades:
+            points: int
+            besproken-met-docent: boolean
+        calculation: besproken-met-docent == -1 && points || 0
+        hide_calculated: false
+
+    4: &manual
         type: int
         subgrades:
             points: int
@@ -27,7 +35,7 @@ templates:
         auto_publish: false
         hide_calculated: true
 
-    4: &semi-auto
+    5: &semi-auto
         type: float
         subgrades:
             checkpy: integer
@@ -97,15 +105,17 @@ grades:
         automatic:
             points: correctness_score * 10
     c11-goldbach:
-        <<: *automatic-check
+        <<: *automatic-check2
         automatic:
             points: correctness_score * 10
     c12-amicable:
-        <<: *automatic-check
+        <<: *automatic-check2
         automatic:
             points: correctness_score * 10
     c13-eratosthenes:
-        <<: *manual
+        <<: *automatic-check2
+        automatic:
+            points: correctness_score * 10
 
     2_1-fun:
         <<: *automatic-publish
