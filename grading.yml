@@ -16,7 +16,7 @@ templates:
         subgrades:
             points: int
             besproken: boolean
-        calculation: besproken == -1 && points || 1
+        calculation: (besproken == -1) && points || 2
         hide_calculated: false
 
     3: &automatic-check2
