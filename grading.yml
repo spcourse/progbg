@@ -9,7 +9,7 @@ templates:
             points: int
         calculation: points
         auto_publish: true
-        hide_calculated: true
+        hide_calculated: false
         hide_subgrades: false
 
     2: &automatic-check
@@ -17,7 +17,8 @@ templates:
         subgrades:
             points: int
             besproken: boolean
-        calculation: (besproken == -1) && points || 2
+            score: float
+        calculation: (besproken == -1) && score || 2
         hide_calculated: false
         hide_subgrades: false
 
@@ -86,14 +87,17 @@ grades:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 5
+            score: correctness_score * 10
     1_2-input-en-rekenen:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 10
+            score: correctness_score * 10
     1_3-als-dan:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 10
+            score: correctness_score * 10
     1_4-herhaling-1:
         <<: *automatic-check
         automatic:
@@ -102,6 +106,7 @@ grades:
         <<: *automatic-publish
         automatic:
             points: correctness_score * 15
+            score: correctness_score * 10
     1_6-lijsten:
         <<: *automatic-check
         automatic:
