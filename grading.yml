@@ -7,7 +7,7 @@ templates:
         type: int
         subgrades:
             points: int
-        calculation: points
+        calculation: score
         auto_publish: true
         hide_calculated: false
         hide_subgrades: false
