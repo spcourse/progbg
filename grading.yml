@@ -73,88 +73,105 @@ grades:
         automatic:
             punten: (correctness_score * 5).floor
             deelcijfer: correctness_score * 10
-        deadline: 6/01/24 23:59
+        deadline: 6/01/25 23:59
     1_2-input-en-rekenen:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 6/01/25 23:59
     1_3-als-dan:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 7/01/25 23:59
     1_4-herhaling-1:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 8/01/25 23:59
     1_5-herhaling-2:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 15).floor
             deelcijfer: correctness_score * 10
+        deadline: 13/01/25 23:59
     1_6-lijsten:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 14/01/25 23:59
     c11-goldbach:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 14/01/25 23:59
     c12-amicable:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 14/01/25 23:59
     c13-eratosthenes:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 14/01/25 23:59
 
     2_1-fun:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 15/01/25 23:59
     2_2-strings-1:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 15/01/25 23:59
     2_3-strings-2:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 20/01/25 23:59
     2_4-files:
         <<: *automatic-publish
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 20/01/25 23:59
     2_5-plot:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 21/01/25 23:59
     2_6-style:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 21/01/25 23:59
 
     c21-twitter:
         <<: *manual
+        deadline: 21/01/25 23:59
     c22-reformatting:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
+        deadline: 21/01/25 23:59
     c23-plot-min-max:
         <<: *manual
+        deadline: 21/01/25 23:59
 
     tentamen: *automatic-check
     tentamen2: *automatic-check
