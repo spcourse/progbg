@@ -4,9 +4,9 @@
 
 templates:
     1: &automatic-publish
-        type: int
+        type: float
         subgrades:
-            punten: int
+            punten: float
             deelcijfer: float
         calculation: deelcijfer
         auto_publish: true
@@ -14,9 +14,9 @@ templates:
         hide_subgrades: false
 
     2: &automatic-check
-        type: int
+        type: float
         subgrades:
-            punten: int
+            punten: float
             deelcijfer: float
             besproken: boolean
         calculation: besproken == -1 && deelcijfer || 0
@@ -25,7 +25,7 @@ templates:
         hide_subgrades: false
 
     3: &manual
-        type: int
+        type: float
         subgrades:
             deelcijfer: float
         calculation: deelcijfer
