@@ -9,7 +9,7 @@ templates:
             points: int
         calculation: score
         auto_publish: true
-        hide_calculated: false
+        hide_calculated: true
         hide_subgrades: false
 
     2: &automatic-check
