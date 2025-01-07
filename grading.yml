@@ -3,6 +3,11 @@
 # The section does not need to be called `templates` necessarily.
 
 templates:
+    0: &no-grade
+        type: boolean
+        hide_calculated: true
+        hide_subgrades: true
+
     1: &automatic-publish
         type: float
         subgrades:
@@ -12,6 +17,7 @@ templates:
         auto_publish: true
         hide_calculated: true
         hide_subgrades: false
+
 
     2: &automatic-check
         type: float
@@ -173,8 +179,8 @@ grades:
         <<: *manual
         deadline: 21/01/25 23:59
 
-    werkcollege-1: *automatic-check
-    
+    werkcollege-1: *no-grade
+
     tentamen: *automatic-check
     tentamen2: *automatic-check
 
