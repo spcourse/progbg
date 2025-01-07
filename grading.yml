@@ -179,7 +179,7 @@ grades:
         <<: *manual
         deadline: 21/01/25 23:59
 
-    werkcollege-1: *no-grade
+    werkcollege-2: *no-grade
 
     tentamen: *automatic-check
     tentamen2: *automatic-check
@@ -233,7 +233,7 @@ calculation:
 werkcolleges:
     show_progress: true
     submits:
-        werkcollege-1: 1
+        werkcollege-2: 1
 
 opdrachten-m1:
     show_progress: true
