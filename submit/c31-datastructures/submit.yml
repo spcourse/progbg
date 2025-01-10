@@ -1,0 +1,4 @@
+name: c22-plot-min-max
+files:
+    required:
+        - plot_mm.py

@@ -1,4 +1,8 @@
-name: c22-plot-min-max
+name: c31-datastructures
 files:
     required:
-        - plot_mm.py
+        - datastructures.py
+check:
+    tool: checkpy
+    repo: uva-sp/sp1
+    args: datastructures
