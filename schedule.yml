@@ -137,12 +137,5 @@ Big data (module 3):
     3.3.2 Challenge 2 - 15pt.:
         Temprature with dicts (30 jan) - 15pt. TODO*: /
 
-
-# Oefententamen:
-#     Tentamen: /tentamens/oefententamen
-
-# Tentamen:
-#     Tentamen: /tentamens/tentamen
-
-Hertentamen:
-    Tentamen: /exam
+Oefententamen:
+    Tentamen: /exams
