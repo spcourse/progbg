@@ -202,6 +202,7 @@ grades:
 
 
     werkcollege-2: *no-grade
+    werkcollege-4: *no-grade
 
     tentamen: *automatic-check
     tentamen2: *automatic-check
@@ -256,6 +257,7 @@ werkcolleges:
     show_progress: true
     submits:
         werkcollege-2: 1
+        werkcollege-4: 1
 
 opdrachten-m1:
     show_progress: true
