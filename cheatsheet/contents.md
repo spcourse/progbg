@@ -1,3 +1,3 @@
-# Cheat cheat
+# Cheat sheet
 
 [download](cheatsheet.pdf)
