@@ -11,6 +11,5 @@ license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0
 
 links:
     '[brush] Style guide': /python/en/style
-    '[journal-text] Cheat sheet': /docs/cheatsheet.pdf
-
+    '[journal-text] Cheat sheet': /docs
 deadlines: soft
