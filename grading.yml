@@ -180,7 +180,7 @@ grades:
 
 
     3_1-car:
-        <<: *automatic-check
+        <<: *automatic-publish
         automatic:
             punten: (correctness_score * 15).floor
             deelcijfer: correctness_score * 10
@@ -196,13 +196,20 @@ grades:
     c31-datastructures:
         <<: *automatic-check
         automatic:
-            punten: (correctness_score * 10).floor
+            punten: (correctness_score * 15).floor
             deelcijfer: correctness_score * 10
         deadline: 21/01/25 23:59
 
+    c32-shakespeare:
+        <<: *automatic-check
+        automatic:
+            punten: (correctness_score * 15).floor
+            deelcijfer: correctness_score * 10
+        deadline: 21/01/25 23:59
 
     werkcollege-2: *no-grade
     werkcollege-4: *no-grade
+    werkcollege-5: *no-grade
 
     tentamen: *automatic-check
     tentamen2: *automatic-check
@@ -227,6 +234,7 @@ calculation:
     eindcijfer:
         opdrachten-m1: 1
         opdrachten-m2: 1
+        opdrachten-m3: 1
         tentamen: 3
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -284,6 +292,14 @@ opdrachten-m2:
         c21-twitter: 10
         c22-reformatting: 10
         c23-plot-min-max: 10
+
+opdrachten-m3:
+    show_progress: true
+    submits:
+        3_1-car: 15
+        3_2-temperature: 35
+        c31-datastructures: 15
+        c32-shakespeare: 15
 
 tentamen:
     show_progress: true
