@@ -266,6 +266,7 @@ werkcolleges:
     submits:
         werkcollege-2: 1
         werkcollege-4: 1
+        werkcollege-5: 1
 
 opdrachten-m1:
     show_progress: true

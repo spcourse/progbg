@@ -1,0 +1,8 @@
+name: werkcollege-5
+exam: true
+files:
+    required:
+        'werkcollege5.py': |
+            # Resplit:
+
+            
