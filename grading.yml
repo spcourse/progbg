@@ -45,10 +45,11 @@ templates:
         subgrades:
             comments (0 - 1 pts): integer
             whitespacing (0 - 2 pts): integer
+            punten: integer
         automatic:
             checkpy: correctness_score
-            points: comments + whitespacing
-        calculation: points
+            punten: comments + whitespacing
+        calculation: punten
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
