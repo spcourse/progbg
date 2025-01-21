@@ -41,15 +41,16 @@ templates:
         hide_subgrades: false
 
     4: &design
-        type: float
+        type: integer
         subgrades:
-            comments (0 - 1 pts): int
-            whitespacing (0 - 2 pts): int
+            comments (0 - 1 pts): integer
+            whitespacing (0 - 2 pts): integer
         automatic:
-            correctness: correctness_score
-        calculation: comments + whitespacing
+            checkpy: correctness_score
+            points: comments + whitespacing
+        calculation: points
         auto_publish: false
-        hide_calculated: true
+        hide_calculated: false
         hide_subgrades: false
 
 # GRADES - contains definitions of how grades are structured. The names of the
