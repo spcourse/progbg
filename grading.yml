@@ -170,7 +170,7 @@ grades:
         <<: *manual
         deadline: 21/01/25 23:59
         automatic:
-            punten: 15
+            punten: 10
     c22-reformatting:
         <<: *automatic-check
         automatic:
@@ -180,6 +180,8 @@ grades:
     c22-plot-min-max:
         <<: *manual
         deadline: 21/01/25 23:59
+        automatic:
+            punten: 10
 
 
     3_1-car:
@@ -194,21 +196,20 @@ grades:
         automatic:
             punten: (correctness_score * 40).floor
             deelcijfer: correctness_score * 10
-        deadline: 28/01/25 23:59
+        deadline: 29/01/25 23:59
 
     c31-datastructures:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 15).floor
             deelcijfer: correctness_score * 10
-        deadline: 21/01/25 23:59
+        deadline: 30/01/25 23:59
 
     c32-shakespeare:
-        <<: *automatic-check
+        <<: *manual
         automatic:
-            punten: (correctness_score * 15).floor
-            deelcijfer: correctness_score * 10
-        deadline: 21/01/25 23:59
+            punten: 10
+        deadline: 30/01/25 23:59
 
     werkcollege-2: *no-grade
     werkcollege-4: *no-grade
