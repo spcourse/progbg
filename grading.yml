@@ -41,14 +41,14 @@ templates:
         hide_subgrades: false
 
     4: &design
-        type: float
+        type: integer
         subgrades:
-            comments_1_pts: integer
-            whitespacing_2_pts: integer
+            comments_0_to_1_pts: integer
+            whitespacing_0_to_2_pts: integer
             deelcijfer: float
         automatic:
             deelcijfer: correctness_score * 10
-        calculation: comments_1_pts + whitespacing_2_pts
+        calculation: comments_0_to_1_pts + whitespacing_0_to_2_pts
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
