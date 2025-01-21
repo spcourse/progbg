@@ -46,13 +46,13 @@ templates:
             commentaar_0_tot_1_pt: integer
             witruimte_0_tot_2_pt: integer
             var_en_fun_namen_0_tot_2_pt: integer
-            fun_gebruik_0_tot_1pt: integer
-            geen_dead_code_0_tot_1pt: integer
-            design_0_tot_3pt: integer
+            fun_gebruik_0_tot_1_pt: integer
+            geen_dead_code_0_tot_1_pt: integer
+            design_0_tot_3_pt: integer
             deelcijfer: float
         automatic:
             deelcijfer: correctness_score * 10
-        calculation: commentaar_0_to_1_pts + witruimte_0_to_2_pts + var_en_fun_namen_0_to_2_pts + fun_gebruik_0_tot_1pt + geen_dead_code_0_tot_1pt + design_0_tot_3pt
+        calculation:   commentaar_0_tot_1_pt + witruimte_0_tot_2_pt + var_en_fun_namen_0_tot_2_pt + fun_gebruik_0_tot_1_pt + geen_dead_code_0_tot_1_pt + design_0_tot_3_pt
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
