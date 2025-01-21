@@ -189,7 +189,7 @@ grades:
             deelcijfer: correctness_score * 10
         deadline: 22/01/25 23:59
 
-    3_2-temperature:
+    3_1-temperature:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 40).floor
@@ -301,7 +301,7 @@ opdrachten-m3:
     show_progress: true
     submits:
         3_1-car: 20
-        3_2-temperature: 40
+        3_1-temperature: 40
         c31-datastructures: 15
         c32-shakespeare: 15
 

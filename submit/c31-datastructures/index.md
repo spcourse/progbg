@@ -1,4 +1,4 @@
-# Submit Plot Min Max
+# Submit Datastructures
 
 - **Je moet deze module bespreken met de docent voor je een cijfer ontvangt.**
 
