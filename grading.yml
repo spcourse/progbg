@@ -174,9 +174,6 @@ grades:
         deadline: 21/01/25 23:59
     2_6-style:
         <<: *design
-        automatic:
-            punten: (correctness_score * 10).floor
-            deelcijfer: correctness_score * 10
         deadline: 21/01/25 23:59
     c21-twitter:
         <<: *manual
