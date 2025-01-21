@@ -48,7 +48,7 @@ templates:
             deelcijfer: float
         automatic:
             deelcijfer: correctness_score * 10
-        calculation: comments + whitespacing
+        calculation: "comments (0 - 1 pts)" + "whitespacing (0 - 2 pts)"
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
