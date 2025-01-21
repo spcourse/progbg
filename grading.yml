@@ -43,12 +43,12 @@ templates:
     4: &design
         type: float
         subgrades:
-            comments (0 - 1 pts): integer
-            whitespacing (0 - 2 pts): integer
+            comments 0 - 1 pts: integer
+            whitespacing 0 - 2 pts: integer
             deelcijfer: float
         automatic:
             deelcijfer: correctness_score * 10
-        calculation: "comments (0 - 1 pts)" + "whitespacing (0 - 2 pts)"
+        calculation: "comments 0 - 1 pts" + "whitespacing 0 - 2 pts"
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
