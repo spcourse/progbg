@@ -34,7 +34,8 @@ templates:
         type: float
         subgrades:
             deelcijfer: float
-        calculation: deelcijfer
+            besproken: boolean
+        calculation: besproken == -1 && 10 || 0
         auto_publish: false
         hide_calculated: true
         hide_subgrades: false
@@ -168,13 +169,15 @@ grades:
     c21-twitter:
         <<: *manual
         deadline: 21/01/25 23:59
+        automatic:
+            punten: 15
     c22-reformatting:
         <<: *automatic-check
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
         deadline: 21/01/25 23:59
-    c23-plot-min-max:
+    c22-plot-min-max:
         <<: *manual
         deadline: 21/01/25 23:59
 
@@ -182,14 +185,14 @@ grades:
     3_1-car:
         <<: *automatic-publish
         automatic:
-            punten: (correctness_score * 15).floor
+            punten: (correctness_score * 20).floor
             deelcijfer: correctness_score * 10
         deadline: 22/01/25 23:59
 
     3_2-temperature:
         <<: *automatic-check
         automatic:
-            punten: (correctness_score * 35).floor
+            punten: (correctness_score * 40).floor
             deelcijfer: correctness_score * 10
         deadline: 28/01/25 23:59
 
@@ -292,13 +295,13 @@ opdrachten-m2:
         2_6-style: 10
         c21-twitter: 10
         c22-reformatting: 10
-        c23-plot-min-max: 10
+        c22-plot-min-max: 10
 
 opdrachten-m3:
     show_progress: true
     submits:
-        3_1-car: 15
-        3_2-temperature: 35
+        3_1-car: 20
+        3_2-temperature: 40
         c31-datastructures: 15
         c32-shakespeare: 15
 
