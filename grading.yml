@@ -41,7 +41,7 @@ templates:
         hide_subgrades: false
 
     4: &design
-        type: integer
+        type: float
         subgrades:
             comments (0 - 1 pts): integer
             whitespacing (0 - 2 pts): integer
