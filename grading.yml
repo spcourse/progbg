@@ -40,6 +40,18 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    4: &design
+        type: float
+        subgrades:
+            comments (0 - 1 pts): int
+            whitespacing (0 - 2 pts): int
+        automatic:
+            correctness: correctness_score
+        calculation: comments + whitespacing
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
 # elsewhere, but you can also create grades without an accompanying submit.
@@ -161,7 +173,7 @@ grades:
             deelcijfer: correctness_score * 10
         deadline: 21/01/25 23:59
     2_6-style:
-        <<: *automatic-check
+        <<: *design
         automatic:
             punten: (correctness_score * 10).floor
             deelcijfer: correctness_score * 10
