@@ -57,6 +57,18 @@ templates:
         hide_calculated: false
         hide_subgrades: false
 
+    2: &exam
+        type: float
+        subgrades:
+            checkpy: float
+            cijfer: float
+        calculation: cijfer
+        automatic:
+            checkpy: correctness_score * 100
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
 # elsewhere, but you can also create grades without an accompanying submit.
@@ -229,8 +241,9 @@ grades:
     werkcollege-4: *no-grade
     werkcollege-5: *no-grade
 
-    tentamen: *automatic-check
-    tentamen2: *automatic-check
+    oefententamen: *exam
+    tentamen: *exam
+    hertentamen: *exam
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -254,7 +267,11 @@ calculation:
         opdrachten-m2: 1
         opdrachten-m3: 1
         tentamen: 3
-
+    eindcijfer-her:
+        opdrachten-m1: 1
+        opdrachten-m2: 1
+        opdrachten-m3: 1
+        hertentamen: 3
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
 #
@@ -319,6 +336,12 @@ opdrachten-m3:
         3_1-temperature: 40
         c31-datastructures: 15
         c32-shakespeare: 15
+
+oefententamen:
+    show_progress: true
+    required: true
+    submits:
+        oefententamen: 1
 
 tentamen:
     show_progress: true
