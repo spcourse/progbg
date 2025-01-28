@@ -267,7 +267,7 @@ calculation:
         opdrachten-m2: 1
         opdrachten-m3: 1
         tentamen: 3
-    eindcijfer-her:
+    eindcijfer2:
         opdrachten-m1: 1
         opdrachten-m2: 1
         opdrachten-m3: 1
@@ -348,3 +348,9 @@ tentamen:
     required: true
     submits:
         tentamen: 1
+
+hertentamen:
+    show_progress: true
+    required: true
+    submits:
+        hertentamen: 1
