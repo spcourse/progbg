@@ -1,8 +1,0 @@
-name: tentamen
-files:
-    required:
-        - ipbg_exam24_1.py
-check:
-    tool: checkpy
-    repo: spcourse/exam-tests
-    args: ipbg_exam24_1

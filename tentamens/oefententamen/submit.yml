@@ -1,8 +1,0 @@
-name: oefententamen
-files:
-    required:
-        - ipbg_practice_exam.py
-check:
-    tool: checkpy
-    repo: spcourse/exam-tests
-    args: ipbg_practice_exam
