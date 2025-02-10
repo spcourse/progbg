@@ -243,7 +243,7 @@ grades:
 
     oefententamen: *exam
     tentamen: *exam
-    
+
     hertentamen: *exam
 
 # CALCULATIONS - define the final grades for the course and the weights between
@@ -345,12 +345,14 @@ oefententamen:
         oefententamen: 1
 
 tentamen:
+    minimum: 5.5
     show_progress: true
     required: true
     submits:
         tentamen: 1
 
 hertentamen:
+    minimum: 5.5
     show_progress: true
     required: true
     submits:
