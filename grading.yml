@@ -305,7 +305,7 @@ werkcolleges:
         werkcollege-5: 1
 
 opdrachten-m1:
-    fail_missing: true
+    fill_missing: true
     show_progress: true
     submits:
         1_1-hello: 5
@@ -319,7 +319,7 @@ opdrachten-m1:
         c13-eratosthenes: 10
 
 opdrachten-m2:
-    fail_missing: true
+    fill_missing: true
     show_progress: true
     submits:
         2_1-fun: 10
@@ -333,7 +333,7 @@ opdrachten-m2:
         c22-plot-min-max: 10
 
 opdrachten-m3:
-    fail_missing: true
+    fill_missing: true
     show_progress: true
     submits:
         3_1-car: 20
