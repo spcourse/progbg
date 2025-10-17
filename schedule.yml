@@ -25,15 +25,15 @@ Number Theory (Module 1):
         Submit (6 jan) [submit]: /submit/m1/s1
     1.2 Input en rekenen - 10pt.:
         Basics [theorie]: /python/en/basics
-        Number Whiz [samen]: /numbers/en/whiz
-        Divide [individueel]*: /shorts/oranges
+        "[icon:people-fill] Number Whiz [samenwerken]": /numbers/en/whiz
+        "[icon:person-fill] Divide [individueel]": /shorts/oranges
         Submit (6 jan) [submit]: /submit/m1/s2
     1.3 Als-dan - 10pt.:
         Algoritmes [theorie]: /python/en/algorithms
-        Less Than [samen]: /shorts/less_than
-        First Year [samen]: /shorts/first_year
-        First or Last Year [individueel]: /shorts/first_or_last_year
-        Leap Year [individueel]*: /shorts/leap_year
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill]First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
         Submit (7 jan) [submit]: /submit/m1/s3
     1.4 Herhaling 1 (For) - 10pt.:
         For Loops [theorie]: /python/en/loops/for
