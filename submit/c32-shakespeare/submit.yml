@@ -1,4 +1,0 @@
-name: c32-shakespeare
-files:
-    required:
-        - shakespeare.py
