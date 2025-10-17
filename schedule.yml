@@ -52,7 +52,7 @@ Number Theory (Module 1):
         "[icon:person-fill] Positive": /shorts/positive
         "[icon:people-fill] Sum Until": /shorts/sum_until
         "[icon:people-fill] Birthday": /numbers/en/birthday
-        "[icon:person-fill] 1001 Primes [individueel]": /numbers/en/n-primes
+        "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
         "Submit [13 jan]": /submit/m1/s5
     1.6 Lijsten - 10pt.:
         "Debugging": /python/en/debugging-basics
@@ -62,11 +62,11 @@ Number Theory (Module 1):
         "[icon:people-fill] Odd [samen]": /shorts/odd
         "[icon:people-fill] Average": /shorts/average
         "[icon:person-fill] Squares": /shorts/squares
-        "[icon:person-fill] Prime List [icon:person-fill]": /numbers/en/primelist
+        "[icon:person-fill] Prime List": /numbers/en/primelist
         "Submit [14 jan]": /submit/m1/s6
     1.7 Challenges - 10pt. per challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer [icon:exlamation]":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
         "Submit Goldbach [14 jan]": /submit/c11-goldbach
         "[icon:person-fill-gear] Amicable": /numbers/en/amicable
@@ -115,7 +115,7 @@ Text Processing (Module 2):
         "[icon:person-check] Aftekenen!":
     2.7 Challenges - 10pt. per challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "[icon:exlamation] Elke challenge moet in persoon besproken worden voor een cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Twitter": /text/en/tweets
         Submit Twitter [21 jan]: /submit/m2/c21-twitter
         "[icon:person-fill-gear] Reformat": /text/en/reformatting
@@ -145,7 +145,7 @@ Level 3 - Big Data:
         "[icon:person-check] Aftekenen!":
     3.6 Challenges - 10pt. per challenge:
         De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer:
-        "[icon:exlamation] Elke challenge moet in persoon besproken worden voor een cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
         Submit [?]: /submit/m3/c31-weather5
 
