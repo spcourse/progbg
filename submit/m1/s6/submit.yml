@@ -1,4 +1,4 @@
-name: 1_6-lijsten
+name: 1_6n
 files:
     required:
         - positive_list.py

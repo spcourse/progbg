@@ -1,0 +1,8 @@
+name: 3_4m
+files:
+    required:
+        - weather3.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: weather3

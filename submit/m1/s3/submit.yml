@@ -1,4 +1,4 @@
-name: 1_3-als-dan
+name: 1_3n
 files:
     required:
         - less_than.py

@@ -1,8 +1,8 @@
-name: 3_1-temperature
+name: 1_1n
 files:
     required:
-        - temperature.py
+        - hello.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: temperature
+    args: hello

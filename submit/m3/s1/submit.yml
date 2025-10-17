@@ -1,8 +1,8 @@
-name: 1_1-hello
+name: 3_1m
 files:
     required:
-        - hello.py
+        - car_ride.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: hello
+    args: car_ride

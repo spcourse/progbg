@@ -1,8 +1,8 @@
-name: 3_1-car
+name: 3_5m
 files:
     required:
-        - car_ride.py
+        - weather4.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: car_ride
+    args: weather4
