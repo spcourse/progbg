@@ -2,4 +2,4 @@
 
 Icons:
 
-[icon:person-fill]
+![person-fill](./icons/person-fill.svg){: height="16" }
