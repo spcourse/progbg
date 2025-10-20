@@ -22,19 +22,19 @@ Number Theory (Module 1):
 
     1.1 Output - 5pt.:
         "[icon:people-fill] Hello, world [samenwerken]": /shorts/hello
-        "Submit [6 jan]": /submit/m1/s1
+        "Submit [28 okt]": /submit/m1/s1
     1.2 Input en rekenen - 10pt.:
         "Basics [theorie]": /python/en/basics
         "[icon:people-fill] Number Whiz [samenwerken]": /numbers/en/whiz
         "[icon:person-fill] Divide [individueel]": /shorts/oranges
-        "Submit [6 jan]": /submit/m1/s2
+        "Submit [28 okt]": /submit/m1/s2
     1.3 Als-dan - 10pt.:
         "Algoritmes": /python/en/algorithms
         "[icon:people-fill] Less Than": /shorts/less_than
         "[icon:people-fill] First Year": /shorts/first_year
         "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
         "[icon:person-fill] Leap Year": /shorts/leap_year
-        "Submit [7 jan]": /submit/m1/s3
+        "Submit [29 okt]": /submit/m1/s3
     1.4 Herhaling 1 (For) - 10pt.:
         "For Loops": /python/en/loops/for
         "[icon:people-fill] Between": /shorts/between
@@ -44,7 +44,7 @@ Number Theory (Module 1):
         "[icon:person-fill] Count Leap Years": /shorts/count_leap_years
         "[icon:people-fill] Newton": /shorts/newton
         "[icon:person-fill] Check Prime": /numbers/en/check-prime
-        "Submit [8 jan]": /submit/m1/s4
+        "Submit [29 okt]": /submit/m1/s4
     1.5 Herhaling 2 (While) - 15pt.:
         "While Loops": /python/en/loops/while
         "Voorbeelden van Loops": /python/en/loops/practical-uses
@@ -53,7 +53,7 @@ Number Theory (Module 1):
         "[icon:people-fill] Sum Until": /shorts/sum_until
         "[icon:people-fill] Birthday": /numbers/en/birthday
         "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
-        "Submit [13 jan]": /submit/m1/s5
+        "Submit [4 nov]": /submit/m1/s5
     1.6 Lijsten - 10pt.:
         "Debugging": /python/en/debugging-basics
         "Code in Style": /python/en/style
@@ -63,16 +63,16 @@ Number Theory (Module 1):
         "[icon:people-fill] Average": /shorts/average
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Prime List": /numbers/en/primelist
-        "Submit [14 jan]": /submit/m1/s6
+        "Submit [5 nov]": /submit/m1/s6
     1.7 Challenges - 10pt. per challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
-        "Submit Goldbach [14 jan]": /submit/c11-goldbach
+        "Submit Goldbach [7 nov]": /submit/c11-goldbach
         "[icon:person-fill-gear] Amicable": /numbers/en/amicable
-        "Submit Amicable [14 jan]": /submit/c12-amicable
+        "Submit Amicable [7 nov]": /submit/c12-amicable
         "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
-        "Submit Eratosthenes [14 jan]": /submit/c13-eratosthenes
+        "Submit Eratosthenes [7 nov]": /submit/c13-eratosthenes
 
 Text Processing (Module 2):
     2.1 Functions - 10pt.:
@@ -83,69 +83,71 @@ Text Processing (Module 2):
         "[icon:person-fill] Max": /shorts/max
         "[icon:person-fill] Max Index": /shorts/max_index
         "[icon:person-fill] Arange": /shorts/arange
-        Submit [15 jan]: /submit/m2/s1
+        Submit [11 nov]: /submit/m2/s1
     2.2 Strings 1 - 10pt.:
         Strings: /python/en/strings
         "[icon:people-fill] Vowels": /shorts/vowels
         "[icon:people-fill] Vowel Words": /shorts/vowel_words
         "[icon:person-fill] Text Statistics": /text/en/statistics
-        Submit [15 jan]: /submit/m2/s2
+        Submit [11 nov]: /submit/m2/s2
     2.3 Strings 2 - 10pt.:
         "[icon:people-fill] Longest Word": /shorts/longest_word
         "[icon:people-fill] Word-by-Word": /text/en/words
         "[icon:people-fill] Resplit": /shorts/resplit
         "[icon:person-fill] Snake Case": /shorts/snake_case
         "[icon:person-fill] Align": /text/en/align
-        Submit [20 jan]: /submit/m2/s3
+        Submit [12 nov]: /submit/m2/s3
     2.4 Files - 10pt.:
         Read Files: /python/en/file-io
         "[icon:people-fill] Practice to read files": /python/en/files
         "[icon:people-fill] Alice": /shorts/alice
         "[icon:person-fill] Sentiment": /text/en/sentiment
-        Submit [20 jan]: /submit/m2/s4
+        Submit [12 nov]: /submit/m2/s4
     2.5 Plot - 10pt.:
         Import modules: /python/en/modules
         Plot: /python/en/plotting
         "[icon:people-fill] Plot": /plot/en/plot1
         "[icon:person-fill] Plot Min": /plot/en/plot2
-        Submit [21 jan]: /submit/m2/s5
+        Submit [18 nov]: /submit/m2/s5
     2.6 Style - 10pt.:
         "[icon:person-fill] Style": /m2-style
-        Submit [21 jan]: /submit/m2/s6
+        Submit [18 nov]: /submit/m2/s6
         "[icon:person-check] Aftekenen!":
     2.7 Challenges - 10pt. per challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Twitter": /text/en/tweets
-        Submit Twitter [21 jan]: /submit/m2/c21-twitter
+        Submit Twitter [21 nov]: /submit/m2/c21-twitter
         "[icon:person-fill-gear] Reformat": /text/en/reformatting
-        Submit Reformat [21 jan]: /submit/m2/c22-reformatting
+        Submit Reformat [21 nov]: /submit/m2/c22-reformatting
         "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
-        Submit Plot Min Max [21 jan]: /submit/m2/c23-plot-min-max
+        Submit Plot Min Max [21 nov]: /submit/m2/c23-plot-min-max
 
 
 Level 3 - Big Data:
     3.1 Car [20pt.]:
         Read Files (repeated): /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
-        Submit [?]: /submit/m3/s1
+        Submit [25 nov]: /submit/m3/s1
     3.2 Weather 1 [10pt.]:
         More about Functions: /python/en/functions3
         "[icon:people-fill] Reading the data": /bigdata/en/weather1
-        Submit [?]: /submit/m3/s2
+        Submit [26 nov]: /submit/m3/s2
     3.3 Weather 2 [10pt.]:
         "[icon:person-fill] Extremes": /bigdata/en/weather2
-        Submit [?]: /submit/m3/s3
+        Submit [26 nov]: /submit/m3/s3
     3.4 Weather 3 [10pt.]:
         "[icon:person-fill] Cold, colder, coldest": /bigdata/en/weather3
-        Submit [?]: /submit/m3/s4
+        Submit [2 dec]: /submit/m3/s4
     3.5 Weather 4 [10pt.]:
         "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
-        Submit [?]: /submit/m3/s5
+        Submit [2 dec]: /submit/m3/s5
         "[icon:person-check] Aftekenen!":
     3.6 Challenges - 10pt. per challenge:
         De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer:
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
-        Submit [?]: /submit/m3/c31-weather5
+        Submit [9 dec]: /submit/m3/c31-weather5
+        "[icon:person-fill-gear] Data structures 1": /
+        "[icon:person-fill-gear] Data structures 2": /
 
