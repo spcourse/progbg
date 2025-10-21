@@ -62,7 +62,7 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 | week 4   |    | 2.5, 2.6             |                       |    | 2.7 (challenges) |
 | week 5   |    | 3.1                  | 3.2, 3.3              |    |          |
 | week 6   |    | 3.4, 3.5             |                       |    | 3.6 (challenges) |
-| week 7   |    |                      |                       |    |          |
+| week 7   |    | practice exam        |                       |    |          |
 | week 8   |    |                      |                       |    |          |
 
 De tijd van elke deadline is om **23:59**.
