@@ -62,10 +62,12 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 | week 4   |    | 2.5, 2.6             |                       |    | 2.7 (challenges) |
 | week 5   |    | 3.1                  | 3.2, 3.3              |    |          |
 | week 6   |    | 3.4, 3.5             |                       |    | 3.6 (challenges) |
-| week 7   |    | practice exam        |                       |    |          |
+| week 7   |    |                      |                       |    |          |
 | week 8   |    |                      |                       |    |          |
 
-De tijd van elke deadline is om **23:59**.
+* De tijd van elke deadline is om **23:59**.
+* Week 7 is gereserveerd voor tentamenvoorbereiding
+* Week 8 is tentamenweek
 
 **Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. 
 
