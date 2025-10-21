@@ -49,7 +49,7 @@ Voor een groot deel van de opdrachten zijn er automatische tests waarmee je zelf
 
 ### Deadlines opdrachten
 
-Omdat het vak zo kort is, is het zeer belangrijk om op schema te blijven. We daarom voor elke module naast de einddeadline ook een aantal deeldeadlines (deadlines voor specifieke onderdelen).
+Het is zeer belangrijk om op schema te blijven. Programmeren is een vaardgheid die je veel moet oefenen en inhalen als he eenmaal achterloopt is heel lastig. Om, je op schem te houden hebben voor elke module naast de einddeadline ook een aantal deeldeadlines (deadlines voor specifieke onderdelen).
 
 In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je eigen studieplan: *als je van plan bent om challenges te doen moet je vooruit werken.*
 
@@ -67,15 +67,7 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 
 De tijd van elke deadline is om **23:59**.
 
-**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je maximaal vier keer een deel te laat inleveren zonder verdere consequenties. Als je een keer iets te 
-Je krijgt een eindcijfer voor dit vak als je:
-
-- de *basisopdrachten* opdrachten op tijd hebt ingeleverd,
-- het tentamen voldoende hebt gemaakt.
-
-Heb je een opdracht niet zichtbaar geprobeerd, of heb je het tentamen niet gemaakt, dan krijg je een NAP (niet aanwezig). Heb je het tentamen niet gehaald, dan krijg je een NAV en kun je dit tentamen herkansen. Er zijn geen herkansingen voor de opdrachten, ook niet in geval van overmacht, dus lever altijd in wat je hebt en neem altijd contact op met de docent.
-
-Als je de *challenge opdrachten* niet hebt gemaakt krijg je wel gewoon een cijfer. Je kan in dat geval maximaal een 7 voor de module halen.
+**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. 
 
 ## Literatuur
 
