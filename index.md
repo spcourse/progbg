@@ -56,12 +56,12 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 
 | week/dag | ma | di                   | wo                    | do | vr       |
 |----------| -  | -------------------- | --------------------- | -- | -------- |
-| week 1   |    |                      |                       |    |          |
-| week 2   |    |                      |                       |    |          |
-| week 3   |    |                      |                       |    |          |
-| week 4   |    |                      |                       |    |          |
-| week 5   |    |                      |                       |    |          |
-| week 6   |    |                      |                       |    |          |
+| week 1   |    | 1.1, 1.2             | 1.3, 1.4              |    |          |
+| week 2   |    | 1.5                  | 1.6                   |    | 1.7 (challenges) |
+| week 3   |    | 2.1, 2.2             | 2.3, 2.4              |    |          |
+| week 4   |    | 2.5, 2.6             |                       |    | 2.7 (challenges) |
+| week 5   |    | 3.1                  | 3.2, 3.3              |    |          |
+| week 6   |    | 3.4, 3.5             |                       |    | 3.6 (challenges) |
 | week 7   |    |                      |                       |    |          |
 | week 8   |    |                      |                       |    |          |
 
