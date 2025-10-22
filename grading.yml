@@ -37,85 +37,85 @@ templates:
 grades:
     1_1n:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 28/10/25 23:59
     1_2n:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 28/10/25 23:59
     1_3n:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 29/10/25 23:59
     1_4n:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 29/10/25 23:59
     1_5n:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 04/11/25 23:59
     1_6n:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 05/11/25 23:59
     c11-goldbach:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 07/11/25 23:59
     c12-amicable:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 07/11/25 23:59
     c13-eratosthenes:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 07/11/25 23:59
 
     2_1t:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 11/11/25 23:59
     2_2t:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 11/11/25 23:59
     2_3t:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 12/11/25 23:59
     2_4t:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 12/11/25 23:59
     2_5t:
         <<: *automatic-publish
-        deadline: 22/01/25 23:59
+        deadline: 18/11/25 23:59
     2_6t:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 18/11/25 23:59
     c21-twitter:
         <<: *manual-check
-        deadline: 22/01/25 23:59
+        deadline: 21/11/25 23:59
     c22-reformatting:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 21/11/25 23:59
     c23-plot-min-max:
         <<: *manual-check
-        deadline: 22/01/25 23:59
+        deadline: 21/11/25 23:59
 
 
     3_1m:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 25/11/25 23:59
     3_2m:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 26/11/25 23:59
     3_3m:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 26/11/25 23:59
     3_4m:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 02/12/25 23:59
     3_5m:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 02/12/25 23:59
     c31-weather5:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 09/12/25 23:59
     c32-datastructures1:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 09/12/25 23:59
     c33-datastructures2:
         <<: *automatic-check
-        deadline: 22/01/25 23:59
+        deadline: 09/12/25 23:59
 
 opdrachten-m1:
     fill_missing: 0
