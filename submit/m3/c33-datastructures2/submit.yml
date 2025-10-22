@@ -1,4 +1,4 @@
-name: c-datastructures2
+name: c33-datastructures2
 files:
     requires:
         - datastructures2.py
