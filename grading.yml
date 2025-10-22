@@ -7,7 +7,7 @@ templates:
             deelcijfer: (correctness_score * 10).floor
         calculation: deelcijfer
         auto_publish: true
-        hide_calculated: false
+        hide_calculated: true
         hide_subgrades: false
     
     2: &automatic-check
@@ -19,16 +19,19 @@ templates:
             deelcijfer: (correctness_score * 10).floor
         calculation: besproken == -1 && deelcijfer || 0
         auto_publish: true
-        hide_calculated: false
+        hide_calculated: true
         hide_subgrades: false
 
     3: &manual-check
         type: float
         subgrades:
+            deelcijfer: float
             besproken: boolean
-        calculation: besproken == -1 && 10 || 0
+        automatic:
+            deelcijfer: 10
+        calculation: besproken == -1 && deelcijfer || 0
         auto_publish: true
-        hide_calculated: false
+        hide_calculated: true
         hide_subgrades: false
 
 grades:
