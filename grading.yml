@@ -51,7 +51,7 @@ grades:
         <<: *automatic-publish
         deadline: 04/11/25 23:59
     1_6n:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 05/11/25 23:59
     c11-goldbach:
         <<: *automatic-check
@@ -79,13 +79,13 @@ grades:
         <<: *automatic-publish
         deadline: 18/11/25 23:59
     2_6t:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 18/11/25 23:59
     c21-twitter:
         <<: *manual-check
         deadline: 21/11/25 23:59
     c22-reformatting:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 21/11/25 23:59
     c23-plot-min-max:
         <<: *manual-check
@@ -105,16 +105,16 @@ grades:
         <<: *automatic-publish
         deadline: 02/12/25 23:59
     3_5m:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 02/12/25 23:59
     c31-weather5:
-        <<: *automatic-chpublisheck
+        <<: *automatic-check
         deadline: 09/12/25 23:59
     c32-datastructures1:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 09/12/25 23:59
     c33-datastructures2:
-        <<: *automatic-publish
+        <<: *automatic-check
         deadline: 09/12/25 23:59
 
 opdrachten-m1:
