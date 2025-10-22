@@ -4,20 +4,19 @@ templates:
         subgrades:
             deelcijfer: float
         automatic:
-            deelcijfer: correctness_score * 10
+            deelcijfer: (correctness_score * 10).floor
         calculation: deelcijfer
         auto_publish: true
         hide_calculated: false
         hide_subgrades: false
     
-
     2: &automatic-check
         type: float
         subgrades:
             deelcijfer: float
             besproken: boolean
         automatic:
-            deelcijfer: correctness_score * 10
+            deelcijfer: (correctness_score * 10).floor
         calculation: besproken == -1 && deelcijfer || 0
         auto_publish: true
         hide_calculated: false
@@ -28,12 +27,11 @@ templates:
         subgrades:
             besproken: boolean
         calculation: besproken == -1 && 10 || 0
-        auto_publish: false
+        auto_publish: true
         hide_calculated: false
         hide_subgrades: false
 
 grades:
-    ### M1 ##*
     1_1n:
         <<: *automatic-publish
         deadline: 22/01/25 23:59
@@ -115,8 +113,6 @@ grades:
     c33-datastructures2:
         <<: *automatic-check
         deadline: 22/01/25 23:59
-
-
 
 opdrachten-m1:
     fill_missing: 0
