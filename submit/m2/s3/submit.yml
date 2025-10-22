@@ -1,4 +1,4 @@
-name: 2_3-strings-2
+name: 2_3t
 files:
     required:
         - list_words.py

@@ -1,4 +1,4 @@
-name: 2_4-files
+name: 2_4t
 files:
     required:
         - alice.py

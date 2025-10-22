@@ -1,4 +1,4 @@
-name: 2_5-plot
+name: 2_5t
 files:
     required:
         - plot1.py

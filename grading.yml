@@ -1,0 +1,163 @@
+templates:
+    1: &automatic-publish
+        type: float
+        subgrades:
+            deelcijfer: float
+        automatic:
+            deelcijfer: correctness_score * 10
+        calculation: deelcijfer
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+    
+
+    2: &automatic-check
+        type: float
+        subgrades:
+            deelcijfer: float
+            besproken: boolean
+        automatic:
+            deelcijfer: correctness_score * 10
+        calculation: besproken == -1 && deelcijfer || 0
+        auto_publish: true
+        hide_calculated: false
+        hide_subgrades: false
+
+    3: &manual-check
+        type: float
+        subgrades:
+            besproken: boolean
+        calculation: besproken == -1 && 10 || 0
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: false
+
+grades:
+    ### M1 ##*
+    1_1n:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    1_2n:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    1_3n:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    1_4n:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    1_5n:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    1_6n:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c11-goldbach:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c12-amicable:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c13-eratosthenes:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+
+    2_1t:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    2_2t:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    2_3t:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    2_4t:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    2_5t:
+        <<: *automatic-publish
+        deadline: 22/01/25 23:59
+    2_6t:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c21-twitter:
+        <<: *manual-check
+        deadline: 22/01/25 23:59
+    c22-reformatting:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c23-plot-min-max:
+        <<: *manual-check
+        deadline: 22/01/25 23:59
+
+
+    3_1m:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    3_2m:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    3_3m:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    3_4m:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    3_5m:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c31-weather5:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c32-datastructures1:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+    c33-datastructures2:
+        <<: *automatic-check
+        deadline: 22/01/25 23:59
+
+
+
+opdrachten-m1:
+    fill_missing: 0
+    show_progress: true
+    small_block_overview: true
+    submits:
+        1_1n: 10
+        1_2n: 10
+        1_3n: 10
+        1_4n: 10
+        1_5n: 10
+        1_6n: 10
+        c11-goldbach: 10
+        c12-amicable: 10
+        c13-eratosthenes: 10
+
+opdrachten-m2:
+    fill_missing: 0
+    show_progress: true
+    small_block_overview: true
+    submits:
+        2_1t: 10
+        2_2t: 10
+        2_3t: 10
+        2_4t: 10
+        2_5t: 10
+        2_6t: 10
+        c21-twitter: 10
+        c22-reformatting: 10
+        c22-plot-min-max: 10
+
+opdrachten-m3:
+    fill_missing: 0
+    show_progress: true
+    small_block_overview: true
+    submits:
+        3_1m: 20
+        3_2m: 10
+        3_3m: 10
+        3_4m: 10
+        3_5m: 10
+        c31-weather5: 10
+        c32-datastructures1: 10
+        c33-datastructures2: 10

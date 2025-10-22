@@ -20,7 +20,7 @@ Welkom:
 Number Theory (Module 1):
     # Introduction: /numbers/en/
 
-    1.1 Output - 5pt.:
+    1.1 Output - 10pt.:
         "[icon:people-fill] Hello, world [samenwerken]": /shorts/hello
         "Submit [28 okt]": /submit/m1/s1
     1.2 Input en rekenen - 10pt.:
@@ -45,7 +45,7 @@ Number Theory (Module 1):
         "[icon:people-fill] Newton": /shorts/newton
         "[icon:person-fill] Check Prime": /numbers/en/check-prime
         "Submit [29 okt]": /submit/m1/s4
-    1.5 Herhaling 2 (While) - 15pt.:
+    1.5 Herhaling 2 (While) - 10pt.:
         "While Loops": /python/en/loops/while
         "Voorbeelden van Loops": /python/en/loops/practical-uses
         "[icon:people-fill] Elmo": /shorts/elmo
@@ -125,29 +125,38 @@ Text Processing (Module 2):
 
 
 Level 3 - Big Data:
-    3.1 Car [20pt.]:
+    3.1 Car - 20pt.:
         Read Files (repeated): /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
         Submit [25 nov]: /submit/m3/s1
-    3.2 Weather 1 [10pt.]:
+    3.2 Weather 1 - 10pt.:
         More about Functions: /python/en/functions3
         "[icon:people-fill] Reading the data": /bigdata/en/weather1
         Submit [26 nov]: /submit/m3/s2
-    3.3 Weather 2 [10pt.]:
+    3.3 Weather 2 - 10pt.:
         "[icon:person-fill] Extremes": /bigdata/en/weather2
         Submit [26 nov]: /submit/m3/s3
-    3.4 Weather 3 [10pt.]:
+    3.4 Weather 3 - 10pt.:
         "[icon:person-fill] Cold, colder, coldest": /bigdata/en/weather3
         Submit [2 dec]: /submit/m3/s4
-    3.5 Weather 4 [10pt.]:
+    3.5 Weather 4 - 10pt.:
         "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
         Submit [2 dec]: /submit/m3/s5
         "[icon:person-check] Aftekenen!":
-    3.6 Challenges - 10pt. per challenge:
+    3.6a Challenge 1 - 10pt:
         De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer:
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
-        Submit [9 dec]: /submit/m3/c31-weather5
-        "[icon:person-fill-gear] Data structures 1": /
-        "[icon:person-fill-gear] Data structures 2": /
-
+        Submit Weather 5 [9 dec]: /submit/m3/c31-weather5
+    3.6b Challenge 2 - 10pt:
+        Dictionaries: /python/en/dictionaries/use
+        Tuples: /python/en/tuples
+        Sets: /python/en/sets
+        "[icon:person-fill-gear] Datastructures 1": /python/en/datastructures-practice/part1
+        Submit Datastructures 1 [9 dec]: /submit/m3/c33-datastructures1
+    3.6c Challenge 3 - 10pt:
+        Complexity part 1: /python/en/complexity-intro
+        Complexity part 2: /python/en/complexity-calculation
+        Complexity of dictionaries: /python/en/dictionaries/complexity
+        "[icon:person-fill-gear] Datastructures 2": /python/en/datastructures-practice/part2
+        Submit Datastructures 2 [9 dec]: /submit/m3/c33-datastructures2

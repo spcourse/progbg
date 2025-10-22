@@ -1,4 +1,4 @@
-name: 2_6-style
+name: 2_6t
 files:
     required:
         - align.py

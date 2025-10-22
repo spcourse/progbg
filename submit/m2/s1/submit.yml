@@ -1,4 +1,4 @@
-name: 2_1-fun
+name: 2_1t
 files:
     required:
         - squared.py

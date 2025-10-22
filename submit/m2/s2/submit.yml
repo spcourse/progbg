@@ -1,4 +1,4 @@
-name: 2_2-strings-1
+name: 2_2t
 files:
     required:
         - vowels.py
