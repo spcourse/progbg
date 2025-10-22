@@ -17,7 +17,7 @@ Welkom:
       Stap 5 checkpy: /python/en/installing/checkpy-sp
 
 
-Number Theory (Module 1):
+Module 1 - Number Theory:
     # Introduction: /numbers/en/
 
     1.1 Output - 10pt.:
@@ -74,7 +74,7 @@ Number Theory (Module 1):
         "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
         "Submit Eratosthenes [7 nov]": /submit/m1/c13-eratosthenes
 
-Text Processing (Module 2):
+Module 2 - Text Processing:
     2.1 Functions - 10pt.:
         Functions: /python/en/functions
         "[icon:people-fill] Squared": /shorts/squared
@@ -124,7 +124,7 @@ Text Processing (Module 2):
         Submit Plot Min Max [21 nov]: /submit/m2/c23-plot-min-max
 
 
-Level 3 - Big Data:
+Module 3 - Big Data:
     3.1 Car - 20pt.:
         Read Files (repeated): /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
