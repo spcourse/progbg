@@ -18,7 +18,7 @@ templates:
         automatic:
             deelcijfer: (correctness_score * 10).floor
         calculation: besproken == -1 && deelcijfer || 0
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
@@ -30,7 +30,7 @@ templates:
         automatic:
             deelcijfer: 10
         calculation: besproken == -1 && deelcijfer || 0
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
@@ -51,7 +51,7 @@ grades:
         <<: *automatic-publish
         deadline: 04/11/25 23:59
     1_6n:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 05/11/25 23:59
     c11-goldbach:
         <<: *automatic-check
@@ -79,13 +79,13 @@ grades:
         <<: *automatic-publish
         deadline: 18/11/25 23:59
     2_6t:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 18/11/25 23:59
     c21-twitter:
         <<: *manual-check
         deadline: 21/11/25 23:59
     c22-reformatting:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 21/11/25 23:59
     c23-plot-min-max:
         <<: *manual-check
@@ -93,28 +93,28 @@ grades:
 
 
     3_1m:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 25/11/25 23:59
     3_2m:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 26/11/25 23:59
     3_3m:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 26/11/25 23:59
     3_4m:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 02/12/25 23:59
     3_5m:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 02/12/25 23:59
     c31-weather5:
-        <<: *automatic-check
+        <<: *automatic-chpublisheck
         deadline: 09/12/25 23:59
     c32-datastructures1:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 09/12/25 23:59
     c33-datastructures2:
-        <<: *automatic-check
+        <<: *automatic-publish
         deadline: 09/12/25 23:59
 
 opdrachten-m1:
