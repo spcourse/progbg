@@ -146,7 +146,7 @@ opdrachten-m2:
         2_6t: 10
         c21-twitter: 10
         c22-reformatting: 10
-        c22-plot-min-max: 10
+        c23-plot-min-max: 10
 
 opdrachten-m3:
     fill_missing: 0
