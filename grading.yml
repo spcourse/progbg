@@ -28,7 +28,7 @@ templates:
             deelcijfer: float
             besproken: boolean
         automatic:
-            deelcijfer: 10
+            deelcijfer: "10"
         calculation: besproken == -1 && deelcijfer || 0
         auto_publish: false
         hide_calculated: true
