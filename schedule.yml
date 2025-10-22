@@ -68,11 +68,11 @@ Number Theory (Module 1):
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
-        "Submit Goldbach [7 nov]": /submit/c11-goldbach
+        "Submit Goldbach [7 nov]": /submit/m1/c11-goldbach
         "[icon:person-fill-gear] Amicable": /numbers/en/amicable
-        "Submit Amicable [7 nov]": /submit/c12-amicable
+        "Submit Amicable [7 nov]": /submit/m1/c12-amicable
         "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
-        "Submit Eratosthenes [7 nov]": /submit/c13-eratosthenes
+        "Submit Eratosthenes [7 nov]": /submit/m1/c13-eratosthenes
 
 Text Processing (Module 2):
     2.1 Functions - 10pt.:
