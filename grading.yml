@@ -117,6 +117,22 @@ grades:
         <<: *automatic-check
         deadline: 09/12/25 23:59
 
+aftekenen:
+    show_progress: true
+    submits:
+        1_6n: 10
+        c11-goldbach: 10
+        c12-amicable: 10
+        c13-eratosthenes: 10
+        2_6t: 10
+        c21-twitter: 10
+        c22-reformatting: 10
+        c23-plot-min-max: 10
+        3_5m: 10
+        c31-weather5: 10
+        c32-datastructures1: 10
+        c33-datastructures2: 10
+
 opdrachten-m1:
     fill_missing: 0
     show_progress: true
