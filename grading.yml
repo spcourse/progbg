@@ -4,7 +4,7 @@ templates:
         subgrades:
             deelcijfer: float
         automatic:
-            deelcijfer: (correctness_score * 10).floor
+            deelcijfer: correctness_score < 10 && 0 || 10
         calculation: deelcijfer
         auto_publish: true
         hide_calculated: true
