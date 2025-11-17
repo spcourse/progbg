@@ -1,0 +1,21 @@
+name: practice_bg
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("practice_bg", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/quizes
+    args: practice_bg
+files:
+    required:
+        'practice_bg.py': |
+            # Opdracht 1
+
+
+            # Opdracht 2
+
+
+            # Opdracht 3
