@@ -1,6 +1,7 @@
 # Oefentoets (week 4 - na 2.4)
 
-* Maak deze oefenvragen in de tentameneditor: [editor](exam_button:practice_bg)
+* Maak deze oefenvragen in de tentameneditor: 
+    [editor](exam_button:practice_bg)
 * Doe alsof dit een echt tentamen is. Dus:
         * gebruik geen chatGPT (of andere LLM)
         * gebruik alleen de website zelf als bron (google niets)
