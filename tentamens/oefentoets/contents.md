@@ -3,9 +3,9 @@
 * Maak deze oefenvragen in de tentameneditor: <br>
     [editor](exam_button:practice_bg)
 * Doe alsof dit een echt tentamen is. Dus:
-        * gebruik geen chatGPT (of andere LLM)
-        * gebruik alleen de website zelf als bron (google niets)
-        * geen overleg
+    * gebruik geen chatGPT (of andere LLM)
+    * gebruik alleen de website zelf als bron (google niets)
+    * geen overleg
 * Deze oefentoets duurt 45 minuten.
 * We verwachten niet dat je nu alles al helemaal correct kan maken.
 * Voor deze oefening is het belangrijker dat je elke vraag geprobeerd hebt dan dat het helemaal correct is.
