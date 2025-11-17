@@ -34,6 +34,17 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    4: &testt
+        type: float
+        subgrades:
+            checkpy: float
+        automatic:
+            checkpy: correctness_score * 9 + 1
+        calculation: checkpy
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
+
 grades:
     1_1n:
         <<: *automatic-publish
@@ -117,6 +128,8 @@ grades:
         <<: *automatic-check
         deadline: 09/12/25 23:59
 
+    practice_bg: *testt
+
 aftekenen-basis:
     show_progress: true
     submits:
@@ -180,3 +193,8 @@ opdrachten-m3:
         c31-weather5: 10
         c32-datastructures1: 10
         c33-datastructures2: 10
+
+practice:
+    show_progress: true
+    submits:
+        practice_bg: 1
