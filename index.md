@@ -57,11 +57,11 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 | week/dag | ma | di                   | wo                    | do | vr       |
 |----------| -  | -------------------- | --------------------- | -- | -------- |
 | week 1   |    | 1.1, 1.2             | 1.3, 1.4              |    |          |
-| week 2   |    | 1.5                  | 1.6                   |    | 1.7 (challenges) |
+| week 2   |    | 1.5                  | 1.6                   |    | 1.7.     |
 | week 3   |    | 2.1, 2.2             | 2.3, 2.4              |    |          |
-| week 4   |    | 2.5, 2.6             |                       |    | 2.7 (challenges) |
-| week 5   |    | 3.1                  | 3.2, 3.3              |    |          |
-| week 6   |    | 3.4, 3.5             |                       |    | 3.6 (challenges) |
+| week 4   |    |                      |                       |    | 2.5, 2.6, 2.7 |
+| week 5   |    | 3.1                  |                       |    | 3.2, 3.3 |
+| week 6   |    | 3.4                  |                       |    | 3.5, 3.6 |
 | week 7   |    |                      |                       |    |          |
 | week 8   |    |                      |                       |    |          |
 
@@ -69,7 +69,7 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 * Week 7 is gereserveerd voor tentamenvoorbereiding
 * Week 8 is tentamenweek
 
-**Deadlines voor dit vak zijn strikt.** Het vak is zo kort dat er geen tijd is voor uitloop. Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. 
+**Deadlines voor dit vak zijn strikt.** Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. 
 
 ## Literatuur
 

@@ -88,10 +88,10 @@ grades:
         deadline: 12/11/25 23:59
     2_5t:
         <<: *automatic-publish
-        deadline: 18/11/25 23:59
+        deadline: 21/11/25 23:59
     2_6t:
         <<: *automatic-check
-        deadline: 18/11/25 23:59
+        deadline: 21/11/25 23:59
     c21-twitter:
         <<: *manual-check
         deadline: 21/11/25 23:59
@@ -108,16 +108,16 @@ grades:
         deadline: 25/11/25 23:59
     3_2m:
         <<: *automatic-publish
-        deadline: 26/11/25 23:59
+        deadline: 28/11/25 23:59
     3_3m:
         <<: *automatic-publish
-        deadline: 26/11/25 23:59
+        deadline: 28/11/25 23:59
     3_4m:
         <<: *automatic-publish
         deadline: 02/12/25 23:59
     3_5m:
         <<: *automatic-check
-        deadline: 02/12/25 23:59
+        deadline: 09/12/25 23:59
     c31-weather5:
         <<: *automatic-check
         deadline: 09/12/25 23:59
