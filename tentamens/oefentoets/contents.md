@@ -7,9 +7,9 @@
         * gebruik alleen de website zelf als bron (google niets)
         * geen overleg
 * Deze oefentoets duurt 45 minuten.
-* We verwachten niet dat je alles al helemaal correct kan.
+* We verwachten niet dat je nu alles al helemaal correct kan maken.
 * Voor deze oefening is het belangrijker dat je elke vraag geprobeerd hebt dan dat het helemaal correct is.
-Porobeer een kwartier te nemen voor elke vraag en dan door te gaan.
+Probeer een kwartier te nemen voor elke vraag en dan door te gaan.
 
 
 ## Assignment 1: Harmonic Mean
