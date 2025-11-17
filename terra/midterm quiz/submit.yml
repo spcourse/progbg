@@ -8,7 +8,7 @@ buttons:
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: practice_bg
+    args: bg_practice
 files:
     required:
         'bg_practice.py': |
