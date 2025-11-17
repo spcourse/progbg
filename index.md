@@ -69,7 +69,7 @@ In de table hieronder kan je alle deadlines vinden. Hoe hiermee rekening met je 
 * Week 7 is gereserveerd voor tentamenvoorbereiding
 * Week 8 is tentamenweek
 
-**Deadlines voor dit vak zijn strikt.** Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. 
+**Deadlines voor dit vak zijn strikt.** Nu kan het wel eens voor komen dat je een deadline echt niet kan halen (door ziekte, bijvoorbeeld). Om ervoor te zorgen dat dat niet onmiddellijk een probleem geeft, kan je **maximaal** vier keer een deel te laat inleveren zonder verdere consequenties. **Als je meer dan vier keer een onderdeel te laat inlevert kan je daar geen punten meer voor krijgen.** 
 
 ## Literatuur
 
