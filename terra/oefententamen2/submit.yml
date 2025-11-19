@@ -1,17 +1,17 @@
-name: oefententamen
+name: oefententamen2
 exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("bg_exam_practice1", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("bg_exam_practice2", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/quizes
-    args: bg_exam_practice1
+    args: bg_exam_practice2
 files:
     required:
-        'bg_exam_practice1.py': |
+        'bg_exam_practice2.py': |
             # Opdracht 1
 
 
