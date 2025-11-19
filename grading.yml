@@ -129,6 +129,8 @@ grades:
         deadline: 09/12/25 23:59
 
     practice_bg: *testt
+    oefententamen: *testt
+    oefententamen2: *testt
 
 aftekenen-basis:
     show_progress: true
@@ -198,3 +200,5 @@ practice:
     show_progress: true
     submits:
         practice_bg: 1
+        oefententamen: 1 
+        oefententamen2: 1
