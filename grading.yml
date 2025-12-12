@@ -45,6 +45,18 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    5: &exam
+        type: float
+        subgrades:
+            checkpy: float
+            cijfer: float
+        calculation: cijfer
+        automatic:
+            checkpy: correctness_score * 100
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
 grades:
     1_1n:
         <<: *automatic-publish
@@ -132,6 +144,9 @@ grades:
     oefententamen: *testt
     oefententamen2: *testt
 
+    tentamen: *exam
+    hertentamen: *exam
+
 aftekenen-basis:
     show_progress: true
     submits:
@@ -202,3 +217,18 @@ practice:
         practice_bg: 1
         oefententamen: 1 
         oefententamen2: 1
+
+
+tentamen:
+    minimum: 5.5
+    show_progress: true
+    required: true
+    submits:
+        tentamen: 1
+
+hertentamen:
+    minimum: 5.5
+    show_progress: true
+    required: true
+    submits:
+        hertentamen: 1
