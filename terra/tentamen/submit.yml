@@ -7,7 +7,7 @@ buttons:
             print("\nend tests!")
 check:
     tool: checkpy
-    repo: quizes/exam-tests
+    repo: spcourse/quizes
     args: bg_exam1
 files:
     required:
