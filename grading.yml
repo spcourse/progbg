@@ -172,7 +172,7 @@ opdrachten-m1:
     show_progress: true
     small_block_overview: true
     submits:
-        1_1n: 10
+        1_1n: 20
         1_2n: 10
         1_3n: 10
         1_4n: 10
@@ -187,7 +187,7 @@ opdrachten-m2:
     show_progress: true
     small_block_overview: true
     submits:
-        2_1t: 10
+        2_1t: 20
         2_2t: 10
         2_3t: 10
         2_4t: 10
