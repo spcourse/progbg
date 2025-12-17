@@ -202,7 +202,7 @@ opdrachten-m3:
     show_progress: true
     small_block_overview: true
     submits:
-        3_1m: 20
+        3_1m: 30
         3_2m: 10
         3_3m: 10
         3_4m: 10
