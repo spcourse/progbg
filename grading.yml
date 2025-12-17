@@ -232,3 +232,15 @@ hertentamen:
     required: true
     submits:
         hertentamen: 1
+
+calculation:
+    m1-final:
+        opdrachten-m1: 1
+    m2-final:
+        opdrachten-m2: 1
+    m3-final:
+        opdrachten-m3: 1
+    tent-final:
+        tentamen: 1
+    her-final:
+        tentamen: 1
