@@ -49,17 +49,16 @@ Week 3 - Lists & Functions:
     "Debugging [theorie]": /python/en/debugging-basics
     "Code in Style [theorie]": /python/en/style
     "Lists [theorie]": /python/en/lists
-    Positive List: /shorts/positive_list
-    "[ADD] Sum List": /shorts/sum_list
-    "[ADD] Σ over a list [theorie]": /python/en/sigma-over-list
-    "[UPDATE] Average": /shorts/average
-    "[ADD] Variance": /shorts/variance
-    "[ADD] Weighted Average": /shorts/weighted_average
+    "Positive List": /shorts/positive_list
+    "Sum List": /shorts/sum_list
+    "Σ over a list [theorie]": /python/en/sigma-over-list
+    "Average": /shorts/average
+    "Variance": /shorts/variance
     Submit: /submit/wk3/s1
   3.2 Functions:
     "Functions [theorie]": /python/en/functions
     Squared: /shorts/squared
-    "[ADD] Sum List as a function [demo]":
+    "Sum List as a function [theorie]": /python/en/sum-list-to-function
     "[ADD] Average as a function": /shorts/average_fn
     "[ADD] Variance as a function": /shorts/variance_fn
     "[ADD] Weighted Average as a function": /shorts/weighted_average_fn
