@@ -1,44 +1,39 @@
 Welkom:
-  Lees eerst de studiewijzer:
-    Studiewijzer: /syllabus
-  Installeer python:
-    Intro: /python/en/installing/intro
-  Installeer Python voor Windows:
-    Stap 1 installeer Miniconda: /python/en/installing/miniconda-win
-    Stap 2 installeer Pulsar: /python/en/installing/pulsar
-    Stap 3 command line interface: /python/en/installing/cli-win
-    Stap 4 installeer Conda environment: /python/en/installing/conda-env-sp
-    Stap 5 checkpy: /python/en/installing/checkpy-sp
-  Installeer Python voor MacOS:
-    Stap 1 installeer Miniconda: /python/en/installing/miniconda-mac
-    Stap 2 installeer Pulsar: /python/en/installing/pulsar
-    Stap 3 command line interface: /python/en/installing/cli-mac
-    Stap 4 installeer Conda environment: /python/en/installing/conda-env-sp-mac
-    Stap 5 checkpy: /python/en/installing/checkpy-sp
+  Read the syllabus: /syllabus
+  Install Python [Windows]:
+    Practice using Command Line: /python/en/installing/cmd-win
+    Install Python: /python/en/installing/uv-win
+  Install Python [MacOS/Linux]:
+    Practice using Command Line: /python/en/installing/cmd-mac
+    Install Python: /python/en/installing/uv-mac
 
 Week 1 - Basics:
   1.1 Output:
     Hello world: /shorts/hello
+    Submit: /submit/wk1/s1
   1.2 Input & Arithmetic:
     "Basics [theorie]": /python/en/basics
     Number Whiz: /numbers/en/whiz
     Divide: /shorts/oranges
+    Submit: /submit/wk1/s2
   1.3 Conditionals:
     "Algoritmes [theorie]": /python/en/algorithms
     Less Than: /shorts/less_than
     First Year: /shorts/first_year
     First or Last Year: /shorts/first_or_last_year
     Leap Year: /shorts/leap_year
+    Submit: /submit/wk1/s3
 
 Week 2 - Loops:
   2.1 For Loops:
     "For Loops [theorie]": /python/en/loops/for
-    "[ADD] From Σ to for [theorie]": /python/en/sigma-to-for
-    "[UPDATE] Sum": /shorts/sum
-    "[ADD] Geometric Series": /shorts/geometric_series
+    Sum: /shorts/sum
     Leap Years: /shorts/leap_years
     Count Leap Years: /shorts/count_leap_years
     Check Prime: /numbers/en/check-prime
+    "From Σ to for [theorie]": /python/en/sigma-to-for
+    "Geometric Series": /shorts/geometric_series
+    Submit: /submit/wk2/s1
   2.2 While Loops:
     "While Loops [theorie]": /python/en/loops/while
     "Voorbeelden van Loops [theorie]": /python/en/loops/practical-uses
@@ -47,6 +42,7 @@ Week 2 - Loops:
     Sum Until: /shorts/sum_until
     Birthday: /numbers/en/birthday
     1001 Primes: /numbers/en/n-primes
+    Submit: /submit/wk2/s2
 
 Week 3 - Lists & Functions:
   3.1 Lists:
@@ -59,6 +55,7 @@ Week 3 - Lists & Functions:
     "[UPDATE] Average": /shorts/average
     "[ADD] Variance": /shorts/variance
     "[ADD] Weighted Average": /shorts/weighted_average
+    Submit: /submit/wk3/s1
   3.2 Functions:
     "Functions [theorie]": /python/en/functions
     Squared: /shorts/squared
@@ -66,6 +63,7 @@ Week 3 - Lists & Functions:
     "[ADD] Average as a function": /shorts/average_fn
     "[ADD] Variance as a function": /shorts/variance_fn
     "[ADD] Weighted Average as a function": /shorts/weighted_average_fn
+    Submit: /submit/wk3/s2
 
 Week 4 - Text Processing:
   4.1 Strings:
@@ -74,11 +72,13 @@ Week 4 - Text Processing:
     Vowel Words: /shorts/vowel_words
     Text Statistics: /text/en/statistics
     Snake Case: /shorts/snake_case
+    Submit: /submit/wk4/s1
   4.2 Files:
     "Read Files [theorie]": /python/en/file-io
     Practice to read files: /python/en/files
     Alice: /shorts/alice
     Sentiment: /text/en/sentiment
+    Submit: /submit/wk4/s2
 
 Week 5 - Vectors & Plotting:
   5.1 Vector Operations:
@@ -88,26 +88,33 @@ Week 5 - Vectors & Plotting:
     "[ADD][ML] Vector Diff": /gradient-descent/vector-diff
     "[ADD][ML] Apply Affine": /gradient-descent/apply-affine
     "[ADD][ML] MSE": /gradient-descent/mse
+    Submit: /submit/wk5/s1
   5.2 Plotting:
     "Import modules [theorie]": /python/en/modules
     "Plot [theorie]": /python/en/plotting
     Plot: /plot/en/plot1
     "[ADD][ML] Scatter Plot": /gradient-descent/scatter-plot
+    Submit: /submit/wk5/s2
 
 Week 6 - Style & Data Exploration:
   6.1 Style:
     Style: /m2-style
+    Submit: /submit/wk6/s1
   6.2 Read Data:
     "[ADD][ML] Read Data": /gradient-descent/read-data
+    Submit: /submit/wk6/s2
   6.3 Exploration & Manual Fitting:
     "[ADD][ML] Scatter Plot": /gradient-descent/scatter-data
     "[ADD][ML] Manual Fitting": /gradient-descent/manual-fitting
     "[ADD][ML] Visualise Fit": /gradient-descent/visualise-fit
+    Submit: /submit/wk6/s3
 
 Week 7 - Gradient Descent:
   7.1 Gradient Formulas:
     "[ADD][ML] Gradient w": /gradient-descent/gradient-w
     "[ADD][ML] Gradient b": /gradient-descent/gradient-b
+    Submit: /submit/wk7/s1
   7.2 Gradient Descent:
     "[ADD][ML] Gradient Descent": /gradient-descent/gradient-descent
     "[ADD][ML] Visualise Learning": /gradient-descent/visualise-learning
+    Submit: /submit/wk7/s2
