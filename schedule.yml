@@ -59,9 +59,8 @@ Week 3 - Lists & Functions:
     "Functions [theorie]": /python/en/functions
     Squared: /shorts/squared
     "Sum List as a function [theorie]": /python/en/sum-list-to-function
-    "[ADD] Average as a function": /shorts/average_fn
-    "[ADD] Variance as a function": /shorts/variance_fn
-    "[ADD] Weighted Average as a function": /shorts/weighted_average_fn
+    "Average and variance as a function": /shorts/average_variance_fn
+    "Weighted Average": /shorts/weighted_average_fn
     Submit: /submit/wk3/s2
 
 Week 4 - Text Processing:
