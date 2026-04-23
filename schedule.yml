@@ -80,10 +80,8 @@ Week 4 - Text Processing:
 
 Week 5 - Vectors & Plotting:
   5.1 Vector Operations:
-    "[ADD][ML] Inner Product": /gradient-descent/inner-product
-    "[ADD][ML] Scalar Multiply": /gradient-descent/scalar-multiply
-    "[ADD][ML] Vector Add": /gradient-descent/vector-add
-    "[ADD][ML] Vector Diff": /gradient-descent/vector-diff
+    "Inner Product": /gradient-descent/inner-product
+    "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
     "[ADD][ML] Apply Affine": /gradient-descent/apply-affine
     "[ADD][ML] MSE": /gradient-descent/mse
     Submit: /submit/wk5/s1
