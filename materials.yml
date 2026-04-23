@@ -1,24 +1,24 @@
 shorts:
-  remote: https://github.com/spcourse/shorts.git
-  branch: main
+    remote: https://github.com/spcourse/shorts.git
+    branch: main
 animation:
-  remote: https://github.com/spcourse/animation.git
-  branch: main
+    remote: https://github.com/spcourse/animation.git
+    branch: main
 gradient-descent:
-  remote: https://github.com/spcourse/gradient-descent.git
-  branch: main
+    remote: https://github.com/spcourse/gradient-descent.git
+    branch: main
 numbers:
-  remote: https://github.com/spcourse/numbers.git
-  branch: main
+    remote: https://github.com/spcourse/numbers.git
+    branch: main
 plot:
-  remote: https://github.com/spcourse/plot.git
-  branch: main
+    remote: https://github.com/spcourse/plot.git
+    branch: main
 text:
-  remote: https://github.com/spcourse/text.git
-  branch: main
+    remote: https://github.com/spcourse/text.git
+    branch: main
 shakespeare:
-  remote: https://github.com/spcourse/shakespeare.git
-  branch: main
+    remote: https://github.com/spcourse/shakespeare.git
+    branch: main
 python:
-  remote: https://github.com/spcourse/sp1-python.git
-  branch: main
+    remote: https://github.com/spcourse/sp1-python.git
+    branch: main
