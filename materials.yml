@@ -4,9 +4,9 @@ shorts:
 animation:
     remote: https://github.com/spcourse/animation.git
     branch: main
-# gradient-descent:
-#     remote: https://github.com/spcourse/gradient-descent.git
-#     branch: main
+gradient-descent:
+    remote: https://github.com/spcourse/gradient-descent.git
+    branch: main
 numbers:
     remote: https://github.com/spcourse/numbers.git
     branch: main
