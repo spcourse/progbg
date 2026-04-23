@@ -1,116 +1,116 @@
 Welkom:
-  Read the syllabus: /syllabus
-  Install Python [Windows]:
-    Practice using Command Line: /python/en/installing/cmd-win
-    Install Python: /python/en/installing/uv-win
-  Install Python [MacOS/Linux]:
-    Practice using Command Line: /python/en/installing/cmd-mac
-    Install Python: /python/en/installing/uv-mac
+    Read the syllabus: /syllabus
+    Install Python [Windows]:
+        Practice using Command Line: /python/en/installing/cmd-win
+        Install Python: /python/en/installing/uv-win
+    Install Python [MacOS/Linux]:
+        Practice using Command Line: /python/en/installing/cmd-mac
+        Install Python: /python/en/installing/uv-mac
 
 Week 1 - Basics:
-  1.1 Output:
-    Hello world: /shorts/hello
-    Submit: /submit/wk1/s1
-  1.2 Input & Arithmetic:
-    "Basics [theorie]": /python/en/basics
-    Number Whiz: /numbers/en/whiz
-    Divide: /shorts/oranges
-    Submit: /submit/wk1/s2
-  1.3 Conditionals:
-    "Algoritmes [theorie]": /python/en/algorithms
-    Less Than: /shorts/less_than
-    First Year: /shorts/first_year
-    First or Last Year: /shorts/first_or_last_year
-    Leap Year: /shorts/leap_year
-    Submit: /submit/wk1/s3
+    1.1 Output:
+        Hello world: /shorts/hello
+        Submit: /submit/wk1/s1
+    1.2 Input & Arithmetic:
+        "Basics [theorie]": /python/en/basics
+        Number Whiz: /numbers/en/whiz
+        Divide: /shorts/oranges
+        Submit: /submit/wk1/s2
+    1.3 Conditionals:
+        "Algoritmes [theorie]": /python/en/algorithms
+        Less Than: /shorts/less_than
+        First Year: /shorts/first_year
+        First or Last Year: /shorts/first_or_last_year
+        Leap Year: /shorts/leap_year
+        Submit: /submit/wk1/s3
 
 Week 2 - Loops:
-  2.1 For Loops:
-    "For Loops [theorie]": /python/en/loops/for
-    Sum: /shorts/sum
-    Leap Years: /shorts/leap_years
-    Count Leap Years: /shorts/count_leap_years
-    Check Prime: /numbers/en/check-prime
-    "From Σ to for [theorie]": /python/en/sigma-to-for
-    "Geometric Series": /shorts/geometric_series
-    Submit: /submit/wk2/s1
-  2.2 While Loops:
-    "While Loops [theorie]": /python/en/loops/while
-    "Voorbeelden van Loops [theorie]": /python/en/loops/practical-uses
-    Elmo: /shorts/elmo
-    Positive: /shorts/positive
-    Sum Until: /shorts/sum_until
-    Birthday: /numbers/en/birthday
-    1001 Primes: /numbers/en/n-primes
-    Submit: /submit/wk2/s2
+    2.1 For Loops:
+        "For Loops [theorie]": /python/en/loops/for
+        Sum: /shorts/sum
+        Leap Years: /shorts/leap_years
+        Count Leap Years: /shorts/count_leap_years
+        Check Prime: /numbers/en/check-prime
+        "From Σ to for [theorie]": /python/en/sigma-to-for
+        "Geometric Series": /shorts/geometric_series
+        Submit: /submit/wk2/s1
+    2.2 While Loops:
+        "While Loops [theorie]": /python/en/loops/while
+        "Voorbeelden van Loops [theorie]": /python/en/loops/practical-uses
+        Elmo: /shorts/elmo
+        Positive: /shorts/positive
+        Sum Until: /shorts/sum_until
+        Birthday: /numbers/en/birthday
+        1001 Primes: /numbers/en/n-primes
+        Submit: /submit/wk2/s2
 
 Week 3 - Lists & Functions:
-  3.1 Lists:
-    "Debugging [theorie]": /python/en/debugging-basics
-    "Code in Style [theorie]": /python/en/style
-    "Lists [theorie]": /python/en/lists
-    "Positive List": /shorts/positive_list
-    "Sum List": /shorts/sum_list
-    "Σ over a list [theorie]": /python/en/sigma-over-list
-    "Average": /shorts/average
-    "Variance": /shorts/variance
-    Submit: /submit/wk3/s1
-  3.2 Functions:
-    "Functions [theorie]": /python/en/functions
-    Squared: /shorts/squared
-    "Sum List as a function [theorie]": /python/en/sum-list-to-function
-    "Average and variance as a function": /shorts/average_variance_fn
-    "Weighted Average": /shorts/weighted_average_fn
-    Submit: /submit/wk3/s2
+    3.1 Lists:
+        "Debugging [theorie]": /python/en/debugging-basics
+        "Code in Style [theorie]": /python/en/style
+        "Lists [theorie]": /python/en/lists
+        "Positive List": /shorts/positive_list
+        "Sum List": /shorts/sum_list
+        "Σ over a list [theorie]": /python/en/sigma-over-list
+        "Average": /shorts/average
+        "Variance": /shorts/variance
+        Submit: /submit/wk3/s1
+    3.2 Functions:
+        "Functions [theorie]": /python/en/functions
+        Squared: /shorts/squared
+        "Sum List as a function [theorie]": /python/en/sum-list-to-function
+        "Average and variance as a function": /shorts/average_variance_fn
+        "Weighted Average": /shorts/weighted_average_fn
+        Submit: /submit/wk3/s2
 
 Week 4 - Text Processing:
-  4.1 Strings:
-    "Strings [theorie]": /python/en/strings
-    Vowels: /shorts/vowels
-    Vowel Words: /shorts/vowel_words
-    Text Statistics: /text/en/statistics
-    Snake Case: /shorts/snake_case
-    Submit: /submit/wk4/s1
-  4.2 Files:
-    "Read Files [theorie]": /python/en/file-io
-    Practice to read files: /python/en/files
-    Alice: /shorts/alice
-    Sentiment: /text/en/sentiment
-    Submit: /submit/wk4/s2
+    4.1 Strings:
+        "Strings [theorie]": /python/en/strings
+        Vowels: /shorts/vowels
+        Vowel Words: /shorts/vowel_words
+        Text Statistics: /text/en/statistics
+        Snake Case: /shorts/snake_case
+        Submit: /submit/wk4/s1
+    4.2 Files:
+        "Read Files [theorie]": /python/en/file-io
+        Practice to read files: /python/en/files
+        Alice: /shorts/alice
+        Sentiment: /text/en/sentiment
+        Submit: /submit/wk4/s2
 
 Week 5 - Vectors & Plotting:
-  5.1 Vector Operations:
-    "Inner Product": /gradient-descent/inner-product
-    "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
-    "[ADD][ML] Apply Affine": /gradient-descent/apply-affine
-    "[ADD][ML] MSE": /gradient-descent/mse
-    Submit: /submit/wk5/s1
-  5.2 Plotting:
-    "Import modules [theorie]": /python/en/modules
-    "Plot [theorie]": /python/en/plotting
-    Plot: /plot/en/plot1
-    "[ADD][ML] Scatter Plot": /gradient-descent/scatter-plot
-    Submit: /submit/wk5/s2
+    5.1 Vector Operations:
+        "Inner Product": /gradient-descent/inner-product
+        "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
+        "Apply Affine": /gradient-descent/apply-affine
+        "MSE": /gradient-descent/mse
+        Submit: /submit/wk5/s1
+    5.2 Plotting:
+        "Import modules [theorie]": /python/en/modules
+        "Plot [theorie]": /python/en/plotting
+        "Plot Functions": /plot/en/plot1
+        "Plot Regression": /gradient-descent/scatter-plot
+        Submit: /submit/wk5/s2
 
 Week 6 - Style & Data Exploration:
-  6.1 Style:
-    Style: /m2-style
-    Submit: /submit/wk6/s1
-  6.2 Read Data:
-    "[ADD][ML] Read Data": /gradient-descent/read-data
-    Submit: /submit/wk6/s2
-  6.3 Exploration & Manual Fitting:
-    "[ADD][ML] Scatter Plot": /gradient-descent/scatter-data
-    "[ADD][ML] Manual Fitting": /gradient-descent/manual-fitting
-    "[ADD][ML] Visualise Fit": /gradient-descent/visualise-fit
-    Submit: /submit/wk6/s3
+    6.1 Style:
+        Style: /m2-style
+        Submit: /submit/wk6/s1
+    6.2 Read Data:
+        "[ADD][ML] Read Data": /gradient-descent/read-data
+        Submit: /submit/wk6/s2
+    6.3 Exploration & Manual Fitting:
+        "[ADD][ML] Scatter Plot": /gradient-descent/scatter-data
+        "[ADD][ML] Manual Fitting": /gradient-descent/manual-fitting
+        "[ADD][ML] Visualise Fit": /gradient-descent/visualise-fit
+        Submit: /submit/wk6/s3
 
 Week 7 - Gradient Descent:
-  7.1 Gradient Formulas:
-    "[ADD][ML] Gradient w": /gradient-descent/gradient-w
-    "[ADD][ML] Gradient b": /gradient-descent/gradient-b
-    Submit: /submit/wk7/s1
-  7.2 Gradient Descent:
-    "[ADD][ML] Gradient Descent": /gradient-descent/gradient-descent
-    "[ADD][ML] Visualise Learning": /gradient-descent/visualise-learning
-    Submit: /submit/wk7/s2
+    7.1 Gradient Formulas:
+        "[ADD][ML] Gradient w": /gradient-descent/gradient-w
+        "[ADD][ML] Gradient b": /gradient-descent/gradient-b
+        Submit: /submit/wk7/s1
+    7.2 Gradient Descent:
+        "[ADD][ML] Gradient Descent": /gradient-descent/gradient-descent
+        "[ADD][ML] Visualise Learning": /gradient-descent/visualise-learning
+        Submit: /submit/wk7/s2
