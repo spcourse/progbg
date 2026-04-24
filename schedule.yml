@@ -96,20 +96,15 @@ Week 6 - Style & Data Exploration:
     6.1 Style:
         Style: /m2-style
         Submit: /submit/wk6/s1
-    6.2 Read Data:
+    6.2 Read Data and Explore:
         "Read Data": /gradient-descent/read-data
-        Submit: /submit/wk6/s2
-    6.3 Exploration & Manual Fitting:
         "Scatter Plot": /gradient-descent/scatter-data
         "Manual Fitting": /gradient-descent/manual-fitting
-        Submit: /submit/wk6/s3
+        Submit: /submit/wk6/s2
 
 Week 7 - Gradient Descent:
-    7.1 Gradient Formulas:
-        "[ADD][ML] Gradient w": /gradient-descent/gradient-w
-        "[ADD][ML] Gradient b": /gradient-descent/gradient-b
-        Submit: /submit/wk7/s1
-    7.2 Gradient Descent:
-        "[ADD][ML] Gradient Descent": /gradient-descent/gradient-descent
-        "[ADD][ML] Visualise Learning": /gradient-descent/visualise-learning
+    7.1 Gradient Descent:
+        "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
+        "Gradient Descent": /gradient-descent/gradient-descent
+        "Visualise Learning": /gradient-descent/visualise-learning
         Submit: /submit/wk7/s2
