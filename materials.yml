@@ -1,3 +1,6 @@
+ais:
+    remote: https://github.com/spcourse/ai_en_samenleving.git
+    branch: main
 shorts:
     remote: https://github.com/spcourse/shorts.git
     branch: main
