@@ -93,14 +93,14 @@ Week 5 - Vectors & Plotting:
         Submit: /submit/wk5/s2
 
 Week 6 - Style & Data Exploration:
-    6.1 Style:
+    6.1 Style, Read Data and Explore:
         Style: /m2-style
-        Submit: /submit/wk6/s1
-    6.2 Read Data and Explore:
         "Read Data": /gradient-descent/read-data
         "Scatter Plot": /gradient-descent/scatter-data
         "Manual Fitting": /gradient-descent/manual-fitting
-        Submit: /submit/wk6/s2
+        Submit: /submit/wk6/s1
+    "6.2 HACKATHON: Build your own chatbot":
+        "Setup": /gradient-descent/llm
 
 Week 7 - Gradient Descent:
     7.1 Gradient Descent:
