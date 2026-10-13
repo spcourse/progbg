@@ -190,11 +190,9 @@ graag zo oplossen dat je het vak zelf kunt halen.
   <tr><th>Onderdeel</th><th>Gewicht</th></tr>
   <tr><td>Tentamen AI en Samenleving</td><td class="w">40%</td></tr>
   <tr><td>Tussentoets argumentatie (week 4)</td><td class="w">10%</td></tr>
-  <tr class="sum"><td>AI en Samenleving</td><td class="w">50%</td></tr>
   <tr><td>Tentamen Programmeren</td><td class="w">30%</td></tr>
   <tr><td>Programmeeropdrachten, week 1–7 (7 × 2,5%)</td><td class="w">17,5%</td></tr>
   <tr><td>Hackathon (participatie)</td><td class="w">2,5%</td></tr>
-  <tr class="sum"><td>Programmeren</td><td class="w">50%</td></tr>
 </table>
 
 Je krijgt een eindcijfer als je:
