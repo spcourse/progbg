@@ -33,8 +33,8 @@ kun je alleen bij de **docenten** krijgen, niet bij de assistenten. Mail dan naa
 pais@proglab.nl en leg kort uit wat er aan de hand is. Dreig je meer dan een paar
 dagen achter te raken? Neem dan zo snel mogelijk contact op.
 
-**Rooster en zalen**
-[DataNose](https://datanose.nl/#course[147797])
+**Rooster**
+[naar het rooster](#rooster) · zalen in [DataNose](https://datanose.nl/#course[147797])
 
 **Deadlines**
 [naar de deadlines](#deadlines)
@@ -58,29 +58,110 @@ elkaar komen:
 
 Je hebt geen programmeerervaring nodig. Je moet wel een eigen laptop meenemen.
 
-### Weekprogramma {#weekprogramma}
+### Rooster {#rooster}
 
-<style>
-.weeks { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; font-size: 0.9em; }
-.weeks th {
-  text-align: left; padding: 0.4em 0.6em;
-  background: #f0ede6; border: 1px solid #d8d2c4;
-}
-.weeks td { vertical-align: top; padding: 0.4em 0.6em; border: 1px solid #d8d2c4; }
-.weeks .date { white-space: nowrap; color: #6b6455; }
-</style>
+<!-- TODO: nalopen.
+     - Aanname: het hoorcollege op maandag (G2.10) is AI en Samenleving, dat op dinsdag
+       (C0.110) is Programmeren. In week 6 en 7 verschuift het maandagcollege.
+     - Vr 27 nov (werkcollege) en vr 4 dec (practicum/hackathon) volgen het verzoek aan
+       Belen; DataNose heeft ze nu nog andersom.
+     - Huiswerk AIS: nu elke woensdag van week 1-7 ingevuld. Klopt dat?
+     - Opdracht argumentatie (maandag): in welke weken? Nog niet in het rooster. -->
+
+<p class="legend">Hieronder staat het rooster per week. Je groep (1, 2 of 3) en de zalen
+van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[147797]">DataNose</a>.
+<span class="ais lec">AI en Samenleving</span> is blauw, <span class="prog lec">Programmeren</span>
+is groen. <span class="ais dl">Deadlines</span> en <span class="prog exam">toetsen</span>
+zijn donker gekleurd.</p>
 
 <table class="weeks">
-  <tr><th>Week</th><th>AI en Samenleving</th><th>Programmeren</th></tr>
-  <tr><td>1 <span class="date">26 okt</span></td><td>Technologie: wat is AI?</td><td>Basics</td></tr>
-  <tr><td>2 <span class="date">2 nov</span></td><td>Lineaire regressie, met de hand; partiële afgeleiden</td><td>Loops</td></tr>
-  <tr><td>3 <span class="date">9 nov</span></td><td>Classificatie met gradient descent; rechtvaardigheid</td><td>Lists en functies</td></tr>
-  <tr><td>4 <span class="date">16 nov</span></td><td>Milieu en blockchain; <b>tussentoets argumentatie</b></td><td>Tekstverwerking</td></tr>
-  <tr><td>5 <span class="date">23 nov</span></td><td>Perceptron en neurale netwerken; betoog schrijven</td><td>Vectoren en plotten</td></tr>
-  <tr><td>6 <span class="date">30 nov</span></td><td>Transformers en next-token prediction</td><td>Stijl en data verkennen; <b>hackathon</b></td></tr>
-  <tr><td>7 <span class="date">7 dec</span></td><td>De Turingtest; overzicht van het vak</td><td>Gradient descent</td></tr>
-  <tr><td>8 <span class="date">14 dec</span></td><td colspan="2"><b>Tentamens</b></td></tr>
+  <colgroup><col class="wk"><col class="tp"><col class="day"><col class="day"><col class="day"><col class="day"><col class="day"></colgroup>
+  <thead>
+    <tr><th></th><th>Onderwerp</th><th>ma</th><th>di</th><th>wo</th><th>do</th><th>vr</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Week 1<span>26 - 30 okt</span></th>
+      <td class="topics"><span class="t ais">Technologie: wat is AI?</span><span class="t prog">Basics</span></td>
+      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 1</span></td>
+    </tr>
+    <tr>
+      <th>Week 2<span>2 - 6 nov</span></th>
+      <td class="topics"><span class="t ais">Lineaire regressie; partiële afgeleiden</span><span class="t prog">Loops</span></td>
+      <td><span class="ais lec">13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 2</span></td>
+    </tr>
+    <tr>
+      <th>Week 3<span>9 - 13 nov</span></th>
+      <td class="topics"><span class="t ais">Classificatie met gradient descent; rechtvaardigheid</span><span class="t prog">Lists en functies</span></td>
+      <td><span class="ais lec">13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 3</span></td>
+    </tr>
+    <tr>
+      <th>Week 4<span>16 - 20 nov</span></th>
+      <td class="topics"><span class="t ais">Milieu en blockchain</span><span class="t prog">Tekstverwerking</span></td>
+      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais exam">13-15 of 15-17, werkcollege<br><b>tussentoets argumentatie</b></span></td><td><span class="prog lab">13-17, practicum</span><span class="prog dl">23:59 deadline week 4</span></td>
+    </tr>
+    <tr>
+      <th>Week 5<span>23 - 27 nov</span></th>
+      <td class="topics"><span class="t ais">Perceptron en neurale netwerken</span><span class="t prog">Vectoren en plotten</span></td>
+      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="ais wc">9-13, werkcollege: <b>betoog schrijven</b></span><span class="prog dl">23:59 deadline week 5</span></td>
+    </tr>
+    <tr>
+      <th>Week 6<span>30 nov - 4 dec</span></th>
+      <td class="topics"><span class="t ais">Transformers en next-token prediction</span><span class="t prog">Stijl en data verkennen</span></td>
+      <td></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span><span class="ais lec">15-17, hoorcollege, SP G0.10-G0.12</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 deadline week 6</span></td><td><span class="prog hack">9-13, <b>hackathon</b></span></td>
+    </tr>
+    <tr>
+      <th>Week 7<span>7 - 11 dec</span></th>
+      <td class="topics"><span class="t ais">De Turingtest; overzicht van het vak</span><span class="t prog">Gradient descent</span></td>
+      <td></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 deadline week 7</span></td>
+    </tr>
+    <tr>
+      <th>Week 8<span>14 - 18 dec</span></th>
+      <td class="topics"><span class="t">Tentamens</span></td>
+      <td><span class="prog exam">15-18, <b>tentamen Programmeren</b>, REC A3.06-A3.08</span></td><td></td><td><span class="ais exam">13-15, <b>tentamen AI en Samenleving</b>, SP C1.110</span></td><td></td><td></td>
+    </tr>
+  </tbody>
 </table>
+
+<style>
+.weeks {
+  width: 100%; font-size: 0.85em; margin-bottom: 1.5em; table-layout: fixed;
+  border-collapse: separate; border-spacing: 4px 6px;
+}
+.weeks col.wk { width: 9%; }
+.weeks col.tp { width: 21%; }
+.weeks col.day { width: 14%; }
+.weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
+.weeks th, .weeks td {
+  border: none; padding: 0.3em 0.3em; text-align: left;
+  background: transparent; vertical-align: top;
+}
+.weeks tbody th { white-space: nowrap; font-weight: bold; }
+.weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
+.weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
+.weeks .t { display: block; margin-bottom: 0.3em; padding-left: 0.5em; border-left: 4px solid #b9b2a3; line-height: 1.3; }
+.weeks .t.ais  { border-color: #3d7ab8; }
+.weeks .t.prog { border-color: #4a8c3a; }
+
+.weeks td > span:not(.t), .legend span {
+  padding: 0.3em 0.5em; border-radius: 4px; line-height: 1.3;
+}
+.weeks td > span:not(.t) { display: block; margin-bottom: 0.25em; }
+.legend span { display: inline-block; padding: 0.05em 0.4em; }
+
+/* AI en Samenleving: blauw */
+.ais.lec  { background: #dce8f5; color: #1f3d5c; }
+.ais.wc   { background: #b6d0ea; color: #173450; }
+.ais.dl   { background: #3d7ab8; color: #ffffff; font-weight: bold; }
+.ais.exam { background: #1f4e79; color: #ffffff; }
+
+/* Programmeren: groen */
+.prog.lec  { background: #e1eedb; color: #2a4a22; }
+.prog.lab  { background: #c2dbb4; color: #23401b; }
+.prog.hack { background: #8fc27a; color: #1a3412; font-weight: bold; }
+.prog.dl   { background: #4a8c3a; color: #ffffff; font-weight: bold; }
+.prog.exam { background: #2a5c22; color: #ffffff; }
+</style>
 
 ### Werkvormen {#werkvormen}
 
@@ -121,42 +202,7 @@ Alle deadlines zijn om **23:59**, tenzij anders vermeld.
 - **Opdracht argumentatie:** maandag
 - **Programmeren:** vrijdag (in week 6 donderdag, vanwege de hackathon)
 
-<style>
-.deadlines {
-  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
-  border-collapse: separate; border-spacing: 3px 4px;
-}
-.deadlines, .deadlines thead, .deadlines tbody, .deadlines tr,
-.deadlines th, .deadlines td { background: transparent; }
-.deadlines th, .deadlines td { border: none; padding: 0.35em 0.6em; text-align: left; }
-.deadlines .date { white-space: nowrap; }
-.deadlines .tag { text-align: center; border-radius: 5px; white-space: nowrap; width: 3.5em; }
-.deadlines .ais  { background: #d3e0dc; color: #2d4a43; }
-.deadlines .prog { background: #dbe3d1; color: #39492a; }
-.deadlines .toets { background: #f0e2be; color: #5d4713; }
-.deadlines .mod { color: #6b6455; }
-.deadlines tr.wk td { padding-top: 0.9em; font-weight: bold; }
-</style>
-
-<table class="deadlines">
-  <thead>
-    <tr><th>Datum</th><th></th><th>Wat</th></tr>
-  </thead>
-  <tbody>
-    <tr><td class="date">vr 30 okt</td><td class="tag prog">PROG</td><td>Week 1 <span class="mod">(Basics)</span></td></tr>
-    <tr><td class="date">vr 6 nov</td><td class="tag prog">PROG</td><td>Week 2 <span class="mod">(Loops)</span></td></tr>
-    <tr><td class="date">vr 13 nov</td><td class="tag prog">PROG</td><td>Week 3 <span class="mod">(Lists en functies)</span></td></tr>
-    <tr><td class="date">do 19 nov</td><td class="tag toets">TOETS</td><td><b>Tussentoets argumentatie</b> <span class="mod">— in je werkcollege</span></td></tr>
-    <tr><td class="date">vr 20 nov</td><td class="tag prog">PROG</td><td>Week 4 <span class="mod">(Tekstverwerking)</span></td></tr>
-    <tr><td class="date">vr 27 nov</td><td class="tag ais">AIS</td><td>Betoog schrijven <span class="mod">— werkcollege</span></td></tr>
-    <tr><td class="date">vr 27 nov</td><td class="tag prog">PROG</td><td>Week 5 <span class="mod">(Vectoren en plotten)</span></td></tr>
-    <tr><td class="date">do 3 dec</td><td class="tag prog">PROG</td><td>Week 6 <span class="mod">(Stijl en data verkennen)</span></td></tr>
-    <tr><td class="date">vr 4 dec</td><td class="tag prog">PROG</td><td><b>Hackathon</b> <span class="mod">— 9:00–12:45, practicumzalen</span></td></tr>
-    <tr><td class="date">vr 11 dec</td><td class="tag prog">PROG</td><td>Week 7 <span class="mod">(Gradient descent)</span></td></tr>
-    <tr><td class="date">ma 14 dec</td><td class="tag toets">TOETS</td><td><b>Tentamen Programmeren</b> <span class="mod">— 15:00–18:00, REC A3.06–A3.08 (digitaal)</span></td></tr>
-    <tr><td class="date">wo 16 dec</td><td class="tag toets">TOETS</td><td><b>Tentamen AI en Samenleving</b> <span class="mod">— 13:00–15:00, SP C1.110</span></td></tr>
-  </tbody>
-</table>
+De deadlines staan ook in het [rooster](#rooster).
 
 
 Voor het tentamen is er een gezamenlijk **vragenuurtje**, en na het tentamen een
