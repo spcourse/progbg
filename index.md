@@ -75,49 +75,41 @@ is groen. <span class="ais dl">Deadlines</span> en <span class="prog exam">toets
 zijn donker gekleurd.</p>
 
 <table class="weeks">
-  <colgroup><col class="wk"><col class="tp"><col class="day"><col class="day"><col class="day"><col class="day"><col class="day"></colgroup>
+  <colgroup><col class="wk"><col class="day"><col class="day"><col class="day"><col class="day"><col class="day"></colgroup>
   <thead>
-    <tr><th></th><th>Onderwerp</th><th>ma</th><th>di</th><th>wo</th><th>do</th><th>vr</th></tr>
+    <tr><th></th><th>ma</th><th>di</th><th>wo</th><th>do</th><th>vr</th></tr>
   </thead>
   <tbody>
     <tr>
       <th>Week 1<span>26 - 30 okt</span></th>
-      <td class="topics"><span class="t ais">Technologie: wat is AI?</span><span class="t prog">Basics</span></td>
-      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 1</span></td>
+      <td><span class="ais lec"><b>Wat is AI</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Basics</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 1</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 1</span></td>
     </tr>
     <tr>
       <th>Week 2<span>2 - 6 nov</span></th>
-      <td class="topics"><span class="t ais">Lineaire regressie; partiële afgeleiden</span><span class="t prog">Loops</span></td>
-      <td><span class="ais lec">13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 2</span></td>
+      <td><span class="ais lec"><b>Lineaire regressie</b><br>13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Loops</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 2</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 2</span></td>
     </tr>
     <tr>
       <th>Week 3<span>9 - 13 nov</span></th>
-      <td class="topics"><span class="t ais">Classificatie met gradient descent; rechtvaardigheid</span><span class="t prog">Lists en functies</span></td>
-      <td><span class="ais lec">13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 deadline week 3</span></td>
+      <td><span class="ais lec"><b>Classificatie en Gradient Descent</b><br>13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Lists en functies</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 3</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 3</span></td>
     </tr>
     <tr>
       <th>Week 4<span>16 - 20 nov</span></th>
-      <td class="topics"><span class="t ais">Milieu en blockchain</span><span class="t prog">Tekstverwerking</span></td>
-      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais exam">13-15 of 15-17, werkcollege<br><b>tussentoets argumentatie</b></span></td><td><span class="prog lab">13-17, practicum</span><span class="prog dl">23:59 deadline week 4</span></td>
+      <td><span class="ais lec"><b>Milieu en Blockchain</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Tekstverwerking</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 4</span></td><td><span class="ais exam">13-15 of 15-17, werkcollege<br><b>tussentoets argumentatie</b></span></td><td><span class="prog lab">13-17, practicum</span><span class="prog dl">23:59 Python deadline 4</span></td>
     </tr>
     <tr>
       <th>Week 5<span>23 - 27 nov</span></th>
-      <td class="topics"><span class="t ais">Perceptron en neurale netwerken</span><span class="t prog">Vectoren en plotten</span></td>
-      <td><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="ais wc">9-13, werkcollege: <b>betoog schrijven</b></span><span class="prog dl">23:59 deadline week 5</span></td>
+      <td><span class="ais lec"><b>Neurale Netwerken</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Vectoren en plotten</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 5</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="ais wc">9-13, werkcollege: <b>betoog schrijven</b></span><span class="prog dl">23:59 Python deadline 5</span></td>
     </tr>
     <tr>
       <th>Week 6<span>30 nov - 4 dec</span></th>
-      <td class="topics"><span class="t ais">Transformers en next-token prediction</span><span class="t prog">Stijl en data verkennen</span></td>
-      <td></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span><span class="ais lec">15-17, hoorcollege, SP G0.10-G0.12</span></td><td><span class="ais dl">23:59 deadline huiswerk</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 deadline week 6</span></td><td><span class="prog hack">9-13, <b>hackathon</b></span></td>
+      <td></td><td><span class="prog lec"><b>Stijl en data verkennen</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span><span class="ais lec"><b>Transformers</b><br>15-17, hoorcollege, SP G0.10-G0.12</span></td><td><span class="ais dl">23:59 AI huiswerk 6</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 Python deadline 6</span></td><td><span class="prog hack">9-13, <b>hackathon</b></span></td>
     </tr>
     <tr>
       <th>Week 7<span>7 - 11 dec</span></th>
-      <td class="topics"><span class="t ais">De Turingtest; overzicht van het vak</span><span class="t prog">Gradient descent</span></td>
-      <td></td><td><span class="prog lec">9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 deadline huiswerk</span><span class="ais lec">11-13, hoorcollege, SP G2.10</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 deadline week 7</span></td>
+      <td></td><td><span class="prog lec"><b>Gradient descent</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais lec"><b>Turingtest</b><br>11-13, hoorcollege, SP G2.10</span><span class="ais dl">23:59 AI huiswerk 7</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 Python deadline 7</span></td>
     </tr>
     <tr>
       <th>Week 8<span>14 - 18 dec</span></th>
-      <td class="topics"><span class="t">Tentamens</span></td>
       <td><span class="prog exam">15-18, <b>tentamen Programmeren</b>, REC A3.06-A3.08</span></td><td></td><td><span class="ais exam">13-15, <b>tentamen AI en Samenleving</b>, SP C1.110</span></td><td></td><td></td>
     </tr>
   </tbody>
@@ -128,9 +120,8 @@ zijn donker gekleurd.</p>
   width: 100%; font-size: 0.85em; margin-bottom: 1.5em; table-layout: fixed;
   border-collapse: separate; border-spacing: 4px 6px;
 }
-.weeks col.wk { width: 9%; }
-.weeks col.tp { width: 21%; }
-.weeks col.day { width: 14%; }
+.weeks col.wk { width: 10%; }
+.weeks col.day { width: 18%; }
 .weeks, .weeks thead, .weeks tbody, .weeks tr { background: transparent; }
 .weeks th, .weeks td {
   border: none; padding: 0.3em 0.3em; text-align: left;
@@ -139,14 +130,11 @@ zijn donker gekleurd.</p>
 .weeks tbody th { white-space: nowrap; font-weight: bold; }
 .weeks thead th { font-size: 0.9em; color: #6b6455; font-weight: normal; }
 .weeks tbody th span { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
-.weeks .t { display: block; margin-bottom: 0.3em; padding-left: 0.5em; border-left: 4px solid #b9b2a3; line-height: 1.3; }
-.weeks .t.ais  { border-color: #3d7ab8; }
-.weeks .t.prog { border-color: #4a8c3a; }
 
-.weeks td > span:not(.t), .legend span {
+.weeks td > span, .legend span {
   padding: 0.3em 0.5em; border-radius: 4px; line-height: 1.3;
 }
-.weeks td > span:not(.t) { display: block; margin-bottom: 0.25em; }
+.weeks td > span { display: block; margin-bottom: 0.25em; }
 .legend span { display: inline-block; padding: 0.05em 0.4em; }
 
 /* AI en Samenleving: blauw */
