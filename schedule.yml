@@ -79,18 +79,16 @@ Week 4 - Text Processing:
         Submit: /submit/wk4/s2
 
 Week 5 - Vectors & Plotting:
-    5.1 Vector Operations:
+    5.1 Vector Operations & Plotting:
         "Inner Product": /gradient-descent/inner-product
         "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
         "Apply Affine": /gradient-descent/apply-affine
         "MSE": /gradient-descent/mse
-        Submit: /submit/wk5/s1
-    5.2 Plotting:
         "Import modules [theorie]": /python/en/modules
         "Plot [theorie]": /python/en/plotting
         "Plot Functions": /plot/en/plot1
         "Plot Regression": /gradient-descent/scatter-plot
-        Submit: /submit/wk5/s2
+        Submit: /submit/wk5/s1
 
 Week 6 - Style & Data Exploration:
     6.1 Style, Read Data and Explore:
