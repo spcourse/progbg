@@ -40,10 +40,10 @@ For example, if the list is `[5, 2, 3, 4]`, the harmonic mean is calculated as 4
 
 Write a function **dot_product(v1, v2)** that calculates and returns the dot product of two numerical vectors (lists of equal length).
 
-The **dot product** of two vectors $$v_1 = (a_1, a_2, a_3, ..., a_n)$$ and $$v_2 = (b_1, b_2, b_3, ..., b_n)$$ is defined as:
+The **dot product** (*inproduct*) of two vectors $$\vec{a}$$ and $$\vec{b}$$, each with $$n$$ elements $$a_0, a_1, \dots, a_{n-1}$$ and $$b_0, b_1, \dots, b_{n-1}$$, is defined as:
 
 $$
-a_1b_1 + a_2b_2 + a_3b_3 + \dots + a_nb_n
+\vec{a} \cdot \vec{b} = a_0b_0 + a_1b_1 + a_2b_2 + \dots + a_{n-1}b_{n-1}
 $$
 
 In other words, you multiply the corresponding elements of the two lists and sum up all these products.

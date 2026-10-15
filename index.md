@@ -69,10 +69,8 @@ Je hebt geen programmeerervaring nodig. Je moet wel een eigen laptop meenemen.
      - Opdracht argumentatie (maandag): in welke weken? Nog niet in het rooster. -->
 
 <p class="legend">Hieronder staat het rooster per week. Je groep (1, 2 of 3) en de zalen
-van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[147797]">DataNose</a>.
-<span class="ais lec">AI en Samenleving</span> is blauw, <span class="prog lec">Programmeren</span>
-is groen. <span class="ais dl">Deadlines</span> en <span class="prog exam">toetsen</span>
-zijn donker gekleurd.</p>
+van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[147797]">DataNose</a>.<br>
+<span class="ais lec">AI</span> <span class="prog lec">Python</span></p>
 
 <table class="weeks">
   <colgroup><col class="wk"><col class="day"><col class="day"><col class="day"><col class="day"><col class="day"></colgroup>
@@ -82,35 +80,35 @@ zijn donker gekleurd.</p>
   <tbody>
     <tr>
       <th>Week 1<span>26 - 30 okt</span></th>
-      <td><span class="ais lec"><b>Wat is AI</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Basics</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 1</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 1</span></td>
+      <td><span class="ais lec"><small>11-13; G2.10</small>HC: Wat is AI?</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Python basics</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 1</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 1</span></td>
     </tr>
     <tr>
       <th>Week 2<span>2 - 6 nov</span></th>
-      <td><span class="ais lec"><b>Lineaire regressie</b><br>13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Loops</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 2</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 2</span></td>
+      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Lineaire regressie</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Loops</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 2</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 2</span></td>
     </tr>
     <tr>
       <th>Week 3<span>9 - 13 nov</span></th>
-      <td><span class="ais lec"><b>Classificatie en Gradient Descent</b><br>13-15, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Lists en functies</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 3</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="prog dl">23:59 Python deadline 3</span></td>
+      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Classificatie en Gradient Descent</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Lists en functies</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 3</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 3</span></td>
     </tr>
     <tr>
       <th>Week 4<span>16 - 20 nov</span></th>
-      <td><span class="ais lec"><b>Milieu en Blockchain</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Tekstverwerking</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 4</span></td><td><span class="ais exam">13-15 of 15-17, werkcollege<br><b>tussentoets argumentatie</b></span></td><td><span class="prog lab">13-17, practicum</span><span class="prog dl">23:59 Python deadline 4</span></td>
+      <td><span class="ais lec"><small>11-13; G2.10</small>HC: Milieu en Blockchain</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Tekstverwerking</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 4</span></td><td><span class="ais wc test"><small>13-15 of 15-17</small>Werkcollege: tussentoets argumentatie</span></td><td><span class="prog lab"><small>13-17</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 4</span></td>
     </tr>
     <tr>
       <th>Week 5<span>23 - 27 nov</span></th>
-      <td><span class="ais lec"><b>Neurale Netwerken</b><br>11-13, hoorcollege, SP G2.10</span></td><td><span class="prog lec"><b>Vectoren en plotten</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais dl">23:59 AI huiswerk 5</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="ais wc">9-13, werkcollege: <b>betoog schrijven</b></span><span class="prog dl">23:59 Python deadline 5</span></td>
+      <td><span class="ais lec"><small>11-13; G2.10</small>HC: Neurale Netwerken</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Vectoren en plotten</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 5</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="ais wc"><small>9-13</small>Werkcollege: betoog schrijven</span><span class="prog dl"><small>23:59</small>DL Python 5</span></td>
     </tr>
     <tr>
       <th>Week 6<span>30 nov - 4 dec</span></th>
-      <td></td><td><span class="prog lec"><b>Stijl en data verkennen</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span><span class="ais lec"><b>Transformers</b><br>15-17, hoorcollege, SP G0.10-G0.12</span></td><td><span class="ais dl">23:59 AI huiswerk 6</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 Python deadline 6</span></td><td><span class="prog hack">9-13, <b>hackathon</b></span></td>
+      <td></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Stijl en data verkennen</span><span class="prog lab"><small>11-15</small>Practicum</span><span class="ais lec"><small>15-17; G0.10-G0.12</small>HC: Transformers</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 6</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 6</span></td><td><span class="prog hack"><small>9-13</small>Hackathon</span></td>
     </tr>
     <tr>
       <th>Week 7<span>7 - 11 dec</span></th>
-      <td></td><td><span class="prog lec"><b>Gradient descent</b><br>9-11, hoorcollege, SP C0.110</span><span class="prog lab">11-15, practicum</span></td><td><span class="ais lec"><b>Turingtest</b><br>11-13, hoorcollege, SP G2.10</span><span class="ais dl">23:59 AI huiswerk 7</span></td><td><span class="ais wc">13-15 of 15-17, werkcollege</span></td><td><span class="prog lab">9-13, practicum</span><span class="ais wc">13-15 of 15-17, werkcollege</span><span class="prog dl">23:59 Python deadline 7</span></td>
+      <td></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Gradient descent</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais lec"><small>11-13; G2.10</small>HC: Turingtest</span><span class="ais dl"><small>23:59</small>DL AI huiswerk 7</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 7</span></td>
     </tr>
     <tr>
       <th>Week 8<span>14 - 18 dec</span></th>
-      <td><span class="prog exam">15-18, <b>tentamen Programmeren</b>, REC A3.06-A3.08</span></td><td></td><td><span class="ais exam">13-15, <b>tentamen AI en Samenleving</b>, SP C1.110</span></td><td></td><td></td>
+      <td><span class="prog lab test"><small>15-18; REC A3.06-A3.08</small>Tentamen Python</span></td><td></td><td><span class="ais wc test"><small>13-15; C1.110</small>Tentamen AI en Samenleving</span></td><td></td><td></td>
     </tr>
   </tbody>
 </table>
@@ -133,23 +131,27 @@ zijn donker gekleurd.</p>
 
 .weeks td > span, .legend span {
   padding: 0.3em 0.5em; border-radius: 4px; line-height: 1.3;
+  border: 2px solid transparent;
 }
 .weeks td > span { display: block; margin-bottom: 0.25em; }
+.weeks td > span small { display: block; font-size: 0.8em; opacity: 0.8; }
 .legend span { display: inline-block; padding: 0.05em 0.4em; }
 
-/* AI en Samenleving: blauw */
+/* AI: blauw */
 .ais.lec  { background: #dce8f5; color: #1f3d5c; }
 .ais.wc   { background: #b6d0ea; color: #173450; }
 .ais.dl   { background: #3d7ab8; color: #ffffff; font-weight: bold; }
-.ais.exam { background: #1f4e79; color: #ffffff; }
 
-/* Programmeren: groen */
+/* Python: groen */
 .prog.lec  { background: #e1eedb; color: #2a4a22; }
 .prog.lab  { background: #c2dbb4; color: #23401b; }
 .prog.hack { background: #8fc27a; color: #1a3412; font-weight: bold; }
 .prog.dl   { background: #4a8c3a; color: #ffffff; font-weight: bold; }
-.prog.exam { background: #2a5c22; color: #ffffff; }
+
+/* toetsen: rode rand */
+.weeks .test { border-color: #b4453c; font-weight: bold; }
 </style>
+
 
 ### Werkvormen {#werkvormen}
 
