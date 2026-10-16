@@ -7,7 +7,7 @@ Welkom:
         Practice using Command Line: /python/en/installing/cmd-mac
         Install Python: /python/en/installing/uv-mac
 
-Week 1 - Basics:
+Week 1:
     Werkcolleges:
     Overzicht: /ais/ai_technologie
     "Huiswerk (deadline: wo 28 okt)":
@@ -41,7 +41,7 @@ Week 1 - Basics:
         "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
         Submit Pyramid: /submit/wk1/c-pyramid
 
-Week 2 - Loops:
+Week 2:
     Werkcolleges:
     Overzicht: /ais/ai_privacy
     "Huiswerk (deadline: wo 4 nov)":
@@ -65,7 +65,7 @@ Week 2 - Loops:
         1001 Primes: /numbers/en/n-primes
         Submit: /submit/wk2/s2
 
-Week 3 - Lists & Functions:
+Week 3:
     Werkcolleges:
     Overzicht: /ais/ai_rechtvaardigheid
     "Huiswerk (deadline: wo 11 nov)":
@@ -96,7 +96,7 @@ Week 3 - Lists & Functions:
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
         Submit Goldbach: /submit/wk3/c-goldbach
 
-Week 4 - Text Processing:
+Week 4:
     Werkcolleges:
     Overzicht: /ais/ai_milieu
     "Huiswerk (deadline: wo 18 nov)":
@@ -126,7 +126,7 @@ Week 4 - Text Processing:
         "[icon:person-fill-gear] Twitter": /text/en/tweets
         Submit Twitter: /submit/wk4/c-twitter
 
-Week 5 - Vectors & Plotting:
+Week 5:
     Werkcolleges:
     Overzicht: /ais/ai_vertrouwen
     "Huiswerk (deadline: wo 25 nov)":
@@ -150,7 +150,7 @@ Week 5 - Vectors & Plotting:
         "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
         Submit Plot Min Max: /submit/wk5/c-plot-min-max
 
-Week 6 - Style & Data Exploration:
+Week 6:
     Werkcolleges:
     Overzicht: /ais/ai_cognitie
     "Huiswerk (deadline: wo 2 dec)":
@@ -167,7 +167,7 @@ Week 6 - Style & Data Exploration:
     "6.2 HACKATHON: Build your own chatbot":
         "Setup": /gradient-descent/llm
 
-Week 7 - Gradient Descent:
+Week 7:
     Werkcolleges:
     Overzicht: /ais/ai_intelligentie
     "Huiswerk (deadline: wo 9 dec)":
