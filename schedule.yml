@@ -28,6 +28,11 @@ Week 1 - Basics:
         Sum: /shorts/sum
         Leap Years: /shorts/leap_years
         Submit: /submit/wk1/s4
+    1.5 Challenge:
+        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+        "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
+        Submit Pyramid: /submit/wk1/c-pyramid
 
 Week 2 - Loops:
     2.1 For Loops 2:
@@ -64,6 +69,11 @@ Week 3 - Lists & Functions:
         "Average and variance as a function": /shorts/average_variance_fn
         "Weighted Average": /shorts/weighted_average_fn
         Submit: /submit/wk3/s2
+    3.3 Challenge:
+        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+        "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
+        Submit Goldbach: /submit/wk3/c-goldbach
 
 Week 4 - Text Processing:
     4.1 Strings:
@@ -81,6 +91,12 @@ Week 4 - Text Processing:
         Alice: /shorts/alice
         Sentiment: /text/en/sentiment
         Submit: /submit/wk4/s2
+    4.3 Challenge:
+        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+        "Plot [theorie]": /python/en/plotting
+        "[icon:person-fill-gear] Twitter": /text/en/tweets
+        Submit Twitter: /submit/wk4/c-twitter
 
 Week 5 - Vectors & Plotting:
     5.1 Vector Operations & Plotting:
@@ -93,6 +109,11 @@ Week 5 - Vectors & Plotting:
         "Plot Functions": /plot/en/plot1
         "Plot Regression": /gradient-descent/scatter-plot
         Submit: /submit/wk5/s1
+    5.2 Challenge:
+        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+        "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
+        Submit Plot Min Max: /submit/wk5/c-plot-min-max
 
 Week 6 - Style & Data Exploration:
     6.1 Style, Read Data and Explore:
@@ -110,3 +131,8 @@ Week 7 - Gradient Descent:
         "Gradient Descent": /gradient-descent/gradient-descent
         "Visualise Learning": /gradient-descent/visualise-learning
         Submit: /submit/wk7/s2
+    7.2 Challenge:
+        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+        "[icon:person-fill-gear] Conway's Game of Life": /algorithms/en/conway
+        Submit Conway: /submit/wk7/c-conway

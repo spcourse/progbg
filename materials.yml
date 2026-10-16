@@ -25,3 +25,6 @@ shakespeare:
 python:
     remote: https://github.com/spcourse/sp1-python.git
     branch: main
+algorithms:
+    remote: https://github.com/spcourse/algorithms.git
+    branch: main
