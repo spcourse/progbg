@@ -42,6 +42,13 @@ Week 1 - Basics:
         Submit Pyramid: /submit/wk1/c-pyramid
 
 Week 2 - Loops:
+    Werkcolleges:
+    Overzicht: /ais/ai_privacy
+    "Huiswerk (deadline: wo 4 nov)":
+        Marijn Sax: /ais/marijn_sax
+        Argumenteren: /ais/week2_identificeren_argumenteren
+    "_______________________":
+    Laptopcolleges:
     2.1 For Loops 2:
         Count Leap Years: /shorts/count_leap_years
         Check Prime: /numbers/en/check-prime
@@ -59,6 +66,13 @@ Week 2 - Loops:
         Submit: /submit/wk2/s2
 
 Week 3 - Lists & Functions:
+    Werkcolleges:
+    Overzicht: /ais/ai_rechtvaardigheid
+    "Huiswerk (deadline: wo 11 nov)":
+        "[TODO] Tekst":
+        Argumenteren: /ais/week3_aannames_argumenteren
+    "_______________________":
+    Laptopcolleges:
     3.1 Lists:
         "Debugging [theorie]": /python/en/debugging-basics
         "Code in Style [theorie]": /python/en/style
@@ -83,6 +97,13 @@ Week 3 - Lists & Functions:
         Submit Goldbach: /submit/wk3/c-goldbach
 
 Week 4 - Text Processing:
+    Werkcolleges:
+    Overzicht: /ais/ai_milieu
+    "Huiswerk (deadline: wo 18 nov)":
+        "[TODO] Tekst":
+        Argumenteren: /ais/week4_voorbereiding_argumenteren
+    "_______________________":
+    Laptopcolleges:
     4.1 Strings:
         "Strings [theorie]": /python/en/strings
         Vowels: /shorts/vowels
@@ -106,6 +127,13 @@ Week 4 - Text Processing:
         Submit Twitter: /submit/wk4/c-twitter
 
 Week 5 - Vectors & Plotting:
+    Werkcolleges:
+    Overzicht: /ais/ai_vertrouwen
+    "Huiswerk (deadline: wo 25 nov)":
+        "[TODO] Tekst":
+        Argumenteren: /ais/week5_betoog_argumenteren
+    "_______________________":
+    Laptopcolleges:
     5.1 Vector Operations & Plotting:
         "Inner Product": /gradient-descent/inner-product
         "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
@@ -123,6 +151,13 @@ Week 5 - Vectors & Plotting:
         Submit Plot Min Max: /submit/wk5/c-plot-min-max
 
 Week 6 - Style & Data Exploration:
+    Werkcolleges:
+    Overzicht: /ais/ai_cognitie
+    "Huiswerk (deadline: wo 2 dec)":
+        "[TODO] Tekst":
+        Argumenteren: /ais/week6_schrijven_argumenteren
+    "_______________________":
+    Laptopcolleges:
     6.1 Style, Read Data and Explore:
         Style: /m2-style
         "Read Data": /gradient-descent/read-data
@@ -133,6 +168,13 @@ Week 6 - Style & Data Exploration:
         "Setup": /gradient-descent/llm
 
 Week 7 - Gradient Descent:
+    Werkcolleges:
+    Overzicht: /ais/ai_intelligentie
+    "Huiswerk (deadline: wo 9 dec)":
+        Kurzweil: /ais/kurzweil_kapor
+        Argumenteren: /ais/week7_feedback_argumenteren
+    "_______________________":
+    Laptopcolleges:
     7.1 Gradient Descent:
         "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
         "Gradient Descent": /gradient-descent/gradient-descent
