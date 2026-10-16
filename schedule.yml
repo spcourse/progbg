@@ -23,12 +23,14 @@ Week 1 - Basics:
         First or Last Year: /shorts/first_or_last_year
         Leap Year: /shorts/leap_year
         Submit: /submit/wk1/s3
-
-Week 2 - Loops:
-    2.1 For Loops:
+    1.4 For Loops 1:
         "For Loops [theorie]": /python/en/loops/for
         Sum: /shorts/sum
         Leap Years: /shorts/leap_years
+        Submit: /submit/wk1/s4
+
+Week 2 - Loops:
+    2.1 For Loops 2:
         Count Leap Years: /shorts/count_leap_years
         Check Prime: /numbers/en/check-prime
         "From Σ to for [theorie]": /python/en/sigma-to-for
@@ -67,6 +69,8 @@ Week 4 - Text Processing:
     4.1 Strings:
         "Strings [theorie]": /python/en/strings
         Vowels: /shorts/vowels
+        "String methods [theorie]": /python/en/string-methods
+        Tokenizer: /shorts/tokenizer
         Vowel Words: /shorts/vowel_words
         Text Statistics: /text/en/statistics
         Snake Case: /shorts/snake_case
