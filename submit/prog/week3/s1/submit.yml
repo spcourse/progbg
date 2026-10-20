@@ -1,0 +1,11 @@
+name: prog_3_1
+files:
+    required:
+        - positive_list.py
+        - sum_list.py
+        - average.py
+        - variance.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: positive_list sum_list average variance

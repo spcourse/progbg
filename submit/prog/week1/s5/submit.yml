@@ -1,0 +1,8 @@
+name: prog_1_5
+files:
+    required:
+        - pyramid.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: pyramid

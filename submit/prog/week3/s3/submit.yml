@@ -1,0 +1,8 @@
+name: prog_3_3
+files:
+    required:
+        - goldbach.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: goldbach

@@ -1,0 +1,9 @@
+name: prog_6_1
+files:
+    required:
+        - read_data.py
+        - exploration.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: read_data exploration

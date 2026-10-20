@@ -1,0 +1,12 @@
+name: prog_4_1
+files:
+    required:
+        - vowels.py
+        - tokenizer.py
+        - vowel_words.py
+        - text_statistics.py
+        - snake_case.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: vowels tokenizer vowel_words text_statistics snake_case

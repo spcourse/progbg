@@ -1,0 +1,10 @@
+name: prog_3_2
+files:
+    required:
+        - squared.py
+        - average_variance_fn.py
+        - weighted_average.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: squared average_variance_fn weighted_average

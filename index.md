@@ -25,12 +25,12 @@
 
 
 **Contact**
-[pais@proglab.nl](mailto:pais@proglab.nl)
+[progbg@proglab.nl](mailto:progbg@proglab.nl)
 <!-- TODO: mailbox bestaat pas na de overstap van Help Scout; anders tijdelijk het centrale adres. -->
 
 Heb je een uitzondering op de regels van het vak nodig, bijvoorbeeld door ziekte? Die
 kun je alleen bij de **docenten** krijgen, niet bij de assistenten. Mail dan naar
-pais@proglab.nl en leg kort uit wat er aan de hand is. Dreig je meer dan een paar
+progbg@proglab.nl en leg kort uit wat er aan de hand is. Dreig je meer dan een paar
 dagen achter te raken? Neem dan zo snel mogelijk contact op.
 
 **Rooster**
@@ -197,7 +197,7 @@ De deadlines staan ook in het [rooster](#rooster).
 
 Voor het tentamen is er een gezamenlijk **vragenuurtje**, en na het tentamen een
 gezamenlijk **inzagemoment**. Voor beide schrijf je je vooraf in, voor een deadline die
-we nog bekendmaken. Vragen voor het vragenuurtje stuur je van tevoren naar pais@proglab.nl.
+we nog bekendmaken. Vragen voor het vragenuurtje stuur je van tevoren naar progbg@proglab.nl.
 
 ### Te laat inleveren {#te-laat}
 

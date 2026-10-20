@@ -1,0 +1,9 @@
+name: prog_4_2
+files:
+    required:
+        - alice.py
+        - sentiment.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: alice sentiment

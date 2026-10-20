@@ -1,0 +1,9 @@
+name: prog_1_4
+files:
+    required:
+        - sum.py
+        - leap_years.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: sum leap_years

@@ -1,0 +1,8 @@
+name: prog_7_1
+files:
+    required:
+        - gradient_descent.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: gradient_descent

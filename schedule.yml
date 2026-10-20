@@ -13,34 +13,35 @@ Week 1:
     "Huiswerk (deadline: wo 28 okt)":
         Neil Postman: /ais/neil_postman
         Argumenteren: /ais/week1_opzetten_argumenteren
+        Submit: /submit/ai/week1
     "_______________________":
     Python opdrachten:
     "(deadline: vr 30 okt)":
     Python 1.1 Output:
         Hello world: /shorts/hello
-        Submit: /submit/wk1/s1
+        Submit: /submit/prog/week1/s1
     Python 1.2 Input & Arithmetic:
         "Basics [theorie]": /python/en/basics
         Number Whiz: /numbers/en/whiz
         Divide: /shorts/oranges
-        Submit: /submit/wk1/s2
+        Submit: /submit/prog/week1/s2
     1.3 Conditionals:
         "Algoritmes [theorie]": /python/en/algorithms
         Less Than: /shorts/less_than
         First Year: /shorts/first_year
         First or Last Year: /shorts/first_or_last_year
         Leap Year: /shorts/leap_year
-        Submit: /submit/wk1/s3
+        Submit: /submit/prog/week1/s3
     1.4 For Loops 1:
         "For Loops [theorie]": /python/en/loops/for
         Sum: /shorts/sum
         Leap Years: /shorts/leap_years
-        Submit: /submit/wk1/s4
+        Submit: /submit/prog/week1/s4
     1.5 Challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
-        Submit Pyramid: /submit/wk1/c-pyramid
+        Submit Pyramid: /submit/prog/week1/s5
 
 Week 2:
     Werkcolleges:
@@ -48,6 +49,7 @@ Week 2:
     "Huiswerk (deadline: wo 4 nov)":
         Marijn Sax: /ais/marijn_sax
         Argumenteren: /ais/week2_identificeren_argumenteren
+        Submit: /submit/ai/week2
     "_______________________":
     Laptopcolleges:
     2.1 For Loops 2:
@@ -55,7 +57,7 @@ Week 2:
         Check Prime: /numbers/en/check-prime
         "From Σ to for [theorie]": /python/en/sigma-to-for
         "Geometric Series": /shorts/geometric_series
-        Submit: /submit/wk2/s1
+        Submit: /submit/prog/week2/s1
     2.2 While Loops:
         "While Loops [theorie]": /python/en/loops/while
         "Voorbeelden van Loops [theorie]": /python/en/loops/practical-uses
@@ -64,7 +66,7 @@ Week 2:
         Sum Until: /shorts/sum_until
         Birthday: /numbers/en/birthday
         1001 Primes: /numbers/en/n-primes
-        Submit: /submit/wk2/s2
+        Submit: /submit/prog/week2/s2
 
 Week 3:
     Werkcolleges:
@@ -72,6 +74,7 @@ Week 3:
     "Huiswerk (deadline: wo 11 nov)":
         "[TODO] Tekst":
         Argumenteren: /ais/week3_aannames_argumenteren
+        Submit: /submit/ai/week3
     "_______________________":
     Laptopcolleges:
     3.1 Lists:
@@ -83,19 +86,19 @@ Week 3:
         "Σ over a list [theorie]": /python/en/sigma-over-list
         "Average": /shorts/average
         "Variance": /shorts/variance
-        Submit: /submit/wk3/s1
+        Submit: /submit/prog/week3/s1
     3.2 Functions:
         "Functions [theorie]": /python/en/functions
         Squared: /shorts/squared
         "Sum List as a function [theorie]": /python/en/sum-list-to-function
         "Average and variance as a function": /shorts/average_variance_fn
         "Weighted Average": /shorts/weighted_average_fn
-        Submit: /submit/wk3/s2
+        Submit: /submit/prog/week3/s2
     3.3 Challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
-        Submit Goldbach: /submit/wk3/c-goldbach
+        Submit Goldbach: /submit/prog/week3/s3
 
 Week 4:
     Werkcolleges:
@@ -103,6 +106,7 @@ Week 4:
     "Huiswerk (deadline: wo 18 nov)":
         "[TODO] Tekst":
         Argumenteren: /ais/week4_voorbereiding_argumenteren
+        Submit: /submit/ai/week4
     "_______________________":
     Laptopcolleges:
     4.1 Strings:
@@ -113,19 +117,19 @@ Week 4:
         Vowel Words: /shorts/vowel_words
         Text Statistics: /text/en/statistics
         Snake Case: /shorts/snake_case
-        Submit: /submit/wk4/s1
+        Submit: /submit/prog/week4/s1
     4.2 Files:
         "Read Files [theorie]": /python/en/file-io
         Practice to read files: /python/en/files
         Alice: /shorts/alice
         Sentiment: /text/en/sentiment
-        Submit: /submit/wk4/s2
+        Submit: /submit/prog/week4/s2
     4.3 Challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "Plot [theorie]": /python/en/plotting
         "[icon:person-fill-gear] Twitter": /text/en/tweets
-        Submit Twitter: /submit/wk4/c-twitter
+        Submit Twitter: /submit/prog/week4/s3
 
 Week 5:
     Werkcolleges:
@@ -133,6 +137,7 @@ Week 5:
     "Huiswerk (deadline: wo 25 nov)":
         "[TODO] Tekst":
         Argumenteren: /ais/week5_betoog_argumenteren
+        Submit: /submit/ai/week5
     "_______________________":
     Laptopcolleges:
     5.1 Vector Operations & Plotting:
@@ -144,12 +149,12 @@ Week 5:
         "Plot [theorie]": /python/en/plotting
         "Plot Functions": /plot/en/plot1
         "Plot Regression": /gradient-descent/scatter-plot
-        Submit: /submit/wk5/s1
+        Submit: /submit/prog/week5/s1
     5.2 Challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
-        Submit Plot Min Max: /submit/wk5/c-plot-min-max
+        Submit Plot Min Max: /submit/prog/week5/s2
 
 Week 6:
     Werkcolleges:
@@ -157,6 +162,7 @@ Week 6:
     "Huiswerk (deadline: wo 2 dec)":
         "[TODO] Tekst":
         Argumenteren: /ais/week6_schrijven_argumenteren
+        Submit: /submit/ai/week6
     "_______________________":
     Laptopcolleges:
     6.1 Style, Read Data and Explore:
@@ -164,7 +170,7 @@ Week 6:
         "Read Data": /gradient-descent/read-data
         "Scatter Plot": /gradient-descent/scatter-data
         "Manual Fitting": /gradient-descent/manual-fitting
-        Submit: /submit/wk6/s1
+        Submit: /submit/prog/week6/s1
     "6.2 HACKATHON: Build your own chatbot":
         "Setup": /gradient-descent/llm
 
@@ -174,15 +180,16 @@ Week 7:
     "Huiswerk (deadline: wo 9 dec)":
         Kurzweil: /ais/kurzweil_kapor
         Argumenteren: /ais/week7_feedback_argumenteren
+        Submit: /submit/ai/week7
     "_______________________":
     Laptopcolleges:
     7.1 Gradient Descent:
         "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
         "Gradient Descent": /gradient-descent/gradient-descent
         "Visualise Learning": /gradient-descent/visualise-learning
-        Submit: /submit/wk7/s2
+        Submit: /submit/prog/week7/s1
     7.2 Challenge:
         "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Elke challenge moet in persoon besproken worden voor een cijfer!":
         "[icon:person-fill-gear] Conway's Game of Life": /algorithms/en/conway
-        Submit Conway: /submit/wk7/c-conway
+        Submit Conway: /submit/prog/week7/s2

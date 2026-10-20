@@ -1,0 +1,4 @@
+name: prog_7_2
+files:
+    required:
+        - conway.py

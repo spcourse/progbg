@@ -1,0 +1,9 @@
+name: prog_1_2
+files:
+    required:
+        - whiz.py
+        - oranges.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: whiz oranges

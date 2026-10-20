@@ -1,0 +1,10 @@
+name: prog_2_1
+files:
+    required:
+        - count_leap_years.py
+        - check-prime.py
+        - geometric_series.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: count_leap_years check-prime geometric_series

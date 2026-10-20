@@ -1,0 +1,13 @@
+name: prog_5_1
+files:
+    required:
+        - inner_product.py
+        - vec_operations.py
+        - apply_affine.py
+        - mse.py
+        - plot1.py
+        - plot_regression.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: inner_product vec_operations apply_affine mse plot1 plot_regression

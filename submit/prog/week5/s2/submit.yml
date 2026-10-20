@@ -1,0 +1,4 @@
+name: prog_5_2
+files:
+    required:
+        - plot_mm.py
