@@ -157,7 +157,7 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
 
 - **Hoorcolleges** (ma of wo, en di). De colleges worden
   **niet opgenomen**.
-- **Werkcolleges AI en Samenleving** (do). Hier bespreek je het huiswerk en oefen je met
+- **Werkcolleges** (do). Hier bespreken we de literatuur, het huiswerk en oefen je met
   argumenteren. De tussentoets argumentatie is in het werkcollege van week 4.
 - **Computerpractica** (di en vr). Hier werk je aan de programmeeropdrachten en kun je
   vragen stellen aan de assistenten. In de oneven weken bespreek je hier je code (zie
@@ -174,22 +174,20 @@ eindcijfer komt wel in Canvas te staan.
 
 ### Aanwezigheid {#aanwezigheid}
 
-De hoorcolleges zijn niet verplicht. Aanwezigheid bij de **werkcolleges** en de
-**computerpractica** is wel verplicht. Je mag van elk TODO keer missen.
+Aanwezigheid bij de bijeenkomsten wordt verwacht. Bij de hoorcolleges wordt je aanwezigheid niet bijgehouden, bij de werkcolleges en computerpractica wel. In het geval van ziekte of andere persoonlijke omstandigheden mag je maximaal één werkcollege en twee computerpractica missen. Informeer je werkgroepdocent als je niet aanwezig bent bij een werkcollege en mail naar progbg@proglab.nl als je een computerpracticum dreigt te missen.
 
 - **Werkcolleges.** Hier ontwikkel je je vaardigheid in evalueren en argumenteren, en
   vorm je een eigen kritische houding ten opzichte van AI.
 - **Computerpractica.** Hier bespreek je je code in persoon en werk je samen met studenten die op dat moment even ver zijn.
 
-Mis je om een bepaalde reden steeds bijeenkomsten? Neem dan contact op met de
-studieadviseur.
+Mis je teveel bijeenkomsten of verwacht je om een bepaalde reden steeds bijeenkomsten te missen? Neem dan contact op met de studieadviseur.
 
 ## Deadlines {#deadlines}
 
 Alle deadlines zijn om **23:59**, tenzij anders vermeld.
 
-- **Huiswerk werkcollege AI en Samenleving:** woensdag
-- **Opdracht argumentatie:** maandag
+- **Opdracht argumenteren:** maandag
+- **Huiswerk werkcollege:** woensdag
 - **Programmeren:** vrijdag (in week 6 donderdag, vanwege de hackathon)
 
 De deadlines staan ook in het [rooster](#rooster).
@@ -204,8 +202,9 @@ we nog bekendmaken. Vragen voor het vragenuurtje stuur je van tevoren naar progb
 <!-- TODO: beleid bepalen. Vorig jaar (index.md): strikt, max. 4 onderdelen te laat zonder
      gevolgen; DataNose: geen herkansing voor opdrachten, ook niet bij overmacht.
      course.yml staat op `deadlines: soft`. -->
+Opdrachten werkcolleges & argumenteren: De deadlines zijn er niets voor niets, het heeft weinig zin om onvoorbereid naar het werkcollege te komen. Mocht je onverhoopt een deadline niet halen? Lever dan de opdracht zo snel mogelijk in wanneer dat lukt.
 
-Programmeren leer je door veel te oefenen, en een achterstand is lastig in te halen.
+Opdrachten computerpractica: Programmeren leer je door veel te oefenen, en een achterstand is lastig in te halen.
 Blijf dus bij. Deadlines zijn in principe strict. Er kan alleen wel eens wat gebeuren, dus er is een beetje flexibiliteit: je mag maximaal 3 programmeeropdrachten maximaal 3 dagen later inleveren.
 
 Er zijn geen herkansingen voor de opdrachten, ook niet bij overmacht. **Lever dus altijd
@@ -273,7 +272,10 @@ iedereen.
 
 Je voortgang kun je volgen op deze site.
 
-### TODO: beoordeling AI en Samenleving opdrachten?
+### Opdrachten werkcolleges & argumenteren
+
+Voor de hoor- en werkcolleges lees je de literatuur en oefen je met argumenteren en het innemen van een positie. Meestal lever je hiervoor opdrachten in (zie de deadlines in het Rooster), welke het startpunt zijn voor de werkvormen in de colleges. Je werkgroepdocent neemt de ingeleverde opdrachten door en beoordeelt of je ze naar behoren hebt gemaakt: voldaan of niet voldaan. Op enkele argumentatieopdrachten krijg je schriftelijke feedback. Je levert al deze opdrachten op deze site in en de feedback en voortgang zijn ook voor deze onderdelen te volgen via de site.
+
 
 ### Hackathon {#hackathon}
 
@@ -322,10 +324,11 @@ getoetst.
 
 ## Materiaal {#materiaal}
 
-Alle teksten, slides en opdrachten staan op deze site. Je hoeft niets te kopen. Wel
-moet je een **eigen laptop** meenemen naar de practica en het hackathon.
+Alle teksten, slides en opdrachten staan op deze site en de software die we gebruiken
+is open source. Je hoeft dus niets te kopen. Wel moet je een **eigen laptop** meenemen naar
+de lessen (zowel de computerpractica als werkcolleges). Bij de hoor- en werkcolleges
+wordt het aangeraden om schriftelijk aantekeningen te maken.
 
-**TODO: literatuur AI en Samenleving?**
 
 ## Eigen werk, fraude en plagiaat {#plagiaat}
 
