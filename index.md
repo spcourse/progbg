@@ -19,7 +19,7 @@
   <tr><td><br>Reinder</td><td>TODO: bio.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/katrin.jpg" style="max-width:90px" width = "150"><br>Katrin</td><td>Katrin studeerde Wiskunde en Computationele Taalkunde in Berlijn en Stuttgart en deed daarna de Master of Logic aan de Universiteit van Amsterdam. Zij is hier ook gepromoveerd en werkt nu als Universitair Hoofddocent bij het ILLC. Katrin doet onderzoek op het raakvlak van cognitie, KI en taal, bijvoorbeeld over het ontstaan van stereotypen en biases bij mensen en in taalmodellen.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/arja.jpg" style="max-width:90px" width = "150"><br>Arja</td><td>Arja studeerde Bèta-Gamma en deed daarna de master Computational Science aan de Universiteit van Amsterdam. Ze schreef haar proefschrift bij het AmsterdamUMC over de comorbiditeit van depressie en cardiometabole ziektes, waar ze gebruikmaakte van netwerkanalyses en machine learning algoritmes. Ze is nu docent bètavakken bij het IIS.</td></tr>
-  <tr><td><br>Daniel</td><td>TODO: bio.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/daniel.jpg" style="max-width:90px" width = "150"><br>Daniel</td><td>Daniël is docent bij het IIS en geeft les bij Bèta-Gamma en Future Planet Studies. Gefascineerd door de natuurlijke én de digitale wereld studeerde hij zowel Aardwetenschappen als Data Science. In zijn onderzoek komen deze twee werelden samen en gebruikt hij machine learning algoritmes om de natuur beter te kunnen monitoren en beschermen tegen de toenemende druk van menselijke activiteiten en klimaatverandering.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td>Simon studeerde informatica en daarna de Master of Logic aan de Universiteit van Amsterdam. Hij deed onderzoek naar computationele taalkunde en robotica bij Sony, Aldebaran (nu Softbank), de Universitat Autònoma de Barcelona en de UvA. Nu is hij docent aan de UvA en geeft hij programmeeronderwijs in verschillende opleidingen.</td></tr>
 </table>
 
@@ -274,7 +274,7 @@ Je voortgang kun je volgen op deze site.
 
 ### Opdrachten werkcolleges & argumenteren
 
-Voor de hoor- en werkcolleges lees je de literatuur en oefen je met argumenteren en het innemen van een positie. Meestal lever je hiervoor opdrachten in (zie de deadlines in het Rooster), welke het startpunt zijn voor de werkvormen in de colleges. Je werkgroepdocent neemt de ingeleverde opdrachten door en beoordeelt of je ze naar behoren hebt gemaakt: voldaan of niet voldaan. Op enkele argumentatieopdrachten krijg je schriftelijke feedback. Je levert al deze opdrachten op deze site in en de feedback en voortgang zijn ook voor deze onderdelen te volgen via de site.
+Voor de hoor- en werkcolleges lees je de literatuur en oefen je met argumenteren en het innemen van een positie. Meestal lever je hiervoor opdrachten in (zie de deadlines in het [rooster](#rooster)), welke het startpunt zijn voor de werkvormen in de colleges. Je werkgroepdocent neemt de ingeleverde opdrachten door en beoordeelt of je ze naar behoren hebt gemaakt: voldaan of niet voldaan. Op enkele argumentatieopdrachten krijg je schriftelijke feedback. Je levert al deze opdrachten op deze site in en de feedback en voortgang zijn ook voor deze onderdelen te volgen via de site.
 
 
 ### Hackathon {#hackathon}
