@@ -6,20 +6,20 @@
 
 ## Team en contact {#team}
 
-**Docenten**
+**Team**
 
 <style>
 .team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
 </style>
 
 <table class="team">
-  <tr><td><br>Katrin</td><td>TODO: bio.</td></tr>
-  <tr><td><br>Daniel</td><td>TODO: bio.</td></tr>
-  <tr><td><br>Arja</td><td>TODO: bio.</td></tr>
   <tr><td><br>Chi Shing</td><td>TODO: bio.</td></tr>
-  <tr><td><br>Lara</td><td>TODO: bio.</td></tr>
-  <tr><td><br>Roos</td><td>TODO: bio.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/lara.jpg" style="max-width:90px" width = "150"><br>Lara</td><td>Lara is derdejaars student Kunstmatige Intelligentie en Onderwijskunde aan de Universiteit van Amsterdam. Ze vindt vooral de combinatie van technologie en onderwijs interessant, en onderzoekt graag hoe die elkaar kunnen aanvullen. Naast haar studie speelt ze graag piano, danst ze en spreekt ze af met vrienden.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/roos.jpg" style="max-width:90px" width = "150"><br>Roos</td><td>Roos is tweedejaars bèta-gammastudent met de major kunstmatige intelligentie. Ze komt uit Bussum, ging in Amsterdam naar de middelbare school en woont nu in Amsterdam-Oost. In haar vrije tijd kookt en zwemt ze graag, en ze is actief bij Spectrum.</td></tr>
   <tr><td><br>Reinder</td><td>TODO: bio.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/katrin.jpg" style="max-width:90px" width = "150"><br>Katrin</td><td>Katrin studeerde Wiskunde en Computationele Taalkunde in Berlijn en Stuttgart en deed daarna de Master of Logic aan de Universiteit van Amsterdam. Zij is hier ook gepromoveerd en werkt nu als Universitair Hoofddocent bij het ILLC. Katrin doet onderzoek op het raakvlak van cognitie, KI en taal, bijvoorbeeld over het ontstaan van stereotypen en biases bij mensen en in taalmodellen.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/arja.jpg" style="max-width:90px" width = "150"><br>Arja</td><td>Arja studeerde Bèta-Gamma en deed daarna de master Computational Science aan de Universiteit van Amsterdam. Ze schreef haar proefschrift bij het AmsterdamUMC over de comorbiditeit van depressie en cardiometabole ziektes, waar ze gebruikmaakte van netwerkanalyses en machine learning algoritmes. Ze is nu docent bètavakken bij het IIS.</td></tr>
+  <tr><td><br>Daniel</td><td>TODO: bio.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td>Simon studeerde informatica en daarna de Master of Logic aan de Universiteit van Amsterdam. Hij deed onderzoek naar computationele taalkunde en robotica bij Sony, Aldebaran (nu Softbank), de Universitat Autònoma de Barcelona en de UvA. Nu is hij docent aan de UvA en geeft hij programmeeronderwijs in verschillende opleidingen.</td></tr>
 </table>
 
