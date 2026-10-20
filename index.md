@@ -84,7 +84,7 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
     </tr>
     <tr>
       <th>Week 2<span>2 - 6 nov</span></th>
-      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Lineaire regressie</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Loops</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 2</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 2</span></td>
+      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Lineaire regressie</span><span class="ais dl"><small>23:59</small>DL Argumenteren 1</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Loops</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 2</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 2</span></td>
     </tr>
     <tr>
       <th>Week 3<span>9 - 13 nov</span></th>
@@ -238,7 +238,7 @@ Je krijgt een eindcijfer als je:
 
 Heb je een opdracht niet zichtbaar geprobeerd, of was je niet bij een tentamen, dan
 krijg je een NAP (niet aanwezig). Heb je een tentamen niet gehaald, dan krijg je een
-NAV (niet voldaan). 
+NAV (niet voldaan).
 
 ### Programmeeropdrachten {#opdrachten}
 
