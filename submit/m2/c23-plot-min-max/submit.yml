@@ -1,4 +1,0 @@
-name: c23-plot-min-max
-files:
-    required:
-        - plot_mm.py
