@@ -88,7 +88,7 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
     </tr>
     <tr>
       <th>Week 3<span>9 - 13 nov</span></th>
-      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Classificatie en Gradient Descent</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Lists en functies</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 3</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 3</span></td>
+      <td><span class="ais lec"><small>13-15; G2.10</small>HC: Classificatie en Gradient Descent</span><span class="ais dl"><small>23:59</small>DL Argumenteren 2</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Lists en functies</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 3</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="prog dl"><small>23:59</small>DL Python 3</span></td>
     </tr>
     <tr>
       <th>Week 4<span>16 - 20 nov</span></th>
@@ -100,11 +100,11 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
     </tr>
     <tr>
       <th>Week 6<span>30 nov - 4 dec</span></th>
-      <td></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Stijl en data verkennen</span><span class="prog lab"><small>11-15</small>Practicum</span><span class="ais lec"><small>15-17; G0.10-G0.12</small>HC: Transformers</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 6</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 6</span></td><td><span class="prog hack"><small>9-13</small>Hackathon</span></td>
+      <td><span class="ais dl"><small>23:59</small>DL Argumenteren 5</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Stijl en data verkennen</span><span class="prog lab"><small>11-15</small>Practicum</span><span class="ais lec"><small>15-17; G0.10-G0.12</small>HC: Transformers</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 6</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 6</span></td><td><span class="prog hack"><small>9-13</small>Hackathon</span></td>
     </tr>
     <tr>
       <th>Week 7<span>7 - 11 dec</span></th>
-      <td></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Gradient descent</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais lec"><small>11-13; G2.10</small>HC: Turingtest</span><span class="ais dl"><small>23:59</small>DL AI huiswerk 7</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 7</span></td>
+      <td><span class="ais dl"><small>23:59</small>DL Argumenteren 6</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Gradient descent</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais lec"><small>11-13; G2.10</small>HC: Turingtest</span><span class="ais dl"><small>23:59</small>DL AI huiswerk 7</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="prog lab"><small>9-13</small>Practicum</span><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span><span class="prog dl"><small>23:59</small>DL Python 7</span></td>
     </tr>
     <tr>
       <th>Week 8<span>14 - 18 dec</span></th>
