@@ -26,7 +26,6 @@
 
 **Contact**
 [progbg@proglab.nl](mailto:progbg@proglab.nl)
-<!-- TODO: mailbox bestaat pas na de overstap van Help Scout; anders tijdelijk het centrale adres. -->
 
 Heb je een uitzondering op de regels van het vak nodig, bijvoorbeeld door ziekte? Die
 kun je alleen bij de **docenten** krijgen, niet bij de assistenten. Mail dan naar

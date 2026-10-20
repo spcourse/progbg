@@ -1,11 +1,15 @@
 Welkom:
     Read the syllabus: /syllabus
-    Install Python [Windows]:
-        Practice using Command Line: /python/en/installing/cmd-win
-        Install Python: /python/en/installing/uv-win
-    Install Python [MacOS/Linux]:
-        Practice using Command Line: /python/en/installing/cmd-mac
-        Install Python: /python/en/installing/uv-mac
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/pais/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/pais/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/pais/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/pais/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/pais/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/pais/zed-exercise
 
 Week 1:
     Werkcolleges:
