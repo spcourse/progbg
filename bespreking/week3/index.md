@@ -1,0 +1,9 @@
+# Codebespreking week 1 en 2
+
+Vraag in één van de practica van deze week aan een van de stafleden om je code van
+week 1 en 2 te bespreken.
+
+- Heb je challenges gemaakt? Dan bespreek je die allemaal.
+- Heb je geen challenges gemaakt? Dan bespreek je een of twee van de andere opdrachten.
+
+Je moet van al je opdrachten in detail kunnen uitleggen hoe je code werkt.

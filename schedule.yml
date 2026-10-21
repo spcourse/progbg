@@ -80,6 +80,7 @@ Week 3:
         Submit: /submit/ai/week3
     "_______________________":
     Laptopcolleges:
+    "Codebespreking week 1 en 2": /bespreking/week3
     3.1 Lists:
         "Debugging [theorie]": /python/en/debugging-basics
         "Code in Style [theorie]": /python/en/style
@@ -141,6 +142,7 @@ Week 5:
         Submit: /submit/ai/week5
     "_______________________":
     Laptopcolleges:
+    "Codebespreking week 3 en 4": /bespreking/week5
     5.1 Vector Operations & Plotting:
         "[icon:people-fill] Inner Product": /gradient-descent/inner-product
         "[icon:people-fill] Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
@@ -183,6 +185,7 @@ Week 7:
         Submit: /submit/ai/week7
     "_______________________":
     Laptopcolleges:
+    "Codebespreking week 5 en 6": /bespreking/week7
     7.1 Gradient Descent:
         "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
         "[icon:people-fill] Gradient Descent": /gradient-descent/gradient-descent
