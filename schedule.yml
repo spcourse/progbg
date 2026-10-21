@@ -17,8 +17,10 @@ Week 1:
     Huiswerk:
         Neil Postman: /ais/neil_postman
         Argumenteren: /ais/week1_opzetten_argumenteren
-        "Submit huiswerk 1 [wo 28 okt]": /submit/ai/week1
-        "Submit argumenteren 1 [ma 2 nov]": /submit/argumenteren/week1
+        "[deadline: wo 28 okt]":
+        "Submit huiswerk 1": /submit/ai/week1
+        "[deadline: ma 2 nov]":
+        "Submit argumenteren 1": /submit/argumenteren/week1
     "_______________________":
     Python opdrachten:
     "[deadline: vr 30 okt]":
