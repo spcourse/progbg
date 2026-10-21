@@ -14,10 +14,11 @@ Welkom:
 Week 1:
     Werkcolleges:
     Overzicht: /ais/ai_technologie
-    "Huiswerk (deadline: wo 28 okt)":
+    Huiswerk:
         Neil Postman: /ais/neil_postman
         Argumenteren: /ais/week1_opzetten_argumenteren
-        Submit: /submit/ai/week1
+        "Submit AI huiswerk 1 (dl wo 28 okt)": /submit/ai/week1
+        "Submit Argumenteren huiswerk 1 (dl ma 2 nov)": /submit/argumenteren/week1
     "_______________________":
     Python opdrachten:
     "(deadline: vr 30 okt)":
@@ -49,10 +50,11 @@ Week 1:
 Week 2:
     Werkcolleges:
     Overzicht: /ais/ai_privacy
-    "Huiswerk (deadline: wo 4 nov)":
+    Huiswerk:
         Marijn Sax: /ais/marijn_sax
         Argumenteren: /ais/week2_identificeren_argumenteren
-        Submit: /submit/ai/week2
+        "Submit AI huiswerk 2 (dl wo 4 nov)": /submit/ai/week2
+        "Submit Argumenteren huiswerk 2 (dl ma 9 nov)": /submit/argumenteren/week2
     "_______________________":
     Laptopcolleges:
     2.1 For Loops 2:
@@ -74,10 +76,10 @@ Week 2:
 Week 3:
     Werkcolleges:
     Overzicht: /ais/ai_rechtvaardigheid
-    "Huiswerk (deadline: wo 11 nov)":
+    Huiswerk:
         "[TODO] Tekst":
         Argumenteren: /ais/week3_aannames_argumenteren
-        Submit: /submit/ai/week3
+        "Submit AI huiswerk 3 (dl wo 11 nov)": /submit/ai/week3
     "_______________________":
     Laptopcolleges:
     "Codebespreking week 1 en 2": /bespreking/week3
@@ -106,10 +108,10 @@ Week 3:
 Week 4:
     Werkcolleges:
     Overzicht: /ais/ai_milieu
-    "Huiswerk (deadline: wo 18 nov)":
+    Huiswerk:
         "[TODO] Tekst":
         Argumenteren: /ais/week4_voorbereiding_argumenteren
-        Submit: /submit/ai/week4
+        "Submit AI huiswerk 4 (dl wo 18 nov)": /submit/ai/week4
     "_______________________":
     Laptopcolleges:
     4.1 Strings:
@@ -136,10 +138,11 @@ Week 4:
 Week 5:
     Werkcolleges:
     Overzicht: /ais/ai_vertrouwen
-    "Huiswerk (deadline: wo 25 nov)":
+    Huiswerk:
         "[TODO] Tekst":
         Argumenteren: /ais/week5_betoog_argumenteren
-        Submit: /submit/ai/week5
+        "Submit AI huiswerk 5 (dl wo 25 nov)": /submit/ai/week5
+        "Submit Argumenteren huiswerk 5 (dl ma 30 nov)": /submit/argumenteren/week5
     "_______________________":
     Laptopcolleges:
     "Codebespreking week 3 en 4": /bespreking/week5
@@ -161,10 +164,11 @@ Week 5:
 Week 6:
     Werkcolleges:
     Overzicht: /ais/ai_cognitie
-    "Huiswerk (deadline: wo 2 dec)":
+    Huiswerk:
         "[TODO] Tekst":
         Argumenteren: /ais/week6_schrijven_argumenteren
-        Submit: /submit/ai/week6
+        "Submit AI huiswerk 6 (dl wo 2 dec)": /submit/ai/week6
+        "Submit Argumenteren huiswerk 6 (dl ma 7 dec)": /submit/argumenteren/week6
     "_______________________":
     Laptopcolleges:
     6.1 Read Data, Explore and Style:
@@ -179,10 +183,10 @@ Week 6:
 Week 7:
     Werkcolleges:
     Overzicht: /ais/ai_intelligentie
-    "Huiswerk (deadline: wo 9 dec)":
+    Huiswerk:
         Kurzweil: /ais/kurzweil_kapor
         Argumenteren: /ais/week7_feedback_argumenteren
-        Submit: /submit/ai/week7
+        "Submit AI huiswerk 7 (dl wo 9 dec)": /submit/ai/week7
     "_______________________":
     Laptopcolleges:
     "Codebespreking week 5 en 6": /bespreking/week7
