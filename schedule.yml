@@ -22,28 +22,27 @@ Week 1:
     Python opdrachten:
     "(deadline: vr 30 okt)":
     Python 1.1 Output:
-        Hello world: /shorts/hello
+        "[icon:people-fill] Hello world": /shorts/hello
         Submit: /submit/prog/week1/s1
     Python 1.2 Input & Arithmetic:
         "Basics [theorie]": /python/en/basics
-        Number Whiz: /numbers/en/whiz
-        Divide: /shorts/oranges
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
         Submit: /submit/prog/week1/s2
     1.3 Conditionals:
         "Algoritmes [theorie]": /python/en/algorithms
-        Less Than: /shorts/less_than
-        First Year: /shorts/first_year
-        First or Last Year: /shorts/first_or_last_year
-        Leap Year: /shorts/leap_year
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:people-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
         Submit: /submit/prog/week1/s3
     1.4 For Loops 1:
         "For Loops [theorie]": /python/en/loops/for
-        Sum: /shorts/sum
-        Leap Years: /shorts/leap_years
+        "[icon:people-fill] Sum": /shorts/sum
+        "[icon:person-fill] Leap Years": /shorts/leap_years
         Submit: /submit/prog/week1/s4
-    1.5 Challenge:
-        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+    1.5 Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
         Submit Pyramid: /submit/prog/week1/s5
 
@@ -57,19 +56,19 @@ Week 2:
     "_______________________":
     Laptopcolleges:
     2.1 For Loops 2:
-        Count Leap Years: /shorts/count_leap_years
-        Check Prime: /numbers/en/check-prime
+        "[icon:people-fill] Count Leap Years": /shorts/count_leap_years
+        "[icon:people-fill] Check Prime": /numbers/en/check-prime
         "From Σ to for [theorie]": /python/en/sigma-to-for
-        "Geometric Series": /shorts/geometric_series
+        "[icon:person-fill] Geometric Series": /shorts/geometric_series
         Submit: /submit/prog/week2/s1
     2.2 While Loops:
         "While Loops [theorie]": /python/en/loops/while
         "Voorbeelden van Loops [theorie]": /python/en/loops/practical-uses
-        Elmo: /shorts/elmo
-        Positive: /shorts/positive
-        Sum Until: /shorts/sum_until
-        Birthday: /numbers/en/birthday
-        1001 Primes: /numbers/en/n-primes
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:people-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Birthday": /numbers/en/birthday
+        "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
         Submit: /submit/prog/week2/s2
 
 Week 3:
@@ -85,22 +84,21 @@ Week 3:
         "Debugging [theorie]": /python/en/debugging-basics
         "Code in Style [theorie]": /python/en/style
         "Lists [theorie]": /python/en/lists
-        "Positive List": /shorts/positive_list
-        "Sum List": /shorts/sum_list
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Sum List": /shorts/sum_list
         "Σ over a list [theorie]": /python/en/sigma-over-list
-        "Average": /shorts/average
-        "Variance": /shorts/variance
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Variance": /shorts/variance
         Submit: /submit/prog/week3/s1
     3.2 Functions:
         "Functions [theorie]": /python/en/functions
-        Squared: /shorts/squared
+        "[icon:people-fill] Squared": /shorts/squared
         "Sum List as a function [theorie]": /python/en/sum-list-to-function
-        "Average and variance as a function": /shorts/average_variance_fn
-        "Weighted Average": /shorts/weighted_average_fn
+        "[icon:people-fill] Average and variance as a function": /shorts/average_variance_fn
+        "[icon:person-fill] Weighted Average": /shorts/weighted_average_fn
         Submit: /submit/prog/week3/s2
-    3.3 Challenge:
-        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+    3.3 Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
         Submit Goldbach: /submit/prog/week3/s3
 
@@ -115,22 +113,21 @@ Week 4:
     Laptopcolleges:
     4.1 Strings:
         "Strings [theorie]": /python/en/strings
-        Vowels: /shorts/vowels
+        "[icon:people-fill] Vowels": /shorts/vowels
         "String methods [theorie]": /python/en/string-methods
-        Tokenizer: /shorts/tokenizer
-        Vowel Words: /shorts/vowel_words
-        Text Statistics: /text/en/statistics
-        Snake Case: /shorts/snake_case
+        "[icon:people-fill] Tokenizer": /shorts/tokenizer
+        "[icon:people-fill] Vowel Words": /shorts/vowel_words
+        "[icon:people-fill] Text Statistics": /text/en/statistics
+        "[icon:person-fill] Snake Case": /shorts/snake_case
         Submit: /submit/prog/week4/s1
     4.2 Files:
         "Read Files [theorie]": /python/en/file-io
         Practice to read files: /python/en/files
-        Alice: /shorts/alice
-        Sentiment: /text/en/sentiment
+        "[icon:people-fill] Alice": /shorts/alice
+        "[icon:person-fill] Sentiment": /text/en/sentiment
         Submit: /submit/prog/week4/s2
-    4.3 Challenge:
-        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+    4.3 Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Plot [theorie]": /python/en/plotting
         "[icon:person-fill-gear] Twitter": /text/en/tweets
         Submit Twitter: /submit/prog/week4/s3
@@ -145,18 +142,17 @@ Week 5:
     "_______________________":
     Laptopcolleges:
     5.1 Vector Operations & Plotting:
-        "Inner Product": /gradient-descent/inner-product
-        "Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
-        "Apply Affine": /gradient-descent/apply-affine
-        "MSE": /gradient-descent/mse
+        "[icon:people-fill] Inner Product": /gradient-descent/inner-product
+        "[icon:people-fill] Other vector operations (add, diff, and scalar multiply)": /gradient-descent/vec-operations
+        "[icon:people-fill] Apply Affine": /gradient-descent/apply-affine
+        "[icon:people-fill] MSE": /gradient-descent/mse
         "Import modules [theorie]": /python/en/modules
         "Plot [theorie]": /python/en/plotting
-        "Plot Functions": /plot/en/plot1
-        "Plot Regression": /gradient-descent/scatter-plot
+        "[icon:people-fill] Plot Functions": /plot/en/plot1
+        "[icon:person-fill] Plot Regression": /gradient-descent/scatter-plot
         Submit: /submit/prog/week5/s1
-    5.2 Challenge:
-        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+    5.2 Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
         Submit Plot Min Max: /submit/prog/week5/s2
 
@@ -169,11 +165,11 @@ Week 6:
         Submit: /submit/ai/week6
     "_______________________":
     Laptopcolleges:
-    6.1 Style, Read Data and Explore:
-        Style: /m2-style
-        "Read Data": /gradient-descent/read-data
-        "Scatter Plot": /gradient-descent/scatter-data
-        "Manual Fitting": /gradient-descent/manual-fitting
+    6.1 Read Data, Explore and Style:
+        "[icon:people-fill] Read Data": /gradient-descent/read-data
+        "[icon:people-fill] Scatter Plot": /gradient-descent/scatter-data
+        "[icon:people-fill] Manual Fitting": /gradient-descent/manual-fitting
+        "[icon:person-fill] Style": /m2-style
         Submit: /submit/prog/week6/s1
     "6.2 HACKATHON: Build your own chatbot":
         "Setup": /gradient-descent/llm
@@ -189,11 +185,10 @@ Week 7:
     Laptopcolleges:
     7.1 Gradient Descent:
         "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
-        "Gradient Descent": /gradient-descent/gradient-descent
-        "Visualise Learning": /gradient-descent/visualise-learning
+        "[icon:people-fill] Gradient Descent": /gradient-descent/gradient-descent
+        "[icon:person-fill] Visualise Learning": /gradient-descent/visualise-learning
         Submit: /submit/prog/week7/s1
-    7.2 Challenge:
-        "De challenges zijn optioneel. Je hebt ze niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "Elke challenge moet in persoon besproken worden voor een cijfer!":
+    7.2 Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "[icon:person-fill-gear] Conway's Game of Life": /algorithms/en/conway
         Submit Conway: /submit/prog/week7/s2

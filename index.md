@@ -16,7 +16,7 @@
   <tr><td><br>Chi Shing</td><td>TODO: bio.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/lara.jpg" style="max-width:90px" width = "150"><br>Lara</td><td>Lara is derdejaars student Kunstmatige Intelligentie en Onderwijskunde aan de Universiteit van Amsterdam. Ze vindt vooral de combinatie van technologie en onderwijs interessant, en onderzoekt graag hoe die elkaar kunnen aanvullen. Naast haar studie speelt ze graag piano, danst ze en spreekt ze af met vrienden.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/roos.jpg" style="max-width:90px" width = "150"><br>Roos</td><td>Roos is tweedejaars bèta-gammastudent met de major kunstmatige intelligentie. Ze komt uit Bussum, ging in Amsterdam naar de middelbare school en woont nu in Amsterdam-Oost. In haar vrije tijd kookt en zwemt ze graag, en ze is actief bij Spectrum.</td></tr>
-  <tr><td><br>Reinder</td><td>TODO: bio.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/reinder.jpg" style="max-width:90px" width = "150"><br>Reinder</td><td>Reinder is een tweedejaars Bèta-gamma student met de major Wiskunde. Na een jaar Technische Informatica aan de TU Delft te hebben gestudeerd bleek de interesse toch meer te liggen in de wiskunde vakken. Als de drukte van studeren het toelaat houdt hij ook erg van zeilen en gitaar spelen.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/katrin.jpg" style="max-width:90px" width = "150"><br>Katrin</td><td>Katrin studeerde Wiskunde en Computationele Taalkunde in Berlijn en Stuttgart en deed daarna de Master of Logic aan de Universiteit van Amsterdam. Zij is hier ook gepromoveerd en werkt nu als Universitair Hoofddocent bij het ILLC. Katrin doet onderzoek op het raakvlak van cognitie, KI en taal, bijvoorbeeld over het ontstaan van stereotypen en biases bij mensen en in taalmodellen.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/arja.jpg" style="max-width:90px" width = "150"><br>Arja</td><td>Arja studeerde Bèta-Gamma en deed daarna de master Computational Science aan de Universiteit van Amsterdam. Ze schreef haar proefschrift bij het AmsterdamUMC over de comorbiditeit van depressie en cardiometabole ziektes, waar ze gebruikmaakte van netwerkanalyses en machine learning algoritmes. Ze is nu docent bètavakken bij het IIS.</td></tr>
   <tr><td><img src = "https://github.com/spcourse/progbg/raw/2026/team/daniel.jpg" style="max-width:90px" width = "150"><br>Daniël</td><td>Daniël is docent bij het IIS en geeft les bij Bèta-Gamma en Future Planet Studies. Gefascineerd door de natuurlijke én de digitale wereld studeerde hij zowel Aardwetenschappen als Data Science. In zijn onderzoek komen deze twee werelden samen en gebruikt hij machine learning algoritmes om de natuur beter te kunnen monitoren en beschermen tegen de toenemende druk van menselijke activiteiten en klimaatverandering.</td></tr>
@@ -58,14 +58,6 @@ elkaar komen:
 Je hebt geen programmeerervaring nodig. Je moet wel een eigen laptop meenemen.
 
 ### Rooster {#rooster}
-
-<!-- TODO: nalopen.
-     - Aanname: het hoorcollege op maandag (G2.10) is AI en Samenleving, dat op dinsdag
-       (C0.110) is Programmeren. In week 6 en 7 verschuift het maandagcollege.
-     - Vr 27 nov (werkcollege) en vr 4 dec (practicum/hackathon) volgen het verzoek aan
-       Belen; DataNose heeft ze nu nog andersom.
-     - Huiswerk AIS: nu elke woensdag van week 1-7 ingevuld. Klopt dat?
-     - Opdracht argumentatie (maandag): in welke weken? Nog niet in het rooster. -->
 
 <p class="legend">Hieronder staat het rooster per week. Je groep (1, 2 of 3) en de zalen
 van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[147797]">DataNose</a>.<br>
