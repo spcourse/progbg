@@ -1,15 +1,15 @@
 Welkom:
-    Read the syllabus: /syllabus
-    Installation Windows:
+    Lees de studiewijzer: /syllabus
+    Installatie Windows:
         Command line (Windows): /python/en/installing/uv/cli-win
-        Exercise 1, course folders: /python/en/installing/uv/pais/cli-exercise
-        Python setup with uv (Windows): /python/en/installing/uv/pais/install-win
-        Exercise 2, first files in Zed: /python/en/installing/uv/pais/zed-exercise
-    Installation macOS/Linux:
+        Opdracht 1, folders maken: /python/en/installing/uv/pais/cli-exercise
+        Python en Zed setup (Windows): /python/en/installing/uv/pais/install-win
+        Opdracht 2, eerste bestand in Zed: /python/en/installing/uv/pais/zed-exercise
+    Installatie macOS/Linux:
         Command line (macOS/Linux): /python/en/installing/uv/cli-mac
-        Exercise 1, course folders: /python/en/installing/uv/pais/cli-exercise
-        Python setup with uv (macOS/Linux): /python/en/installing/uv/pais/install-mac
-        Exercise 2, first files in Zed: /python/en/installing/uv/pais/zed-exercise
+        Opdracht 1, folders maken: /python/en/installing/uv/pais/cli-exercise
+        Python en Zed setup (macOS/Linux): /python/en/installing/uv/pais/install-mac
+        Opdracht 2, eerste bestand in Zed: /python/en/installing/uv/pais/zed-exercise
 
 Week 1:
     Werkcolleges:
