@@ -15,12 +15,13 @@ Week 1:
     Werkcolleges:
     Overzicht: /ais/ai_technologie
     Huiswerk:
-        Neil Postman: /ais/neil_postman
-        Argumenteren: /ais/week1_opzetten_argumenteren
         "[deadline: wo 28 okt]":
-        "Submit huiswerk 1": /submit/ai/week1
+        Neil Postman: /ais/neil_postman
+        "Submit": /submit/ai/week1
+    Argumenteren:
         "[deadline: ma 2 nov]":
-        "Submit argumenteren 1": /submit/argumenteren/week1
+        Argumenteren: /ais/week1_opzetten_argumenteren
+        "Submit": /submit/argumenteren/week1
     "_______________________":
     Python opdrachten:
     "[deadline: vr 30 okt]":
