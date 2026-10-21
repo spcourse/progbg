@@ -151,8 +151,8 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
 - **Werkcolleges** (do). Hier bespreken we de literatuur, het huiswerk en oefen je met
   argumenteren. De tussentoets argumentatie is in het werkcollege van week 4.
 - **Computerpractica** (di en vr). Hier werk je aan de programmeeropdrachten en kun je
-  vragen stellen aan de assistenten. In de oneven weken bespreek je hier je code (zie
-  [beoordeling](#beoordeling)).
+  vragen stellen aan de assistenten. In week 3, 5 en 7 bespreek je hier je code van de
+  twee weken ervoor (zie [beoordeling](#beoordeling)).
 - **Hackathon** (vr 4 dec). In gemengde groepjes van vier bouw je je eigen chatbot rond
   een taalmodel dat lokaal op je laptop draait. De opdracht krijg je die dag op papier.
 
@@ -255,9 +255,10 @@ iedereen.
 
 - Met **checkpy** kun je je werk zelf testen voordat je het inlevert. We verwachten dat
   alle tests slagen.
-- In de **oneven weken** (1, 3, 5 en 7) bespreek je je code in het practicum met een
-  assistent. Pas daarna telt de opdracht mee. We letten vooral op of alles klopt, maar
-  je krijgt ook feedback op de kwaliteit van je code.
+- In **week 3, 5 en 7** bespreek je in het practicum met een assistent je code van de
+  twee weken ervoor (week 1–2, 3–4 en 5–6). Pas daarna telt de opdracht mee. We letten
+  vooral op of alles klopt, maar je krijgt ook feedback op de kwaliteit van je code.
+  Je code van week 7 bespreek je niet.
 - Je cijfer hangt af van het aantal goed gemaakte opdrachten. Met alle basisopdrachten
   goed haal je een 7. Elke challenge levert 1 tot 1,5 punt extra op.
 
