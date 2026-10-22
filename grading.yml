@@ -67,6 +67,18 @@ grades:
     5argumenteren: *manual
     6argumenteren: *manual
 
+
+afgetekend:
+    show_progress: true
+    submits:
+        1afgetekend: 1
+        2afgetekend: 1
+        3afgetekend: 1
+        4afgetekend: 1
+        5afgetekend: 1
+        6afgetekend: 1
+        7afgetekend: 1
+
 huiswerk:
     show_progress: true
     submits:
@@ -108,14 +120,3 @@ python-submits:
         6_1prog: 1
         7_1prog: 1
         7_2prog: 1
-
-afgetekend:
-    show_progress: true
-    submits:
-        1afgetekend: 1
-        2afgetekend: 1
-        3afgetekend: 1
-        4afgetekend: 1
-        5afgetekend: 1
-        6afgetekend: 1
-        7afgetekend: 1
