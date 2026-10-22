@@ -1,4 +1,4 @@
-name: prog_1_5
+name: 1_5prog
 files:
     required:
         - pyramid.py

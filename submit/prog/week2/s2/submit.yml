@@ -1,4 +1,4 @@
-name: prog_2_2
+name: 2_2prog
 files:
     required:
         - elmo.py

@@ -1,4 +1,4 @@
-name: prog_7_1
+name: 7_1prog
 files:
     required:
         - gradient_descent.py

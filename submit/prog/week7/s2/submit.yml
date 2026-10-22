@@ -1,4 +1,4 @@
-name: prog_7_2
+name: 7_2prog
 files:
     required:
         - conway.py

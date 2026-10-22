@@ -1,5 +1,5 @@
 templates:
-    1: &automatic-publish
+    1: &python-auto
         type: float
         subgrades:
             deelcijfer: float
@@ -9,238 +9,113 @@ templates:
         auto_publish: true
         hide_calculated: true
         hide_subgrades: false
-    
-    2: &automatic-check
+
+    # booleans are -1 when ticked: base = 7, challenge adds 3
+    2: &python-discuss
         type: float
         subgrades:
-            deelcijfer: float
-            besproken: boolean
-        automatic:
-            deelcijfer: (correctness_score * 10).floor
-        calculation: besproken == -1 && deelcijfer || 0
+            base_correct: boolean
+            challenge_correct: boolean
+        calculation: base_correct * -7.0 + challenge_correct * -3.0
         auto_publish: false
-        hide_calculated: true
+        hide_calculated: false
         hide_subgrades: false
 
-    3: &manual-check
+    # no subgrades, so the TA enters the grade itself
+    3: &manual
         type: float
-        subgrades:
-            deelcijfer: float
-            besproken: boolean
-        automatic:
-            deelcijfer: "10"
-        calculation: besproken == -1 && deelcijfer || 0
         auto_publish: false
-        hide_calculated: true
-        hide_subgrades: false
-
-    4: &testt
-        type: float
-        subgrades:
-            checkpy: float
-        automatic:
-            checkpy: correctness_score * 9 + 1
-        calculation: checkpy
-        auto_publish: true
-        hide_calculated: true
-        hide_subgrades: false
-
-    5: &exam
-        type: float
-        subgrades:
-            checkpy: float
-            cijfer: float
-        calculation: cijfer
-        automatic:
-            checkpy: correctness_score * 100
-        auto_publish: false
-        hide_calculated: true
-        hide_subgrades: false
 
 grades:
-    1_1n:
-        <<: *automatic-publish
-        deadline: 28/10/25 23:59
-    1_2n:
-        <<: *automatic-publish
-        deadline: 28/10/25 23:59
-    1_3n:
-        <<: *automatic-publish
-        deadline: 29/10/25 23:59
-    1_4n:
-        <<: *automatic-publish
-        deadline: 29/10/25 23:59
-    1_5n:
-        <<: *automatic-publish
-        deadline: 04/11/25 23:59
-    1_6n:
-        <<: *automatic-check
-        deadline: 05/11/25 23:59
-    c11-goldbach:
-        <<: *automatic-check
-        deadline: 07/11/25 23:59
-    c12-amicable:
-        <<: *automatic-check
-        deadline: 07/11/25 23:59
-    c13-eratosthenes:
-        <<: *automatic-check
-        deadline: 07/11/25 23:59
+    1_1prog: *python-auto
+    1_2prog: *python-auto
+    1_3prog: *python-auto
+    1_4prog: *python-auto
+    1_5prog: *python-auto
+    2_1prog: *python-auto
+    2_2prog: *python-auto
+    3_1prog: *python-auto
+    3_2prog: *python-auto
+    3_3prog: *python-auto
+    4_1prog: *python-auto
+    4_2prog: *python-auto
+    4_3prog: *python-auto
+    5_1prog: *python-auto
+    5_2prog: *python-auto
+    6_1prog: *python-auto
+    7_1prog: *python-auto
+    7_2prog: *python-auto
 
-    2_1t:
-        <<: *automatic-publish
-        deadline: 11/11/25 23:59
-    2_2t:
-        <<: *automatic-publish
-        deadline: 11/11/25 23:59
-    2_3t:
-        <<: *automatic-publish
-        deadline: 12/11/25 23:59
-    2_4t:
-        <<: *automatic-publish
-        deadline: 12/11/25 23:59
-    2_5t:
-        <<: *automatic-publish
-        deadline: 21/11/25 23:59
-    2_6t:
-        <<: *automatic-check
-        deadline: 21/11/25 23:59
-    c21-twitter:
-        <<: *manual-check
-        deadline: 21/11/25 23:59
-    c22-reformatting:
-        <<: *automatic-check
-        deadline: 21/11/25 23:59
-    c23-plot-min-max:
-        <<: *manual-check
-        deadline: 21/11/25 23:59
+    1afgetekend: *python-discuss
+    2afgetekend: *python-discuss
+    3afgetekend: *python-discuss
+    4afgetekend: *python-discuss
+    5afgetekend: *python-discuss
+    6afgetekend: *python-discuss
+    7afgetekend: *python-discuss
 
+    1ai: *manual
+    2ai: *manual
+    3ai: *manual
+    4ai: *manual
+    5ai: *manual
+    6ai: *manual
+    7ai: *manual
 
-    3_1m:
-        <<: *automatic-publish
-        deadline: 25/11/25 23:59
-    3_2m:
-        <<: *automatic-publish
-        deadline: 28/11/25 23:59
-    3_3m:
-        <<: *automatic-publish
-        deadline: 28/11/25 23:59
-    3_4m:
-        <<: *automatic-publish
-        deadline: 02/12/25 23:59
-    3_5m:
-        <<: *automatic-check
-        deadline: 09/12/25 23:59
-    c31-weather5:
-        <<: *automatic-check
-        deadline: 09/12/25 23:59
-    c32-datastructures1:
-        <<: *automatic-check
-        deadline: 09/12/25 23:59
-    c33-datastructures2:
-        <<: *automatic-check
-        deadline: 09/12/25 23:59
+    1argumenteren: *manual
+    2argumenteren: *manual
+    5argumenteren: *manual
+    6argumenteren: *manual
 
-    practice_bg: *testt
-    oefententamen: *testt
-    oefententamen2: *testt
-
-    tentamen: *exam
-    hertentamen: *exam
-
-aftekenen-basis:
+huiswerk:
     show_progress: true
     submits:
-        1_6n: 10
-        2_6t: 10
-        3_5m: 10
+        1ai: 1
+        2ai: 1
+        3ai: 1
+        4ai: 1
+        5ai: 1
+        6ai: 1
+        7ai: 1
 
-aftekenen-challenges:
+argumenteren:
     show_progress: true
     submits:
-        c11-goldbach: 10
-        c12-amicable: 10
-        c13-eratosthenes: 10
-        c21-twitter: 10
-        c22-reformatting: 10
-        c23-plot-min-max: 10
-        c31-weather5: 10
-        c32-datastructures1: 10
-        c33-datastructures2: 10
+        1argumenteren: 1
+        2argumenteren: 1
+        5argumenteren: 1
+        6argumenteren: 1
 
-opdrachten-m1:
-    fill_missing: 0
+python-submits:
     show_progress: true
     small_block_overview: true
     submits:
-        1_1n: 20
-        1_2n: 10
-        1_3n: 10
-        1_4n: 10
-        1_5n: 10
-        1_6n: 10
-        c11-goldbach: 10
-        c12-amicable: 10
-        c13-eratosthenes: 10
+        1_1prog: 1
+        1_2prog: 1
+        1_3prog: 1
+        1_4prog: 1
+        1_5prog: 1
+        2_1prog: 1
+        2_2prog: 1
+        3_1prog: 1
+        3_2prog: 1
+        3_3prog: 1
+        4_1prog: 1
+        4_2prog: 1
+        4_3prog: 1
+        5_1prog: 1
+        5_2prog: 1
+        6_1prog: 1
+        7_1prog: 1
+        7_2prog: 1
 
-opdrachten-m2:
-    fill_missing: 0
-    show_progress: true
-    small_block_overview: true
-    submits:
-        2_1t: 20
-        2_2t: 10
-        2_3t: 10
-        2_4t: 10
-        2_5t: 10
-        2_6t: 10
-        c21-twitter: 10
-        c22-reformatting: 10
-        c23-plot-min-max: 10
-
-opdrachten-m3:
-    fill_missing: 0
-    show_progress: true
-    small_block_overview: true
-    submits:
-        3_1m: 30
-        3_2m: 10
-        3_3m: 10
-        3_4m: 10
-        3_5m: 10
-        c31-weather5: 10
-        c32-datastructures1: 10
-        c33-datastructures2: 10
-
-practice:
+afgetekend:
     show_progress: true
     submits:
-        practice_bg: 1
-        oefententamen: 1 
-        oefententamen2: 1
-
-
-tentamen:
-    minimum: 5.5
-    show_progress: true
-    required: true
-    submits:
-        tentamen: 1
-
-hertentamen:
-    minimum: 5.5
-    show_progress: true
-    required: true
-    submits:
-        hertentamen: 1
-
-calculation:
-    m1-final:
-        opdrachten-m1: 1
-    m2-final:
-        opdrachten-m2: 1
-    m3-final:
-        opdrachten-m3: 1
-    tent-final:
-        tentamen: 1
-    her-final:
-        hertentamen: 1
+        1afgetekend: 1
+        2afgetekend: 1
+        3afgetekend: 1
+        4afgetekend: 1
+        5afgetekend: 1
+        6afgetekend: 1
+        7afgetekend: 1

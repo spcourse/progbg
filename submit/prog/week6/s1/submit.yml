@@ -1,4 +1,4 @@
-name: prog_6_1
+name: 6_1prog
 files:
     required:
         - read_data.py

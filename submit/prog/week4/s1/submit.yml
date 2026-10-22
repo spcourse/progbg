@@ -1,4 +1,4 @@
-name: prog_4_1
+name: 4_1prog
 files:
     required:
         - vowels.py

@@ -1,4 +1,4 @@
-name: prog_2_1
+name: 2_1prog
 files:
     required:
         - count_leap_years.py

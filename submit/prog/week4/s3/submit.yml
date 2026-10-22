@@ -1,4 +1,4 @@
-name: prog_4_3
+name: 4_3prog
 files:
     required:
         - twitter.py
