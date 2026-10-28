@@ -14,9 +14,9 @@ templates:
     2: &python-discuss
         type: float
         subgrades:
-            base_correct: boolean
+            basis_opdrachten_correct: boolean
             challenge_correct: boolean
-        calculation: base_correct * -7.0 + challenge_correct * -3.0
+        calculation: basis_opdrachten_correct * -7.0 + challenge_correct * -3.0
         auto_publish: false
         hide_calculated: false
         hide_subgrades: false
@@ -29,8 +29,8 @@ templates:
     4: &check
         type: pass
         subgrades:
-          passed: boolean
-        calculation: passed
+          gehaald: boolean
+        calculation: gehaald
         auto_publish: true
         hide_calculated: true
         hide_subgrades: false
