@@ -43,6 +43,7 @@ grades:
     1_5prog: *python-auto
     2_1prog: *python-auto
     2_2prog: *python-auto
+    2_3prog: *python-auto
     3_1prog: *python-auto
     3_2prog: *python-auto
     3_3prog: *python-auto
@@ -118,6 +119,7 @@ python-submits:
         1_5prog: 1
         2_1prog: 1
         2_2prog: 1
+        2_3prog: 1
         3_1prog: 1
         3_2prog: 1
         3_3prog: 1
