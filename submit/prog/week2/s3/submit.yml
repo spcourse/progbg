@@ -1,0 +1,8 @@
+name: 2_3prog
+files:
+    required:
+        - roshambo.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: roshambo

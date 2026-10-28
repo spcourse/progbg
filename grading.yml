@@ -26,6 +26,15 @@ templates:
         type: float
         auto_publish: false
 
+    4: &check
+        type: pass
+        subgrades:
+          passed: boolean
+        calculation: passed
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
+
 grades:
     1_1prog: *python-auto
     1_2prog: *python-auto
@@ -54,18 +63,18 @@ grades:
     6afgetekend: *python-discuss
     7afgetekend: *python-discuss
 
-    1ai: *manual
-    2ai: *manual
-    3ai: *manual
-    4ai: *manual
-    5ai: *manual
-    6ai: *manual
-    7ai: *manual
+    1ai: *check
+    2ai: *check
+    3ai: *check
+    4ai: *check
+    5ai: *check
+    6ai: *check
+    7ai: *check
 
-    1argumenteren: *manual
-    2argumenteren: *manual
-    5argumenteren: *manual
-    6argumenteren: *manual
+    1argumenteren: *check
+    2argumenteren: *check
+    5argumenteren: *check
+    6argumenteren: *check
 
 
 afgetekend:
