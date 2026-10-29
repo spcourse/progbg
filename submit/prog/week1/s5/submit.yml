@@ -1,8 +1,8 @@
 name: 1_5prog
 files:
     required:
-        - pyramid.py
+        - mario.py
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: pyramid
+    args: mario
