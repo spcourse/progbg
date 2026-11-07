@@ -91,10 +91,10 @@ Week 3:
     Overzicht: /ais/ai_rechtvaardigheid
     Huiswerk:
         "[deadline: wo 11 nov]":
-        "[TODO] Tekst":
+        Classificatie & Gradient Descent: /ais/classificatie_gradient_descent
         "Submit": /submit/ai/week3
     Argumenteren:
-        Argumenteren: /ais/week3_aannames_argumenteren
+        Argumenteren: /ais/week3_voorbereiding_argumenteren
     "_______________________":
     Python opdrachten:
     "[deadline: vr 13 nov]":
