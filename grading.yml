@@ -21,12 +21,24 @@ templates:
         hide_calculated: false
         hide_subgrades: false
 
+    # booleans are -1 when ticked: base = 7, challenge adds 3
+    3: &python-discuss-2c
+        type: float
+        subgrades:
+            basis_opdrachten_correct: boolean
+            challenge_A_correct: boolean
+            challenge_B_correct: boolean
+        calculation: basis_opdrachten_correct * -7.0 + challenge_A_correct * -1.5 + challenge_B_correct * -1.5
+        auto_publish: false
+        hide_calculated: false
+        hide_subgrades: false
+
     # no subgrades, so the TA enters the grade itself
-    3: &manual
+    4: &manual
         type: float
         auto_publish: false
 
-    4: &check
+    5: &check
         type: pass
         subgrades:
           gehaald: boolean
@@ -59,7 +71,7 @@ grades:
 
     1afgetekend: *python-discuss
     2afgetekend: *python-discuss
-    3afgetekend: *python-discuss
+    3afgetekend: *python-discuss-2c
     4afgetekend: *python-discuss
     5afgetekend: *python-discuss
     6afgetekend: *python-discuss
