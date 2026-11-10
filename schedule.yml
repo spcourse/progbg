@@ -116,7 +116,11 @@ Week 3:
         "[icon:people-fill] Average and variance as a function": /shorts/average_variance_fn
         "[icon:person-fill] Weighted Average": /shorts/weighted_average_fn
         Submit: /submit/prog/week3/s2
-    3.3 Challenge [optional!]:
+    3.3a Challenge [optional!]:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "[icon:person-fill-gear] List Primes": /numbers/en/primelist-fn
+        Submit List Primes: /submit/prog/week3/s3a
+    3.3b Challenge [optional!]:
         "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
         Submit Goldbach: /submit/prog/week3/s3

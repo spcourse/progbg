@@ -1,0 +1,8 @@
+name: 3_3aprog
+files:
+    required:
+        - list_primes.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: list_primes

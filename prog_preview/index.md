@@ -89,7 +89,12 @@ individuele opdracht, *(challenge)* = optioneel, wel nodig voor een cijfer hoger
 * [Weighted Average](/shorts/weighted_average_fn) *(individueel)*
 * [Submit](/submit/prog/week3/s2)
 
-**3.3 Challenge**
+**3.3a Challenge**
+
+* [List Primes](/numbers/en/primelist-fn) *(challenge)*
+* [Submit List Primes](/submit/prog/week3/s3a)
+
+**3.3b Challenge**
 
 * [Goldbach](/numbers/en/goldbach) *(challenge)*
 * [Submit Goldbach](/submit/prog/week3/s3)
