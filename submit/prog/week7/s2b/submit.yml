@@ -1,0 +1,8 @@
+name: 7_2bprog
+files:
+    required:
+        - logistic.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: logistic

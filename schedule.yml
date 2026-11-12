@@ -233,7 +233,11 @@ Week 7:
         "[icon:people-fill] Gradient Descent": /gradient-descent/gradient-descent
         "[icon:person-fill] Visualise Learning": /gradient-descent/visualise-learning
         Submit: /submit/prog/week7/s1
-    7.2 Challenge:
+    7.2a Challenge:
         "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
-        "[icon:person-fill-gear] Conway's Game of Life": /algorithms/en/conway
-        Submit Conway: /submit/prog/week7/s2
+        "[icon:person-fill-gear] Centring": /gradient-descent/centring
+        Submit Centring: /submit/prog/week7/s2a
+    7.2b Challenge:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "[icon:person-fill-gear] Logistic Regression": /gradient-descent/logistic
+        Submit Logistic Regression: /submit/prog/week7/s2b

@@ -68,7 +68,8 @@ grades:
     5_2prog: *python-auto
     6_1prog: *python-auto
     7_1prog: *python-auto
-    7_2prog: *python-auto
+    7_2aprog: *python-auto
+    7_2bprog: *python-auto
 
     1afgetekend: *python-discuss
     2afgetekend: *python-discuss
@@ -76,7 +77,7 @@ grades:
     4afgetekend: *python-discuss-2c
     5afgetekend: *python-discuss
     6afgetekend: *python-discuss
-    7afgetekend: *python-discuss
+    7afgetekend: *python-discuss-2c
 
     1ai: *check
     2ai: *check
@@ -146,4 +147,5 @@ python-submits:
         5_2prog: 1
         6_1prog: 1
         7_1prog: 1
-        7_2prog: 1
+        7_2aprog: 1
+        7_2bprog: 1
