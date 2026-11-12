@@ -229,9 +229,7 @@ Week 7:
     "[deadline: vr 11 dec]":
     "Codebespreking week 5 en 6": /bespreking/week7
     7.1 Gradient Descent:
-        "[TODO]Gradient Descent [theorie]": /gradient-descent/theorie
-        "[icon:people-fill] Gradient Descent": /gradient-descent/gradient-descent
-        "[icon:person-fill] Visualize Learning": /gradient-descent/visualize-learning
+        "[icon:person-fill] Gradient Descent": /gradient-descent/gradient-descent
         Submit: /submit/prog/week7/s1
     7.2a Challenge:
         "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
