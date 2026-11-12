@@ -152,11 +152,15 @@ Week 4:
         "[icon:people-fill] Alice": /shorts/alice
         "[icon:person-fill] Sentiment": /text/en/sentiment
         Submit: /submit/prog/week4/s2
-    4.3 Challenge:
+    4.3a Challenge:
         "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
         "Plot [theorie]": /python/en/plotting
         "[icon:person-fill-gear] Twitter": /text/en/tweets
         Submit Twitter: /submit/prog/week4/s3
+    4.3b Challenge:
+        "Niet nodig voor een voldoende, maar wel voor een hoog cijfer":
+        "[icon:person-fill-gear] Align": /text/en/align
+        Submit Align: /submit/prog/week4/s3b
 
 Week 5:
     Werkcolleges:

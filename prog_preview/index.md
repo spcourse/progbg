@@ -120,11 +120,16 @@ individuele opdracht, *(challenge)* = optioneel, wel nodig voor een cijfer hoger
 * [Sentiment](/text/en/sentiment) *(individueel)*
 * [Submit](/submit/prog/week4/s2)
 
-**4.3 Challenge**
+**4.3a Challenge**
 
 * [Plot](/python/en/plotting) [theorie]
 * [Twitter](/text/en/tweets) *(challenge)*
 * [Submit Twitter](/submit/prog/week4/s3)
+
+**4.3b Challenge**
+
+* [Align](/text/en/align) *(challenge)*
+* [Submit Align](/submit/prog/week4/s3b)
 
 ## Week 5
 

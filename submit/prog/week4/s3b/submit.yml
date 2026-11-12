@@ -1,0 +1,8 @@
+name: 4_3bprog
+files:
+    required:
+        - align.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: align
