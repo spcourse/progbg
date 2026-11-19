@@ -87,7 +87,7 @@ van de werkcolleges en practica vind je in <a href="https://datanose.nl/#course[
     </tr>
     <tr>
       <th>Week 5<span>23 - 27 nov</span></th>
-      <td><span class="ais lec"><small>11-13; G2.10</small>HC: Neurale Netwerken</span></td><td><span class="prog lec"><small>9-11; C0.110</small>HC: Vectoren en plotten</span><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 5</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="ais wc"><small>9-13</small>Werkcollege: betoog schrijven</span><span class="prog dl"><small>23:59</small>DL Python 5</span></td>
+      <td><span class="ais lec"><small>11-13; G2.10</small>HC: Neurale Netwerken</span></td><td><span class="prog lab"><small>11-15</small>Practicum</span></td><td><span class="ais dl"><small>23:59</small>DL AI huiswerk 5</span></td><td><span class="ais wc"><small>13-15 of 15-17</small>Werkcollege</span></td><td><span class="ais wc"><small>9-13</small>Werkcollege: betoog schrijven</span><span class="prog dl"><small>23:59</small>DL Python 5</span></td>
     </tr>
     <tr>
       <th>Week 6<span>30 nov - 4 dec</span></th>
