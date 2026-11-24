@@ -127,7 +127,7 @@ argumenteren:
 
 tentamens:
     show_progress: true
-    submit:
+    submits:
         tussentoets: 1
 
 python-submits:
