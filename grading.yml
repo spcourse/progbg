@@ -34,9 +34,12 @@ templates:
         hide_subgrades: false
 
     4: &manual
-        type: float
-        auto_publish: true
-        is_test: true
+    type: float
+    subgrades:
+        cijfer: float
+    calculation: cijfer
+    hide_calculated: true
+    is_test: true
 
     5: &check
         type: pass
