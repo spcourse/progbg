@@ -33,10 +33,10 @@ templates:
         hide_calculated: false
         hide_subgrades: false
 
-    # no subgrades, so the TA enters the grade itself
     4: &manual
         type: float
-        auto_publish: false
+        auto_publish: true
+        is_test: true
 
     5: &check
         type: pass
@@ -92,6 +92,8 @@ grades:
     5argumenteren: *check
     6argumenteren: *check
 
+    tussentoets: *manual
+
 
 afgetekend:
     show_progress: true
@@ -122,6 +124,11 @@ argumenteren:
         2argumenteren: 1
         5argumenteren: 1
         6argumenteren: 1
+
+tentamens:
+    show_progress: true
+    submit:
+        tussentoets: 1
 
 python-submits:
     show_progress: true
